@@ -73,4 +73,6 @@
 
 ---
 
+## FUTURE: Upgrade to Firebase Blaze plan for on-demand per-user scraping via Cloud Functions
+
 ## BUILD ORDER: P0 → P3 → P1 → P2 → P4 → P5 → P6
