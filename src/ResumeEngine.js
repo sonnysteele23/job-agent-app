@@ -265,12 +265,21 @@ export default function ResumeEngine({ userId }) {
       setRawText(text);
       return text;
     }
-    return new Promise((resolve) => {
+    // Determine media type — fall back based on extension if browser returns empty type
+    let mediaType = file.type;
+    if (!mediaType) {
+      const ext = file.name.split('.').pop().toLowerCase();
+      if (ext === 'pdf') mediaType = 'application/pdf';
+      else if (ext === 'docx') mediaType = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document';
+      else mediaType = 'application/octet-stream';
+    }
+    return new Promise((resolve, reject) => {
       const reader = new FileReader();
       reader.onload = () => {
         const base64 = reader.result.split(',')[1];
-        resolve({ base64, mediaType: file.type, fileName: file.name });
+        resolve({ base64, mediaType, fileName: file.name });
       };
+      reader.onerror = () => reject(new Error('Failed to read file'));
       reader.readAsDataURL(file);
     });
   };
@@ -312,6 +321,11 @@ Fill in all fields you can find. For metrics, extract EVERY quantified achieveme
           messages
         }),
       });
+      if (!r.ok) {
+        const errBody = await r.text();
+        console.error('API error response:', r.status, errBody);
+        throw new Error(`API returned ${r.status}`);
+      }
       const d = await r.json();
       const text = d.content?.map(c => c.text || '').join('') || '';
       const clean = text.replace(/```json\n?|```\n?/g, '').trim();
@@ -321,7 +335,8 @@ Fill in all fields you can find. For metrics, extract EVERY quantified achieveme
       persist(parsed, assessment, rawText, fileName, rewriteResult);
     } catch (err) {
       console.error('Parse error:', err);
-      setResumeData({ error: 'Failed to parse resume. Try a different format or paste the text directly.' });
+      const msg = err?.message || String(err);
+      setResumeData({ error: `Failed to parse resume: ${msg}. Try a different format or paste the text directly.` });
     }
     setParsing(false);
   };
