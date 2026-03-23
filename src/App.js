@@ -363,6 +363,8 @@ export default function App() {
   const filtered = useMemo(() => {
     return allJobs
       .map(j => ({ ...j, _match: computeMatchScore(j, userResume) }))
+      // Only show jobs with a meaningful match when user has a resume
+      .filter(j => !userResume || (j._match != null && j._match >= 20))
       .filter(j => statusFilter === 'all' || j._s === statusFilter || (statusFilter === 'new' && j._new))
       .filter(j => companyFilter === 'all' || j.company === companyFilter)
       .filter(j => tagFilter === 'all' || (j.tags || []).includes(tagFilter))
@@ -376,19 +378,28 @@ export default function App() {
       })
       .filter(j => !search || `${j.title} ${j.company} ${j.description}`.toLowerCase().includes(search.toLowerCase()))
       .sort((a, b) => {
-        if (sortBy === 'match') return (b._match || 0) - (a._match || 0);
-        if (sortBy === 'newest') return new Date(b.postedAt) - new Date(a.postedAt);
-        if (sortBy === 'oldest') return new Date(a.postedAt) - new Date(b.postedAt);
-        if (sortBy === 'company') return a.company.localeCompare(b.company);
+        // Default to Best Match when user has resume
+        const effectiveSort = (userResume && sortBy === 'newest') ? 'match' : sortBy;
+        if (effectiveSort === 'match') return (b._match || 0) - (a._match || 0);
+        if (effectiveSort === 'newest') return new Date(b.postedAt) - new Date(a.postedAt);
+        if (effectiveSort === 'oldest') return new Date(a.postedAt) - new Date(b.postedAt);
+        if (effectiveSort === 'company') return a.company.localeCompare(b.company);
         return 0;
       });
   }, [allJobs, userResume, statusFilter, companyFilter, tagFilter, ageFilter, search, sortBy]);
 
+  const matchedJobs = useMemo(() => {
+    if (!userResume) return [];
+    return allJobs
+      .map(j => ({ ...j, _match: computeMatchScore(j, userResume) }))
+      .filter(j => j._match != null && j._match >= 20);
+  }, [allJobs, userResume]);
+
   const stats = useMemo(() => ({
-    total: allJobs.length, new_count: allJobs.filter(j => j._new).length,
+    total: matchedJobs.length, new_count: matchedJobs.filter(j => j._new).length,
     drafted: allJobs.filter(j => j._s === 'drafted').length,
     applied: allJobs.filter(j => j._s === 'applied').length,
-  }), [allJobs]);
+  }), [matchedJobs, allJobs]);
 
   const genLetter = async (job, jd) => {
     const sys = buildSmartSystem(userResume);
@@ -515,7 +526,7 @@ export default function App() {
         {/* ─── Status Tiles ─── */}
         <div style={{ display:'grid', gridTemplateColumns:'repeat(4,1fr)', gap:10, marginBottom:22 }}>
           {[
-            { l:'Total',   v:stats.total,     c:T.mint },
+            { l:'Matched', v:stats.total,     c:T.mint },
             { l:'New',     v:stats.new_count,  c:T.gold },
             { l:'Drafted', v:stats.drafted,    c:T.light },
             { l:'Applied', v:stats.applied,    c:T.mint },
@@ -589,7 +600,7 @@ export default function App() {
           </select>
           {hasFilters && <button onClick={clear} style={{ padding:'4px 12px', borderRadius:T.radiusPill, border:'none',
             background:T.errorBg, color:T.error, fontWeight:500, fontSize:11, cursor:'pointer', fontFamily:T.font }}>Clear</button>}
-          <span style={{ fontSize:11, color:T.muted, marginLeft:'auto' }}>{filtered.length} of {allJobs.length}</span>
+          <span style={{ fontSize:11, color:T.muted, marginLeft:'auto' }}>{filtered.length} matched of {allJobs.length} total</span>
         </div>
 
 
@@ -614,7 +625,7 @@ export default function App() {
           <div style={{ textAlign:'center', padding:40, color:T.muted, fontWeight:300, fontSize:14 }}>Loading jobs…</div>
         ) : filtered.length === 0 ? (
           <div style={{ textAlign:'center', padding:40, color:T.muted, fontWeight:300, fontSize:14 }}>
-            {allJobs.length===0 ? 'No jobs scraped yet. Run npm run scrape or trigger the GitHub Action.' : 'No jobs match your filters.'}
+            {allJobs.length===0 ? 'No jobs scraped yet.' : 'No jobs match your profile. Try adjusting your filters.'}
           </div>
         ) : (
           filtered.map(job=>(

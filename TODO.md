@@ -30,9 +30,9 @@
 
 ✅ P1-1: Auto-load job descriptions from ATS APIs (collapsible accordion)
 ✅ P1-2: Days-since-posted aging with color coding + date filter
-⬜ P1-3: Parse salary data from job postings where available
-⬜ P1-4: Add more companies to scraper (UI for adding companies)
-⬜ P1-5: Add more ATS platforms (Workday, BambooHR, SmartRecruiters)
+✅ P1-3: Parse salary data from job postings (already implemented in scraper)
+✅ P1-4: Add more companies (Duolingo, Discord, Canva, GitLab, Benchling, Reddit, Squarespace, Twitch, GitHub, Spotify, Visa, Bosch)
+✅ P1-5: Add SmartRecruiters ATS platform + removed UX-only filter (scrapes ALL roles, matching is client-side)
 
 ---
 
