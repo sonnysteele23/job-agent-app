@@ -1,14 +1,62 @@
 #!/usr/bin/env node
 /**
- * Job Scraper — Hits Greenhouse, Ashby, Lever public APIs daily.
+ * Job Scraper — Hits Greenhouse, Ashby, Lever, SmartRecruiters public APIs daily.
  * Scrapes ALL roles (no industry filter). Matching is done client-side per user's resume.
- * No API keys needed.
+ * Writes jobs to Firestore (shared collection) + static JSON backup.
  */
 const fs = require('fs');
 const path = require('path');
 
+/* ─── Firebase Admin Setup ─── */
+let firestoreDb = null;
+async function initFirestore() {
+  if (!process.env.FIREBASE_SERVICE_ACCOUNT) {
+    console.log('  ⚠ No FIREBASE_SERVICE_ACCOUNT — skipping Firestore write');
+    return;
+  }
+  try {
+    const admin = require('firebase-admin');
+    const cred = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT);
+    admin.initializeApp({ credential: admin.credential.cert(cred) });
+    firestoreDb = admin.firestore();
+    console.log('  ✓ Firestore connected');
+  } catch (e) {
+    console.error('  ✗ Firestore init failed:', e.message);
+  }
+}
+
+async function writeJobsToFirestore(allJobs, newJobs) {
+  if (!firestoreDb) return;
+  try {
+    const batch = firestoreDb.batch();
+    // Write metadata
+    batch.set(firestoreDb.doc('jobs/meta'), {
+      lastScraped: new Date().toISOString(),
+      totalJobs: allJobs.length,
+      newJobsCount: newJobs.length,
+      sources: SOURCES.length,
+    });
+    // Write jobs in chunks (Firestore batch limit = 500)
+    const chunks = [];
+    for (let i = 0; i < allJobs.length; i += 200) {
+      chunks.push(allJobs.slice(i, i + 200));
+    }
+    // Store jobs as arrays in chunk docs (fewer writes than 1 doc per job)
+    for (let i = 0; i < chunks.length; i++) {
+      batch.set(firestoreDb.doc(`jobs/chunk_${i}`), {
+        jobs: chunks[i],
+        updatedAt: new Date().toISOString(),
+      });
+    }
+    batch.set(firestoreDb.doc('jobs/chunks'), { count: chunks.length });
+    await batch.commit();
+    console.log(`  ✓ Wrote ${allJobs.length} jobs to Firestore (${chunks.length} chunks)`);
+  } catch (e) {
+    console.error('  ✗ Firestore write failed:', e.message);
+  }
+}
+
 const SOURCES = [
-  // Greenhouse (https://api.greenhouse.io/v1/boards/{slug}/jobs?content=true)
   { type:'greenhouse', slug:'iherb', company:'iHerb' },
   { type:'greenhouse', slug:'coinbase', company:'Coinbase' },
   { type:'greenhouse', slug:'figma', company:'Figma' },
@@ -28,18 +76,6 @@ const SOURCES = [
   { type:'greenhouse', slug:'amplitude', company:'Amplitude' },
   { type:'greenhouse', slug:'gusto', company:'Gusto' },
   { type:'greenhouse', slug:'rippling', company:'Rippling' },
-  // Ashby (https://api.ashbyhq.com/posting-api/job-board/{slug})
-  { type:'ashby', slug:'jasper', company:'Jasper AI' },
-  { type:'ashby', slug:'linear', company:'Linear' },
-  { type:'ashby', slug:'vercel', company:'Vercel' },
-  // Lever (https://api.lever.co/v0/postings/{slug}?mode=json)
-  { type:'lever', slug:'Netflix', company:'Netflix' },
-  { type:'lever', slug:'twitch', company:'Twitch' },
-  // SmartRecruiters (https://api.smartrecruiters.com/v1/companies/{slug}/postings)
-  { type:'smartrecruiters', slug:'Spotify', company:'Spotify' },
-  { type:'smartrecruiters', slug:'Visa', company:'Visa' },
-  { type:'smartrecruiters', slug:'BOSCH', company:'Bosch' },
-  // More Greenhouse
   { type:'greenhouse', slug:'duolingo', company:'Duolingo' },
   { type:'greenhouse', slug:'discord', company:'Discord' },
   { type:'greenhouse', slug:'canva', company:'Canva' },
@@ -47,12 +83,17 @@ const SOURCES = [
   { type:'greenhouse', slug:'benchling', company:'Benchling' },
   { type:'greenhouse', slug:'reddit', company:'Reddit' },
   { type:'greenhouse', slug:'squarespace', company:'Squarespace' },
-  // More Lever
+  { type:'ashby', slug:'jasper', company:'Jasper AI' },
+  { type:'ashby', slug:'linear', company:'Linear' },
+  { type:'ashby', slug:'vercel', company:'Vercel' },
+  { type:'lever', slug:'Netflix', company:'Netflix' },
+  { type:'lever', slug:'twitch', company:'Twitch' },
   { type:'lever', slug:'github', company:'GitHub' },
+  { type:'smartrecruiters', slug:'Spotify', company:'Spotify' },
+  { type:'smartrecruiters', slug:'Visa', company:'Visa' },
+  { type:'smartrecruiters', slug:'BOSCH', company:'Bosch' },
 ];
 
-// No title keyword filter — we scrape ALL jobs and let the client-side
-// match engine rank relevance per user's resume.
 const SALARY_RE = /\$\s*([\d,]+)\s*[k]?\s*[-–—to]+\s*\$?\s*([\d,]+)\s*[k]?/i;
 const SALARY_RE2 = /([\d,]+)\s*-\s*([\d,]+)\s*(USD|per year|annually)/i;
 
@@ -126,7 +167,7 @@ async function scrapeSmartRecruiters(slug, co) {
     const comp = j.compensation;
     let salary = null;
     if (comp?.min && comp?.max) {
-      salary = { min:comp.min, max:comp.max, display:`${Math.round(comp.min/1000)}k–${Math.round(comp.max/1000)}k` };
+      salary = { min:comp.min, max:comp.max, display:`$${Math.round(comp.min/1000)}k–$${Math.round(comp.max/1000)}k` };
     }
     return { id:`sr-${slug}-${j.id}`, title:j.name, company:co,
       location:loc, url:j.ref||`https://jobs.smartrecruiters.com/${slug}/${j.id}`,
@@ -135,18 +176,14 @@ async function scrapeSmartRecruiters(slug, co) {
   });
 }
 
-// No isRelevant filter — all jobs are included. Matching is client-side.
-
 function tagJob(j) {
   const t = (j.title||'').toLowerCase(), d = (j.description||'').toLowerCase(), tags = [];
-  // Seniority
   if (t.includes('director')||t.includes('head of')||t.includes('vp ')||t.includes('vice president')) tags.push('Director');
   if (t.includes('principal')||t.includes('staff')||t.includes('distinguished')) tags.push('Principal IC');
   if (t.includes('senior')||t.includes('sr.')) tags.push('Senior');
   if (t.includes('lead')) tags.push('Lead');
   if (t.includes('manager')) tags.push('Manager');
   if (t.includes('intern')||t.includes('internship')) tags.push('Intern');
-  // Domain
   if (d.includes('ai')||d.includes('machine learning')||t.includes('ai')||t.includes('ml')) tags.push('AI/ML');
   if (t.includes('design')||t.includes('ux')||t.includes('ui')) tags.push('Design');
   if (t.includes('engineer')||t.includes('developer')||t.includes('swe')) tags.push('Engineering');
@@ -163,6 +200,7 @@ function tagJob(j) {
 
 async function main() {
   console.log('Job Agent App — Scraping', new Date().toISOString());
+  await initFirestore();
   console.log(`Scanning ${SOURCES.length} companies...\n`);
   const allJobs = [];
 
@@ -178,6 +216,7 @@ async function main() {
     allJobs.push(...jobs);
   }
 
+  // Detect new jobs
   const dataDir = path.join(__dirname, '..', 'data');
   const pubDir = path.join(__dirname, '..', 'public', 'data');
   const dataFile = path.join(dataDir, 'jobs.json');
@@ -190,16 +229,18 @@ async function main() {
   const newJobs = allJobs.filter(j=>!prevIds.has(j.id));
   allJobs.sort((a,b)=>new Date(b.postedAt)-new Date(a.postedAt));
 
+  // Write to Firestore
+  await writeJobsToFirestore(allJobs, newJobs);
+
+  // Write static JSON backup
   const output = { lastScraped:new Date().toISOString(), totalJobs:allJobs.length, newJobsCount:newJobs.length, sources:SOURCES.length, jobs:allJobs };
   const newOutput = { scrapedAt:new Date().toISOString(), count:newJobs.length, jobs:newJobs };
-
   fs.writeFileSync(dataFile, JSON.stringify(output, null, 2));
   fs.writeFileSync(newFile, JSON.stringify(newOutput, null, 2));
-  // Copy to public for GitHub Pages
   fs.writeFileSync(path.join(pubDir, 'jobs.json'), JSON.stringify(output, null, 2));
   fs.writeFileSync(path.join(pubDir, 'new-jobs.json'), JSON.stringify(newOutput, null, 2));
 
-  console.log(`\nDone! ${allJobs.length} relevant jobs. ${newJobs.length} NEW.`);
+  console.log(`\nDone! ${allJobs.length} jobs. ${newJobs.length} NEW.`);
 
   if (newJobs.length > 0) {
     console.log('\nNEW JOBS:');

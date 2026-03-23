@@ -3,7 +3,7 @@ import ResumeEngine from './ResumeEngine';
 import AuthScreen from './AuthScreen';
 import { auth } from './firebase';
 import { onAuthStateChanged, signOut } from 'firebase/auth';
-import { saveUserJobs, loadUserJobs, loadUserResume as loadUserResumeDB } from './firestore';
+import { saveUserJobs, loadUserJobs, loadUserResume as loadUserResumeDB, loadJobsFromFirestore } from './firestore';
 
 /* ─── Resume-aware helpers ─── */
 function loadUserResumeLocal() {
@@ -320,12 +320,17 @@ export default function App() {
   const smartFields = useMemo(() => buildSmartFields(userResume), [userResume]);
   const hasResume = !!userResume;
 
-  /* Load jobs + merge persisted state from Firestore */
+  /* Load jobs from Firestore (fallback to static JSON) + merge persisted state */
   useEffect(() => {
     async function load() {
       try {
-        const res = await fetch(`${process.env.PUBLIC_URL || ''}/data/jobs.json`);
-        const data = await res.json();
+        // Try Firestore first
+        let data = await loadJobsFromFirestore();
+        // Fallback to static JSON
+        if (!data) {
+          const res = await fetch(`${process.env.PUBLIC_URL || ''}/data/jobs.json`);
+          data = await res.json();
+        }
         let newIds = new Set();
         try {
           const nr = await fetch(`${process.env.PUBLIC_URL || ''}/data/new-jobs.json`);
