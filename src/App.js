@@ -474,9 +474,42 @@ export default function App() {
         <div style={{ marginBottom:24 }}>
           <h1 style={{ fontSize:30, fontWeight:300, margin:'0 0 4px', letterSpacing:-0.5, color:T.white }}>Job Application Agent</h1>
           <p style={{ fontSize:14, color:T.muted, margin:0, fontWeight:400 }}>
-            Auto-scans {companies.length-1} companies daily · AI cover letters · Application tracking
+            {hasResume ? `${companies.length-1} companies · AI cover letters · Application tracking` : 'Upload your resume to get started'}
           </p>
         </div>
+
+        {/* ─── No Resume: Onboarding Gate ─── */}
+        {!hasResume ? (
+          <div style={{ textAlign:'center', padding:'60px 20px' }}>
+            <div style={{ fontSize:56, marginBottom:20, opacity:0.7 }}>📄</div>
+            <h2 style={{ fontSize:22, fontWeight:400, color:T.white, margin:'0 0 10px', fontFamily:T.font }}>
+              Upload your resume to unlock job matching
+            </h2>
+            <p style={{ fontSize:14, color:T.muted, margin:'0 0 28px', lineHeight:1.7, maxWidth:440, marginLeft:'auto', marginRight:'auto' }}>
+              We'll parse your skills and experience, then match you with relevant roles, generate personalized cover letters, and track your applications.
+            </p>
+            <button onClick={() => setPage('resume')}
+              style={{ padding:'12px 32px', borderRadius:T.radiusPill, border:'none',
+                background:T.mint, color:'#0B1F22', fontSize:15, fontWeight:600,
+                cursor:'pointer', fontFamily:T.font, transition:'opacity 0.15s' }}>
+              Upload Resume →
+            </button>
+            <div style={{ marginTop:40, display:'flex', justifyContent:'center', gap:32 }}>
+              {[
+                { icon:'🎯', title:'Job Matching', desc:'Match scores based on your skills' },
+                { icon:'✉️', title:'Cover Letters', desc:'AI-generated from your resume' },
+                { icon:'📊', title:'Track Progress', desc:'Ready → Drafted → Applied' },
+              ].map(f => (
+                <div key={f.title} style={{ textAlign:'center', maxWidth:160 }}>
+                  <div style={{ fontSize:28, marginBottom:8 }}>{f.icon}</div>
+                  <div style={{ fontSize:13, fontWeight:500, color:T.white, marginBottom:4 }}>{f.title}</div>
+                  <div style={{ fontSize:11, color:T.muted }}>{f.desc}</div>
+                </div>
+              ))}
+            </div>
+          </div>
+        ) : (
+        <div>
 
 
         {/* ─── Status Tiles ─── */}
@@ -576,20 +609,6 @@ export default function App() {
           </div>
         )}
 
-        {/* ─── Resume prompt banner ─── */}
-        {!hasResume && (
-          <div onClick={() => setPage('resume')} style={{ background:T.goldBg, border:`1px solid ${T.gold}33`,
-            borderRadius:T.radius, padding:'12px 16px', marginBottom:16, cursor:'pointer',
-            display:'flex', alignItems:'center', gap:12, transition:'opacity 0.15s' }}>
-            <span style={{ fontSize:18 }}>📄</span>
-            <div style={{ flex:1 }}>
-              <div style={{ fontSize:13, fontWeight:500, color:T.gold }}>Upload your resume for smarter results</div>
-              <div style={{ fontSize:11, color:T.muted }}>Get match scores, personalized cover letters, and auto-filled contact info</div>
-            </div>
-            <span style={{ fontSize:12, color:T.gold }}>→</span>
-          </div>
-        )}
-
         {/* ─── Job Cards ─── */}
         {loading ? (
           <div style={{ textAlign:'center', padding:40, color:T.muted, fontWeight:300, fontSize:14 }}>Loading jobs…</div>
@@ -605,6 +624,10 @@ export default function App() {
               onGen={genLetter} onView={setModal} onApplied={markApplied} />
           ))
         )}
+
+        )}
+      </div>
+      )}
 
       </div>)}
 
