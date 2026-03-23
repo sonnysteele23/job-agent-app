@@ -363,8 +363,8 @@ export default function App() {
   const filtered = useMemo(() => {
     return allJobs
       .map(j => ({ ...j, _match: computeMatchScore(j, userResume) }))
-      // Only show jobs with a meaningful match when user has a resume
-      .filter(j => !userResume || (j._match != null && j._match >= 20))
+      // Only show jobs with a strong match when user has a resume
+      .filter(j => !userResume || (j._match != null && j._match >= 70))
       .filter(j => statusFilter === 'all' || j._s === statusFilter || (statusFilter === 'new' && j._new))
       .filter(j => companyFilter === 'all' || j.company === companyFilter)
       .filter(j => tagFilter === 'all' || (j.tags || []).includes(tagFilter))
@@ -392,7 +392,7 @@ export default function App() {
     if (!userResume) return [];
     return allJobs
       .map(j => ({ ...j, _match: computeMatchScore(j, userResume) }))
-      .filter(j => j._match != null && j._match >= 20);
+      .filter(j => j._match != null && j._match >= 70);
   }, [allJobs, userResume]);
 
   const stats = useMemo(() => ({
