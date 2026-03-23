@@ -218,7 +218,6 @@ export default function ResumeEngine({ userId }) {
   const [rewriteResult, setRewriteResult] = useState(null);
   const [activeTab, setActiveTab] = useState('upload');
   const [dragOver, setDragOver] = useState(false);
-  const [showLinkedIn, setShowLinkedIn] = useState(false);
   const fileRef = useRef();
   const linkedInRef = useRef();
 
@@ -473,89 +472,76 @@ Rules: Lead every bullet with a strong action verb. Include metrics wherever pos
 
       {/* Upload Tab */}
       {activeTab === 'upload' && (
-        <Section title="Upload Your Resume" subtitle="PDF, DOCX, or plain text — parsed by AI instantly">
-          <div onDragOver={(e) => { e.preventDefault(); setDragOver(true); }}
-            onDragLeave={() => setDragOver(false)} onDrop={handleDrop}
-            onClick={() => fileRef.current?.click()}
-            style={{ border:`2px dashed ${dragOver ? T.mint : T.border}`, borderRadius:T.radiusLg,
-              padding:'48px 24px', textAlign:'center', cursor:'pointer',
-              background:dragOver ? T.mintBg : T.surface, transition:'all 0.2s ease', marginBottom:16 }}>
-            <input ref={fileRef} type="file" accept=".pdf,.docx,.txt"
-              style={{ display:'none' }} onChange={e => handleFile(e.target.files[0])} />
-            <div style={{ fontSize:36, marginBottom:12, opacity:0.6 }}>📄</div>
-            <div style={{ fontSize:14, color:T.white, fontWeight:400, marginBottom:4 }}>
-              {parsing ? 'Parsing your resume…' : 'Drop your resume here, or click to browse'}
-            </div>
-            <div style={{ fontSize:12, color:T.muted }}>PDF, DOCX, or TXT</div>
-            {parsing && (
-              <div style={{ marginTop:16 }}>
-                <div style={{ width:200, height:3, background:T.border, borderRadius:2, margin:'0 auto', overflow:'hidden' }}>
-                  <div style={{ width:'60%', height:'100%', background:T.mint, borderRadius:2,
-                    animation:'pulse 1.5s ease-in-out infinite' }} />
-                </div>
-              </div>
-            )}
-          </div>
+        <Section title="Get Started" subtitle="Upload your resume or import your LinkedIn profile">
 
-          {/* ─── LinkedIn PDF Import ─── */}
-          <div style={{ background:T.surface, border:`1px solid ${T.border}`, borderRadius:T.radius,
-            padding:'16px 20px', marginBottom:16 }}>
-            <div onClick={() => setShowLinkedIn(!showLinkedIn)}
-              style={{ display:'flex', alignItems:'center', justifyContent:'space-between', cursor:'pointer' }}>
-              <div style={{ display:'flex', alignItems:'center', gap:10 }}>
-                <span style={{ fontSize:18 }}>💼</span>
-                <div>
-                  <div style={{ fontSize:14, fontWeight:500, color:T.white }}>Import from LinkedIn</div>
-                  <div style={{ fontSize:11, color:T.muted }}>Export your profile as PDF, then upload it here</div>
-                </div>
-              </div>
-              <span style={{ color:T.muted, fontSize:14, transform:showLinkedIn?'rotate(90deg)':'rotate(0)',
-                transition:'transform 0.15s', display:'inline-block' }}>▸</span>
-            </div>
+          {/* Side-by-side: Resume + LinkedIn */}
+          <div style={{ display:'grid', gridTemplateColumns:'1fr 1fr', gap:16, marginBottom:16 }}>
 
-            {showLinkedIn && (
-              <div style={{ marginTop:16, paddingTop:14, borderTop:`1px solid ${T.border}` }}>
-                <div style={{ fontSize:12, color:T.light, lineHeight:1.8, marginBottom:16 }}>
-                  <div style={{ fontWeight:600, color:T.mint, marginBottom:8, fontSize:11,
-                    textTransform:'uppercase', letterSpacing:0.8 }}>How to export your LinkedIn profile</div>
-                  <div style={{ display:'flex', flexDirection:'column', gap:10 }}>
-                    <div style={{ display:'flex', gap:10 }}>
-                      <span style={{ fontSize:11, fontWeight:600, color:T.mint, minWidth:18 }}>1.</span>
-                      <span>Go to <a href="https://www.linkedin.com/in/me" target="_blank" rel="noopener noreferrer"
-                        style={{ color:T.mint, textDecoration:'underline' }}>linkedin.com/in/me</a> and log in</span>
-                    </div>
-                    <div style={{ display:'flex', gap:10 }}>
-                      <span style={{ fontSize:11, fontWeight:600, color:T.mint, minWidth:18 }}>2.</span>
-                      <span>Click <strong style={{ color:T.white }}>More</strong> (below your banner photo)</span>
-                    </div>
-                    <div style={{ display:'flex', gap:10 }}>
-                      <span style={{ fontSize:11, fontWeight:600, color:T.mint, minWidth:18 }}>3.</span>
-                      <span>Select <strong style={{ color:T.white }}>Save to PDF</strong></span>
-                    </div>
-                    <div style={{ display:'flex', gap:10 }}>
-                      <span style={{ fontSize:11, fontWeight:600, color:T.mint, minWidth:18 }}>4.</span>
-                      <span>Upload the downloaded PDF below</span>
-                    </div>
+            {/* Resume Upload */}
+            <div onDragOver={(e) => { e.preventDefault(); setDragOver(true); }}
+              onDragLeave={() => setDragOver(false)} onDrop={handleDrop}
+              onClick={() => fileRef.current?.click()}
+              style={{ border:`2px dashed ${dragOver ? T.mint : T.border}`, borderRadius:T.radiusLg,
+                padding:'36px 20px', textAlign:'center', cursor:'pointer',
+                background:dragOver ? T.mintBg : T.surface, transition:'all 0.2s ease' }}>
+              <input ref={fileRef} type="file" accept=".pdf,.docx,.txt"
+                style={{ display:'none' }} onChange={e => handleFile(e.target.files[0])} />
+              <div style={{ fontSize:32, marginBottom:10, opacity:0.6 }}>📄</div>
+              <div style={{ fontSize:14, fontWeight:500, color:T.white, marginBottom:4 }}>Upload Resume</div>
+              <div style={{ fontSize:12, color:T.muted, marginBottom:4 }}>
+                {parsing ? 'Parsing…' : 'Drop here or click to browse'}
+              </div>
+              <div style={{ fontSize:11, color:T.dim }}>PDF, DOCX, or TXT</div>
+              {parsing && (
+                <div style={{ marginTop:12 }}>
+                  <div style={{ width:120, height:3, background:T.border, borderRadius:2, margin:'0 auto', overflow:'hidden' }}>
+                    <div style={{ width:'60%', height:'100%', background:T.mint, borderRadius:2,
+                      animation:'pulse 1.5s ease-in-out infinite' }} />
                   </div>
                 </div>
+              )}
+            </div>
 
-                <div onClick={() => linkedInRef.current?.click()}
-                  style={{ border:`2px dashed ${T.border}`, borderRadius:T.radius,
-                    padding:'20px 16px', textAlign:'center', cursor:'pointer',
-                    background:T.bg, transition:'border-color 0.15s ease' }}
-                  onMouseOver={e => e.currentTarget.style.borderColor = T.mint}
-                  onMouseOut={e => e.currentTarget.style.borderColor = T.border}>
-                  <input ref={linkedInRef} type="file" accept=".pdf"
-                    style={{ display:'none' }} onChange={e => handleFile(e.target.files[0])} />
-                  <div style={{ fontSize:13, color:T.light, fontWeight:400 }}>
-                    {parsing ? 'Parsing LinkedIn PDF…' : 'Click to upload your LinkedIn PDF'}
-                  </div>
+            {/* LinkedIn Import */}
+            <div style={{ border:`2px dashed ${T.border}`, borderRadius:T.radiusLg,
+              padding:'36px 20px', textAlign:'center', background:T.surface }}>
+              <div style={{ fontSize:32, marginBottom:10, opacity:0.6 }}>💼</div>
+              <div style={{ fontSize:14, fontWeight:500, color:T.white, marginBottom:4 }}>Import LinkedIn</div>
+              <div style={{ fontSize:12, color:T.muted, marginBottom:12 }}>Export your profile as PDF</div>
+
+              <div style={{ fontSize:11, color:T.light, lineHeight:1.8, textAlign:'left',
+                marginBottom:14, padding:'10px 12px', background:T.bg, borderRadius:T.radius }}>
+                <div style={{ display:'flex', gap:8, marginBottom:4 }}>
+                  <span style={{ color:T.mint, fontWeight:600 }}>1.</span>
+                  <span>Go to <a href="https://www.linkedin.com/in/me" target="_blank" rel="noopener noreferrer"
+                    style={{ color:T.mint, textDecoration:'underline' }}>linkedin.com/in/me</a></span>
+                </div>
+                <div style={{ display:'flex', gap:8, marginBottom:4 }}>
+                  <span style={{ color:T.mint, fontWeight:600 }}>2.</span>
+                  <span>Click <strong style={{ color:T.white }}>More</strong> → <strong style={{ color:T.white }}>Save to PDF</strong></span>
+                </div>
+                <div style={{ display:'flex', gap:8 }}>
+                  <span style={{ color:T.mint, fontWeight:600 }}>3.</span>
+                  <span>Upload that PDF below</span>
                 </div>
               </div>
-            )}
+
+              <div onClick={() => linkedInRef.current?.click()}
+                style={{ border:`1px dashed ${T.border}`, borderRadius:T.radius,
+                  padding:'12px', cursor:'pointer', transition:'border-color 0.15s ease' }}
+                onMouseOver={e => e.currentTarget.style.borderColor = T.mint}
+                onMouseOut={e => e.currentTarget.style.borderColor = T.border}>
+                <input ref={linkedInRef} type="file" accept=".pdf"
+                  style={{ display:'none' }} onChange={e => handleFile(e.target.files[0])} />
+                <div style={{ fontSize:12, color:T.light }}>
+                  {parsing ? 'Parsing LinkedIn PDF…' : 'Click to upload LinkedIn PDF'}
+                </div>
+              </div>
+            </div>
           </div>
 
-          <details style={{ marginTop:8 }}>
+          {/* Paste text option */}
+          <details>
             <summary style={{ fontSize:12, color:T.muted, cursor:'pointer', fontFamily:T.font }}>
               Or paste resume text directly
             </summary>
