@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.js": "/job-agent-app/static/js/main.c212da99.js",
+    "main.js": "/job-agent-app/static/js/main.b9083240.js",
+    "static/js/159.ec85215d.chunk.js": "/job-agent-app/static/js/159.ec85215d.chunk.js",
     "index.html": "/job-agent-app/index.html",
-    "main.c212da99.js.map": "/job-agent-app/static/js/main.c212da99.js.map"
+    "main.b9083240.js.map": "/job-agent-app/static/js/main.b9083240.js.map",
+    "159.ec85215d.chunk.js.map": "/job-agent-app/static/js/159.ec85215d.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.c212da99.js"
+    "static/js/main.b9083240.js"
   ]
 }
