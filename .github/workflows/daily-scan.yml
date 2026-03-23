@@ -82,13 +82,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
-```
 
-After you commit that file on GitHub:
-
-1. Go to repo **Settings → Pages** → Set source to **"Deploy from a branch"**, branch **gh-pages**, folder **/ (root)**
-2. Go to **Actions** → **"Daily Job Scan"** → **"Run workflow"** to trigger the first build + deploy
-
-Then pull locally so you're in sync:
-```
-cd /Users/sonnysteele/Documents/GitHub/job-agent-app && git pull origin main
