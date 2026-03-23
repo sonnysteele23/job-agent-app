@@ -1,0 +1,84 @@
+name: Daily Job Scan
+
+on:
+  schedule:
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run job scraper
+        id: scrape
+        run: node scripts/scrape-jobs.js
+
+      - name: Commit updated job data
+        run: |
+          git config user.name "Job Agent Bot"
+          git config user.email "bot@job-agent-app.com"
+          git add data/ public/data/
+          git diff --staged --quiet || git commit -m "Daily scan: $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Send email notification
+        if: steps.scrape.outputs.has_new_jobs == 'true'
+        continue-on-error: true
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "${{ steps.scrape.outputs.new_jobs_count }} New UX/Design Jobs"
+          to: ${{ secrets.EMAIL_USERNAME }}
+          from: "Job Agent <${{ secrets.EMAIL_USERNAME }}>"
+          body: |
+            Your Job Agent found ${{ steps.scrape.outputs.new_jobs_count }} new roles.
+            View: https://sonnysteele23.github.io/job-agent-app/
+
+  deploy:
+    needs: scrape
+    if: always() && needs.scrape.result != 'cancelled'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Pull latest data
+        run: git pull origin main
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build site
+        run: npm run build
+        env:
+          PUBLIC_URL: /job-agent
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build

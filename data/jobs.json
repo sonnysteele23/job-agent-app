@@ -1,0 +1,913 @@
+{
+  "lastScraped": "2026-03-23T04:26:34.589Z",
+  "totalJobs": 66,
+  "newJobsCount": 0,
+  "sources": 23,
+  "jobs": [
+    {
+      "id": "gh-anthropic-5156326008",
+      "title": "Policy Design Manager, Age-Appropriate Design",
+      "company": "Anthropic",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5156326008",
+      "postedAt": "2026-03-20T10:18:18-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&",
+      "tags": [
+        "Manager",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-anthropic-5152817008",
+      "title": "Product Designer",
+      "company": "Anthropic",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5152817008",
+      "postedAt": "2026-03-20T10:18:18-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the desig",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-brex-8434444002",
+      "title": "Senior Design Sourcer",
+      "company": "Brex",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://www.brex.com/careers/8434444002?gh_jid=8434444002",
+      "postedAt": "2026-03-19T21:09:58-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Brex is the AI-powered spend platform. We help companies spend with confidence with integrated corporate cards, banking, and global payments, plus intuitive software for travel and expenses. Tens of thousands of companies from startups to enterprises — including DoorDash, Flexport, and Compass — use Brex to proactively control spend, reduce costs, and increase efficiency on a global sc",
+      "tags": [
+        "Senior",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-brex-8434439002",
+      "title": "Senior Design Recruiter",
+      "company": "Brex",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://www.brex.com/careers/8434439002?gh_jid=8434439002",
+      "postedAt": "2026-03-19T21:09:24-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Brex is the AI-powered spend platform. We help companies spend with confidence with integrated corporate cards, banking, and global payments, plus intuitive software for travel and expenses. Tens of thousands of companies from startups to enterprises — including DoorDash, Flexport, and Compass — use Brex to proactively control spend, reduce costs, and increase efficiency on a global sc",
+      "tags": [
+        "Senior",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-gusto-7640344",
+      "title": "Principal Product Designer, CoreX AI",
+      "company": "Gusto",
+      "location": "Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Toronto, Ontario, CAN - Remote",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7640344",
+      "postedAt": "2026-03-19T14:56:20-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;line-height: 1.2;&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Gusto&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At Gusto, we&#39;re on a mission to grow the small business economy. We handle the hard stuff—like payroll, health insurance, 401(k)s, and HR—so owners can focus on their craft and customers. With teams in Denver, San Francisco, and New York, we’re proud to suppo",
+      "tags": [
+        "Principal IC",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-gusto-7254336",
+      "title": "Senior Product Design Manager, Payroll",
+      "company": "Gusto",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7254336",
+      "postedAt": "2026-03-19T14:56:20-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;line-height: 1.2;&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Gusto&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At Gusto, we&#39;re on a mission to grow the small business economy. We handle the hard stuff—like payroll, health insurance, 401(k)s, and HR—so owners can focus on their craft and customers. With teams in Denver, San Francisco, and New York, we’re proud to suppo",
+      "tags": [
+        "Senior",
+        "Manager"
+      ]
+    },
+    {
+      "id": "gh-gusto-7577146",
+      "title": "Sr Staff Frontend Engineer, Design Systems",
+      "company": "Gusto",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7577146",
+      "postedAt": "2026-03-19T14:56:20-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;line-height: 1.2;&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Gusto&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At Gusto, we&#39;re on a mission to grow the small business economy. We handle the hard stuff—like payroll, health insurance, 401(k)s, and HR—so owners can focus on their craft and customers. With teams in Denver, San Francisco, and New York, we’re proud to suppo",
+      "tags": [
+        "Principal IC",
+        "Design Systems"
+      ]
+    },
+    {
+      "id": "gh-gusto-7514763",
+      "title": "Staff Product Designer, Retirement",
+      "company": "Gusto",
+      "location": "Denver, CO; San Francisco, CA; New York, NY; Los Angeles, CA; Seattle, WA; San Diego, CA; Toronto, Ontario, CAN - Remote",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7514763",
+      "postedAt": "2026-03-19T14:56:20-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;line-height: 1.2;&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;hr&gt;\n&lt;p&gt;&lt;strong&gt;About Gusto&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At Gusto, we&#39;re on a mission to grow the small business economy. We handle the hard stuff—like payroll, health insurance, 401(k)s, and HR—so owners can focus on their craft and customers. With teams in Denver, San Francisco, and New York, we’re proud to suppo",
+      "tags": [
+        "Principal IC"
+      ]
+    },
+    {
+      "id": "gh-amplitude-8362199002",
+      "title": "Lead Product Designer, Guides and Surveys",
+      "company": "Amplitude",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/amplitude/jobs/8362199002",
+      "postedAt": "2026-03-19T06:49:49-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Amplitude is the leading AI analytics platform, helping over 4,700 customers—including Atlassian, Burger King, NBCUniversal, Square, and Under Armour—build better products and digital experiences. With powerful AI Agents embedded across our platform, teams can analyze, test, and optimize user experiences faster than ever. Ranked #1 across multiple categories in G2’s Winter 2026 Report, Amplitude is the best-in-class solution for product, data, ",
+      "tags": [
+        "Lead",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-stripe-7237465",
+      "title": "Channel Sales Manager, Benelux",
+      "company": "Stripe",
+      "location": "LOCATION",
+      "url": "https://stripe.com/jobs/search?gh_jid=7237465",
+      "postedAt": "2026-03-18T14:00:32-04:00",
+      "source": "greenhouse",
+      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an",
+      "tags": [
+        "Manager",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-iherb-7496618003",
+      "title": "Director of UX Design",
+      "company": "iHerb",
+      "location": "United States of America - Remote / Home Office",
+      "url": "https://job-boards.greenhouse.io/iherb/jobs/7496618003",
+      "postedAt": "2026-03-17T21:30:21-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Job Summary:&amp;nbsp;&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Director of UX will be responsible for shaping and driving the overall user experience vision at iHerb. This leader will build and scale a high-performing UX design team, partner with product, CX and cross functional stakeholders, and champion customer-first design across all digital touchpoints. The role requires both strategic vision and hands-on design leadership, with a focus on d",
+      "tags": [
+        "Director"
+      ]
+    },
+    {
+      "id": "gh-stripe-7706824",
+      "title": "Product Designer, Crypto",
+      "company": "Stripe",
+      "location": "Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7706824",
+      "postedAt": "2026-03-17T17:31:34-04:00",
+      "source": "greenhouse",
+      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an",
+      "tags": [
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-stripe-7657191",
+      "title": "Product Designer, Growth Pricing",
+      "company": "Stripe",
+      "location": "UK / US",
+      "url": "https://stripe.com/jobs/search?gh_jid=7657191",
+      "postedAt": "2026-03-17T17:31:30-04:00",
+      "source": "greenhouse",
+      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an",
+      "tags": [
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-stripe-7594754",
+      "title": "UX Researcher, Support",
+      "company": "Stripe",
+      "location": "US, Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7594754",
+      "postedAt": "2026-03-17T17:31:26-04:00",
+      "source": "greenhouse",
+      "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have a",
+      "tags": [
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-stripe-7587357",
+      "title": "Compliance Analyst, Luxembourg",
+      "company": "Stripe",
+      "location": "Luxembourg",
+      "url": "https://stripe.com/jobs/search?gh_jid=7587357",
+      "postedAt": "2026-03-17T17:31:25-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;We are seeking a detail-oriented and experienced &lt;strong&gt;Compliance Analyst (2nd Line of Defence)&lt;/strong&gt; to join our team at Bridge Building S.A. (BBSA), the EU entity for Bridge. BBSA is preparing for authorisation as an Electronic Money Institution (EMI) and a Crypto-Asset Service Provider (CASP) in Luxembourg. The successful candidate will support the MLRO and the Compliance function by providi",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-stripe-7587353",
+      "title": "Customer Funds Reconciliation and Safeguarding Specialist, Luxembourg",
+      "company": "Stripe",
+      "location": "Luxembourg",
+      "url": "https://stripe.com/jobs/search?gh_jid=7587353",
+      "postedAt": "2026-03-17T17:31:25-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt; Bridge Building S.A. (BBSA) is building a Luxembourg-regulated EMI and CASP. We are seeking a Customer Funds Reconciliation and Safeguarding Specialist to operate BBSA’s safeguarding controls for customer funds (in fiat and in digital assets) within an EMI and CASP environments, ensuring daily reconciliations, exception management, and audit-ready documentation. The role is critical to maintaining strong operational discipline, accurate sa",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-stripe-7587256",
+      "title": "Data - Regulatory Reporting, Luxembourg",
+      "company": "Stripe",
+      "location": " Luxembourg",
+      "url": "https://stripe.com/jobs/search?gh_jid=7587256",
+      "postedAt": "2026-03-17T17:31:25-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt; Bridge Building S.A. (BBSA) is building a Luxembourg regulated EMI and CASP. We are seeking a Data and Regulatory Reporting professional to build and operate BBSA’s regulatory reporting production line, including robust data sourcing, reconciliation, data quality controls, and submission governance. The role partners closely with our Data Officer based in San Francisco and the regulatory reporting team based in Ireland.&amp;nbsp; The tight",
+      "tags": [
+        "IC"
+      ]
+    },
+    {
+      "id": "gh-stripe-7587347",
+      "title": "Enterprise Risk Management Specialist, Luxembourg",
+      "company": "Stripe",
+      "location": "Luxembourg",
+      "url": "https://stripe.com/jobs/search?gh_jid=7587347",
+      "postedAt": "2026-03-17T17:31:25-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt; Bridge Building S.A. (BBSA) is building a Luxembourg regulated EMI and CASP. We are seeking an Enterprise Risk Management (ERM) Specialist to build and operate BBSA’s enterprise risk framework across financial and non-financial risks, ensuring clear governance, effective risk assessments, and inspection-ready documentation. The role supports senior management and the Board with actionable risk reporting and disciplined issue remediation.&l",
+      "tags": [
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-stripe-7587351",
+      "title": "Internal Auditor, Luxembourg",
+      "company": "Stripe",
+      "location": "Luxembourg",
+      "url": "https://stripe.com/jobs/search?gh_jid=7587351",
+      "postedAt": "2026-03-17T17:31:25-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt; Bridge Building S.A. (BBSA) is building a Luxembourg-regulated EMI and CASP. We are seeking an Internal Auditor manager to establish and execute a risk-based internal audit approach across core regulated-entity domains, including governance, safeguarding, treasury, AML/CTF, ICT/DORA, and outsourcing. The role will be reporting to the Internal Audit Officer based based in Ireland.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Key Responsibilit",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-stripe-7587254",
+      "title": "IT Governance, Risk & Compliance (GRC) Analyst, Luxembourg",
+      "company": "Stripe",
+      "location": "Luxembourg",
+      "url": "https://stripe.com/jobs/search?gh_jid=7587254",
+      "postedAt": "2026-03-17T17:31:25-04:00",
+      "source": "greenhouse",
+      "description": "&lt;h3&gt;&lt;strong&gt;Secure and Scale a Regulated Fintech Platform at the Heart of Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Bridge Building S.A. (BBSA)&lt;/strong&gt; is the Luxembourg regulated entity of &lt;strong&gt;Bridge&lt;/strong&gt;, a Stripe company. We operate as an EMI and future CASP in one of Europe’s most demanding regulatory environments (CSSF, DORA, MiCA).&lt;/p&gt;\n&lt;p&gt;BBSA is building a local regulated platform powered by a global-first technology model. ",
+      "tags": [
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-stripe-7587355",
+      "title": " Treasury Manager, Luxembourg",
+      "company": "Stripe",
+      "location": "Luxembourg",
+      "url": "https://stripe.com/jobs/search?gh_jid=7587355",
+      "postedAt": "2026-03-17T17:31:25-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt; Bridge Building S.A. (BBSA) is building a Luxembourg-regulated EMI and CASP. We are seeking a Treasury Manager to build and operate BBSA’s capital, liquidity, and treasury management framework, including liquidity forecasting, banking operations, counterparty risk oversight, and governance reporting. The role partners closely with Finance, Safeguarding, Risk, and Compliance to ensure strong controls, resilience, and inspection-ready docume",
+      "tags": [
+        "Manager"
+      ]
+    },
+    {
+      "id": "gh-stripe-7568117",
+      "title": "Product Designer",
+      "company": "Stripe",
+      "location": "US / Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7568117",
+      "postedAt": "2026-03-17T17:31:23-04:00",
+      "source": "greenhouse",
+      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an",
+      "tags": [
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-stripe-7573905",
+      "title": "Staff Product Manager, Compliance UX",
+      "company": "Stripe",
+      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=7573905",
+      "postedAt": "2026-03-17T17:31:23-04:00",
+      "source": "greenhouse",
+      "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecede",
+      "tags": [
+        "Principal IC",
+        "Manager",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-stripe-7538361",
+      "title": "Product Designer, Payments",
+      "company": "Stripe",
+      "location": "Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7538361",
+      "postedAt": "2026-03-17T17:31:19-04:00",
+      "source": "greenhouse",
+      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an",
+      "tags": [
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-stripe-7536458",
+      "title": "Staff Product Designer",
+      "company": "Stripe",
+      "location": "US ",
+      "url": "https://stripe.com/jobs/search?gh_jid=7536458",
+      "postedAt": "2026-03-17T17:31:19-04:00",
+      "source": "greenhouse",
+      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an",
+      "tags": [
+        "Principal IC",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-stripe-7520327",
+      "title": "Product Designer, Issuing",
+      "company": "Stripe",
+      "location": "Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7520327",
+      "postedAt": "2026-03-17T17:31:18-04:00",
+      "source": "greenhouse",
+      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an",
+      "tags": [
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-stripe-7663023",
+      "title": "Product Designer, Stablecoin",
+      "company": "Stripe",
+      "location": "Canada",
+      "url": "https://stripe.com/jobs/search?gh_jid=7663023",
+      "postedAt": "2026-03-17T17:31:18-04:00",
+      "source": "greenhouse",
+      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an",
+      "tags": [
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-stripe-7407030",
+      "title": "Product Manager, Risk UX",
+      "company": "Stripe",
+      "location": "Dublin",
+      "url": "https://stripe.com/jobs/search?gh_jid=7407030",
+      "postedAt": "2026-03-17T17:31:13-04:00",
+      "source": "greenhouse",
+      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an",
+      "tags": [
+        "Manager",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-stripe-7688069",
+      "title": "Senior Staff Product Designer, Agentic Commerce",
+      "company": "Stripe",
+      "location": "SF, Seattle, New York, Remote in the US",
+      "url": "https://stripe.com/jobs/search?gh_jid=7688069",
+      "postedAt": "2026-03-17T17:31:04-04:00",
+      "source": "greenhouse",
+      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an",
+      "tags": [
+        "Principal IC",
+        "Senior",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-stripe-7202630",
+      "title": "Senior Staff Product Designer, Payments",
+      "company": "Stripe",
+      "location": "SF, Seattle, New York, Remote in the US",
+      "url": "https://stripe.com/jobs/search?gh_jid=7202630",
+      "postedAt": "2026-03-17T17:31:03-04:00",
+      "source": "greenhouse",
+      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an",
+      "tags": [
+        "Principal IC",
+        "Senior",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-iherb-7654675003",
+      "title": "Sr. Product Designer II",
+      "company": "iHerb",
+      "location": "United States of America - Remote / Home Office",
+      "url": "https://job-boards.greenhouse.io/iherb/jobs/7654675003",
+      "postedAt": "2026-03-15T18:29:11-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;strong&gt;Job Summary:&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are seeking an experienced Lead Product Designer to drive and elevate the end-to-end experience of our global e-commerce platform. In this role, you will take ownership of complex shopping-related design initiatives and help shape how millions of users interact with our products, ensuring experiences are intuitive, efficient, and delightful while aligning with business objectives.&lt;/p&gt;\n&lt;",
+      "tags": [
+        "Senior"
+      ]
+    },
+    {
+      "id": "gh-brex-8434435002",
+      "title": "Senior Design Recruiter",
+      "company": "Brex",
+      "location": "New York, New York, United States",
+      "url": "https://www.brex.com/careers/8434435002?gh_jid=8434435002",
+      "postedAt": "2026-03-12T17:44:37-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Brex is the AI-powered spend platform. We help companies spend with confidence with integrated corporate cards, banking, and global payments, plus intuitive software for travel and expenses. Tens of thousands of companies from startups to enterprises — including DoorDash, Flexport, and Compass — use Brex to proactively control spend, reduce costs, and increase efficiency on a global sc",
+      "tags": [
+        "Senior",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-brex-8434432002",
+      "title": "Senior Design Sourcer",
+      "company": "Brex",
+      "location": "San Francisco, California, United States",
+      "url": "https://www.brex.com/careers/8434432002?gh_jid=8434432002",
+      "postedAt": "2026-03-12T17:44:37-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Brex is the AI-powered spend platform. We help companies spend with confidence with integrated corporate cards, banking, and global payments, plus intuitive software for travel and expenses. Tens of thousands of companies from startups to enterprises — including DoorDash, Flexport, and Compass — use Brex to proactively control spend, reduce costs, and increase efficiency on a global sc",
+      "tags": [
+        "Senior",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-brex-8434443002",
+      "title": "Senior Design Sourcer",
+      "company": "Brex",
+      "location": "Seattle, Washington, United States",
+      "url": "https://www.brex.com/careers/8434443002?gh_jid=8434443002",
+      "postedAt": "2026-03-12T17:44:37-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Brex is the AI-powered spend platform. We help companies spend with confidence with integrated corporate cards, banking, and global payments, plus intuitive software for travel and expenses. Tens of thousands of companies from startups to enterprises — including DoorDash, Flexport, and Compass — use Brex to proactively control spend, reduce costs, and increase efficiency on a global sc",
+      "tags": [
+        "Senior",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-brex-8434436002",
+      "title": "Senior Design Recruiter",
+      "company": "Brex",
+      "location": "Seattle, Washington, United States",
+      "url": "https://www.brex.com/careers/8434436002?gh_jid=8434436002",
+      "postedAt": "2026-03-12T17:44:36-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Brex is the AI-powered spend platform. We help companies spend with confidence with integrated corporate cards, banking, and global payments, plus intuitive software for travel and expenses. Tens of thousands of companies from startups to enterprises — including DoorDash, Flexport, and Compass — use Brex to proactively control spend, reduce costs, and increase efficiency on a global sc",
+      "tags": [
+        "Senior",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-brex-8434398002",
+      "title": "Senior Design Recruiter",
+      "company": "Brex",
+      "location": "San Francisco, California, United States",
+      "url": "https://www.brex.com/careers/8434398002?gh_jid=8434398002",
+      "postedAt": "2026-03-12T17:44:36-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Brex is the AI-powered spend platform. We help companies spend with confidence with integrated corporate cards, banking, and global payments, plus intuitive software for travel and expenses. Tens of thousands of companies from startups to enterprises — including DoorDash, Flexport, and Compass — use Brex to proactively control spend, reduce costs, and increase efficiency on a global sc",
+      "tags": [
+        "Senior",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-brex-8434442002",
+      "title": "Senior Design Sourcer",
+      "company": "Brex",
+      "location": "New York, New York, United States",
+      "url": "https://www.brex.com/careers/8434442002?gh_jid=8434442002",
+      "postedAt": "2026-03-12T17:44:36-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Brex is the AI-powered spend platform. We help companies spend with confidence with integrated corporate cards, banking, and global payments, plus intuitive software for travel and expenses. Tens of thousands of companies from startups to enterprises — including DoorDash, Flexport, and Compass — use Brex to proactively control spend, reduce costs, and increase efficiency on a global sc",
+      "tags": [
+        "Senior",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-brex-8124973002",
+      "title": "Staff Product Designer",
+      "company": "Brex",
+      "location": "New York, New York, United States",
+      "url": "https://www.brex.com/careers/8124973002?gh_jid=8124973002",
+      "postedAt": "2026-03-12T17:44:28-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Brex is the AI-powered spend platform. We help companies spend with confidence with integrated corporate cards, banking, and global payments, plus intuitive software for travel and expenses. Tens of thousands of companies from startups to enterprises — including DoorDash, Flexport, and Compass — use Brex to proactively control spend, reduce costs, and increase efficiency on a global sc",
+      "tags": [
+        "Principal IC",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-brex-7669111002",
+      "title": "Staff Product Designer",
+      "company": "Brex",
+      "location": "San Francisco, California, United States",
+      "url": "https://www.brex.com/careers/7669111002?gh_jid=7669111002",
+      "postedAt": "2026-03-12T17:44:28-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Brex is the AI-powered spend platform. We help companies spend with confidence with integrated corporate cards, banking, and global payments, plus intuitive software for travel and expenses. Tens of thousands of companies from startups to enterprises — including DoorDash, Flexport, and Compass — use Brex to proactively control spend, reduce costs, and increase efficiency on a global sc",
+      "tags": [
+        "Principal IC",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-airtable-8228847002",
+      "title": "Product Design Manager, Self Serve ",
+      "company": "Airtable",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/airtable/jobs/8228847002",
+      "postedAt": "2026-03-12T15:16:11-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable to transform how work gets done.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Airtable is the AI-native app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, in",
+      "tags": [
+        "Manager",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-airtable-8455967002",
+      "title": "Product Design Manager, Enterprise ",
+      "company": "Airtable",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/airtable/jobs/8455967002",
+      "postedAt": "2026-03-11T19:11:46-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable to transform how work gets done.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Airtable is the AI-native app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, in",
+      "tags": [
+        "Manager",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-webflow-7696259",
+      "title": "Staff Product Designer",
+      "company": "Webflow",
+      "location": "CA Remote (BC & ON only); U.S. Remote",
+      "url": "https://job-boards.greenhouse.io/webflow/jobs/7696259",
+      "postedAt": "2026-03-09T17:24:05-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;At Webflow, we’re building the world’s leading AI-native Digital Experience Platform, and we’re doing it as a remote-first company built on trust, transparency, and a whole lot of creativity. This work takes grit, because we move fast, without ever sacrificing craft or quality. Our mission is to bring development superpowers to everyone. From entrepreneurs launching their first idea to global enterprises scaling their digital presence, we empower teams to design, launch, and optimize fo",
+      "tags": [
+        "Principal IC",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-webflow-7624566",
+      "title": "Staff Product Designer, New Products",
+      "company": "Webflow",
+      "location": "CA Remote (BC & ON only); U.S. Remote",
+      "url": "https://job-boards.greenhouse.io/webflow/jobs/7624566",
+      "postedAt": "2026-03-09T15:23:02-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;At Webflow, we’re building the world’s leading AI-native Digital Experience Platform, and we’re doing it as a remote-first company built on trust, transparency, and a whole lot of creativity. This work takes grit, because we move fast, without ever sacrificing craft or quality. Our mission is to bring development superpowers to everyone. From entrepreneurs launching their first idea to global enterprises scaling their digital presence, we empower teams to design, launch, and optimize fo",
+      "tags": [
+        "Principal IC",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-coinbase-7611090",
+      "title": "Senior Product Designer (AI Advisor) ",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/7611090?gh_jid=7611090",
+      "postedAt": "2026-03-06T00:54:57-05:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to be pushed beyond what you think you’re capable of?&lt;/p&gt;\n&lt;p&gt;At Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.&lt;/p&gt;\n&lt;p&gt;To achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our",
+      "tags": [
+        "Senior",
+        "AI/ML",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-coinbase-7325051",
+      "title": "Product Design Intern",
+      "company": "Coinbase",
+      "location": "Hybrid - San Francisco, CA",
+      "url": "https://www.coinbase.com/careers/positions/7325051?gh_jid=7325051",
+      "postedAt": "2026-03-06T00:54:32-05:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to be pushed beyond what you think you’re capable of?&lt;/p&gt;\n&lt;p&gt;At Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.&lt;/p&gt;\n&lt;p&gt;To achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our",
+      "tags": [
+        "AI/ML",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-vercel-5735407004",
+      "title": "Senior Product Designer",
+      "company": "Vercel",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5735407004",
+      "postedAt": "2026-03-05T17:36:16-05:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;About Vercel:&lt;/h2&gt;\n&lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;Vercel gives developers the tools and cloud infrastructure to build, scale, and secure a faster, more personalized web. As the team behind v0, Next.js, and AI SDK, Vercel helps customers like Ramp, Supreme, PayPal, and Under Armour build for the AI-native web.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;Our mission is to enable",
+      "tags": [
+        "Senior",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-webflow-7658221",
+      "title": "Senior Product Design Manager",
+      "company": "Webflow",
+      "location": "CA Remote (BC & ON only); U.S. Remote",
+      "url": "https://job-boards.greenhouse.io/webflow/jobs/7658221",
+      "postedAt": "2026-02-26T15:58:28-05:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;At Webflow, we’re building the world’s leading AI-native Digital Experience Platform, and we’re doing it as a remote-first company built on trust, transparency, and a whole lot of creativity. This work takes grit, because we move fast, without ever sacrificing craft or quality. Our mission is to bring development superpowers to everyone. From entrepreneurs launching their first idea to global enterprises scaling their digital presence, we empower teams to design, launch, and optimize fo",
+      "tags": [
+        "Senior",
+        "Manager",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-webflow-7658245",
+      "title": "Senior Product Designer, Analyze",
+      "company": "Webflow",
+      "location": "CA Remote (BC & ON only); U.S. Remote",
+      "url": "https://job-boards.greenhouse.io/webflow/jobs/7658245",
+      "postedAt": "2026-02-26T15:58:15-05:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;At Webflow, we’re building the world’s leading AI-native Digital Experience Platform, and we’re doing it as a remote-first company built on trust, transparency, and a whole lot of creativity. This work takes grit, because we move fast, without ever sacrificing craft or quality. Our mission is to bring development superpowers to everyone. From entrepreneurs launching their first idea to global enterprises scaling their digital presence, we empower teams to design, launch, and optimize fo",
+      "tags": [
+        "Senior",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-databricks-8428820002",
+      "title": "Sr. Product Designer, AI/BI",
+      "company": "Databricks",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8428820002",
+      "postedAt": "2026-02-25T14:38:00-05:00",
+      "source": "greenhouse",
+      "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ427R273&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Databricks, our mission is to simplify and democratize data and AI so more organizations can solve the world’s toughest problems. As a Product Designer focused on AI/BI experiences, your mission is to make advanced analytics, generative AI, and business intelligence intuitive, trustworthy, and actionable for both technical and non-technical users.&lt;/p&gt;\n&lt;p&gt;",
+      "tags": [
+        "Senior",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-databricks-8429978002",
+      "title": "Sr. Product Designer, AI/BI",
+      "company": "Databricks",
+      "location": "Mountain View, California; San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8429978002",
+      "postedAt": "2026-02-25T14:38:00-05:00",
+      "source": "greenhouse",
+      "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ427R273&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Databricks, our mission is to simplify and democratize data and AI so more organizations can solve the world’s toughest problems. As a Product Designer focused on AI/BI experiences, your mission is to make advanced analytics, generative AI, and business intelligence intuitive, trustworthy, and actionable for both technical and non-technical users.&lt;/p&gt;\n&lt;p&gt;",
+      "tags": [
+        "Senior",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-databricks-8373566002",
+      "title": "Sr. Product Designer, Data Engineering",
+      "company": "Databricks",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8373566002",
+      "postedAt": "2026-02-25T14:14:56-05:00",
+      "source": "greenhouse",
+      "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ327R173&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Databricks, we design tools that make complex data workflows intuitive and powerful. On the data engineering team, our mission is to simplify how data is ingested, transformed, and prepared so that teams across an organization can turn raw data into impact. Designers at Databricks blend strong visual craft with systems thinking, shaping products that support some of ",
+      "tags": [
+        "Senior"
+      ]
+    },
+    {
+      "id": "gh-databricks-8373533002",
+      "title": "Sr. Product Designer, Data Engineering",
+      "company": "Databricks",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8373533002",
+      "postedAt": "2026-02-25T14:14:56-05:00",
+      "source": "greenhouse",
+      "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ327R173&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Databricks, we design tools that make complex data workflows intuitive and powerful. On the data engineering team, our mission is to simplify how data is ingested, transformed, and prepared so that teams across an organization can turn raw data into impact. Designers at Databricks blend strong visual craft with systems thinking, shaping products that support some of ",
+      "tags": [
+        "Senior"
+      ]
+    },
+    {
+      "id": "gh-databricks-8313972002",
+      "title": "Senior Sales Director, Strategic Accounts Benelux",
+      "company": "Databricks",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8313972002",
+      "postedAt": "2026-02-25T13:57:41-05:00",
+      "source": "greenhouse",
+      "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;SLSQ427R300&lt;/p&gt;\n&lt;p&gt;We are seeking a Senior Sales Director to lead our Strategic Accounts team in the Netherlands. In this role, you will own the go-to-market strategy for our most strategic Benelux customers, set the commercial direction for the team, and scale a high-performing enterprise sales organisation that delivers real transformation with data and AI.&lt;/p&gt;\n&lt;p&gt;You will lead and develop a team of Global and Strategic Account ",
+      "tags": [
+        "Director",
+        "Senior",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-databricks-8310116002",
+      "title": "Manager, Sales Development (Benelux, Nordics)",
+      "company": "Databricks",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8310116002",
+      "postedAt": "2026-02-25T13:57:24-05:00",
+      "source": "greenhouse",
+      "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;SLSQ226R407&lt;/p&gt;\n&lt;p&gt;Databricks operates at the leading edge of the data and AI space with a mission to help companies solve the world’s toughest problems. We are expanding our sales development team at Databricks and are looking for a strategic leader, to manage and grow our Benelux and Nordics team, and help us expand our business in the region.&lt;/p&gt;\n&lt;p&gt;Reporting to the Senior Manager, Sales Development, you will be a crucial membe",
+      "tags": [
+        "Manager",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-databricks-8155422002",
+      "title": "Sr. Product Designer",
+      "company": "Databricks",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8155422002",
+      "postedAt": "2026-02-25T13:40:16-05:00",
+      "source": "greenhouse",
+      "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ426R236&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Databricks, our mission as designers is to make data science simpler and more accessible, enabling more people to contribute to solving the world’s toughest problems. Product Designers at Databricks balance the creativity of a craftsperson with the analytical curiosity of a data scientist. We believe in the traditional and timeless value of great graphic design - whi",
+      "tags": [
+        "Senior"
+      ]
+    },
+    {
+      "id": "gh-databricks-8162222002",
+      "title": "Sr. Product Designer",
+      "company": "Databricks",
+      "location": "Seattle, Washington",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8162222002",
+      "postedAt": "2026-02-25T13:40:16-05:00",
+      "source": "greenhouse",
+      "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;RDQ426R236&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Databricks, our mission as designers is to make data science simpler and more accessible, enabling more people to contribute to solving the world’s toughest problems. Product Designers at Databricks balance the creativity of a craftsperson with the analytical curiosity of a data scientist. We believe in the traditional and timeless value of great graphic design - whi",
+      "tags": [
+        "Senior"
+      ]
+    },
+    {
+      "id": "gh-databricks-7839474002",
+      "title": "Staff Designated Support Engineer",
+      "company": "Databricks",
+      "location": "San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002",
+      "postedAt": "2026-02-19T14:47:26-05:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;P-1011&lt;/p&gt;\n&lt;p&gt;Job Location: San Francisco Bay Area, CA&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;As a Sr. Staff Technical Solutions Engineer and tech subject matter expert, you will partner closely with our Field and Engineering teams to deliver high-touch specialized support and tailored technical solutions for Databricks&#39; largest and most strategic customers in the Digital Native Business (DNB) segment. In this customer-facing role, you will leverage your technical expertise in Apa",
+      "tags": [
+        "Principal IC",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "ash-linear-a264869e-f058-487c-ab7f-9b77dffa427c",
+      "title": "Senior / Staff Product Designer",
+      "company": "Linear",
+      "location": "North America",
+      "url": "https://jobs.ashbyhq.com/linear/a264869e-f058-487c-ab7f-9b77dffa427c",
+      "postedAt": "2026-02-12T16:34:58.146+00:00",
+      "source": "ashby",
+      "description": "At Linear, we're building the product development system for teams and agents. AI is fundamentally changing how software gets built, and we’re shaping the tools this new era requires.\n\nFounded in 2019, Linear has become the platform of choice for more than 25,000 companies (including OpenAI, Coinbase, and Ramp) to plan, build, and ship their products. Today, our team is distributed across North America and Europe, and we’re continuing to grow internationally. What unites us is relentless focus, ",
+      "tags": [
+        "Principal IC",
+        "Senior",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-figma-5790585004",
+      "title": "Manager, Product Design",
+      "company": "Figma",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "url": "https://boards.greenhouse.io/figma/jobs/5790585004?gh_jid=5790585004",
+      "postedAt": "2026-02-04T11:41:24-05:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you&#39;re brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you&#39;re excited to shape the futur",
+      "tags": [
+        "Manager",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-figma-5787320004",
+      "title": "Manager, Software Engineering - Design Systems Management ",
+      "company": "Figma",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "url": "https://boards.greenhouse.io/figma/jobs/5787320004?gh_jid=5787320004",
+      "postedAt": "2026-02-02T12:55:49-05:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you&#39;re brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you&#39;re excited to shape the futur",
+      "tags": [
+        "Manager",
+        "AI/ML",
+        "Design Systems"
+      ]
+    },
+    {
+      "id": "gh-figma-5778796004",
+      "title": "Manager, Software Engineering - Interaction Design",
+      "company": "Figma",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "url": "https://boards.greenhouse.io/figma/jobs/5778796004?gh_jid=5778796004",
+      "postedAt": "2026-01-22T15:48:32-05:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you&#39;re brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you&#39;re excited to shape the futur",
+      "tags": [
+        "Manager",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-figma-5753515004",
+      "title": "Product Designer - Figma Weave (Tel Aviv, Israel)",
+      "company": "Figma",
+      "location": "Tel Aviv, Israel",
+      "url": "https://boards.greenhouse.io/figma/jobs/5753515004?gh_jid=5753515004",
+      "postedAt": "2026-01-20T12:36:39-05:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you&#39;re brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you&#39;re excited to shape the futur",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-figma-5711913004",
+      "title": "Product Designer, AI Models",
+      "company": "Figma",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "url": "https://boards.greenhouse.io/figma/jobs/5711913004?gh_jid=5711913004",
+      "postedAt": "2025-11-21T11:05:35-05:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you&#39;re brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you&#39;re excited to shape the futur",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-figma-5711468004",
+      "title": "Product Designer - Design, Dev, & AI Tools",
+      "company": "Figma",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "url": "https://boards.greenhouse.io/figma/jobs/5711468004?gh_jid=5711468004",
+      "postedAt": "2025-11-21T10:54:56-05:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you&#39;re brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you&#39;re excited to shape the futur",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-figma-5711595004",
+      "title": "Product Designer, Growth & Monetization",
+      "company": "Figma",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "url": "https://boards.greenhouse.io/figma/jobs/5711595004?gh_jid=5711595004",
+      "postedAt": "2025-11-21T10:48:47-05:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you&#39;re brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you&#39;re excited to shape the futur",
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-figma-5711571004",
+      "title": "Product Designer ",
+      "company": "Figma",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "url": "https://boards.greenhouse.io/figma/jobs/5711571004?gh_jid=5711571004",
+      "postedAt": "2025-11-21T10:47:08-05:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you&#39;re brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you&#39;re excited to shape the futur",
+      "tags": [
+        "AI/ML"
+      ]
+    }
+  ]
+}
