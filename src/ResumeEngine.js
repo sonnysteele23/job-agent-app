@@ -258,26 +258,49 @@ export default function ResumeEngine({ userId }) {
     if (userId) saveUserResumeDB(userId, data).catch(() => {});
   }, [userId]);
 
+  /* Extract text from DOCX (ZIP of XML) in the browser */
+  const extractDocxText = async (file) => {
+    const JSZip = (await import('jszip')).default;
+    const arrayBuf = await file.arrayBuffer();
+    const zip = await JSZip.loadAsync(arrayBuf);
+    const docXml = await zip.file('word/document.xml')?.async('string');
+    if (!docXml) throw new Error('Invalid DOCX: no document.xml found');
+    // Strip XML tags, normalise whitespace, preserve paragraph breaks
+    const text = docXml
+      .replace(/<w:p[^>]*\/>/g, '\n')                    // self-closing paragraphs
+      .replace(/<\/w:p>/g, '\n')                           // paragraph ends → newlines
+      .replace(/<w:tab\/>/g, '\t')                         // tabs
+      .replace(/<w:br[^>]*\/>/g, '\n')                     // breaks
+      .replace(/<[^>]+>/g, '')                             // strip all remaining XML tags
+      .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&apos;/g, "'")
+      .replace(/[ \t]+/g, ' ')                             // collapse horizontal whitespace
+      .replace(/\n /g, '\n').replace(/ \n/g, '\n')         // trim around newlines
+      .replace(/\n{3,}/g, '\n\n')                          // collapse excessive blank lines
+      .trim();
+    return text;
+  };
+
   const readFile = async (file) => {
     setFileName(file.name);
+    // Plain text files → return as string
     if (file.type === 'text/plain' || file.name.endsWith('.txt')) {
       const text = await file.text();
       setRawText(text);
       return text;
     }
-    // Determine media type — fall back based on extension if browser returns empty type
-    let mediaType = file.type;
-    if (!mediaType) {
-      const ext = file.name.split('.').pop().toLowerCase();
-      if (ext === 'pdf') mediaType = 'application/pdf';
-      else if (ext === 'docx') mediaType = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document';
-      else mediaType = 'application/octet-stream';
+    // DOCX files → extract text client-side (API document block doesn't support DOCX)
+    if (file.name.toLowerCase().endsWith('.docx') ||
+        file.type === 'application/vnd.openxmlformats-officedocument.wordprocessingml.document') {
+      const text = await extractDocxText(file);
+      setRawText(text);
+      return text; // returns string → parseResume uses text path
     }
+    // PDF files → send as base64 document block
     return new Promise((resolve, reject) => {
       const reader = new FileReader();
       reader.onload = () => {
         const base64 = reader.result.split(',')[1];
-        resolve({ base64, mediaType, fileName: file.name });
+        resolve({ base64, mediaType: 'application/pdf', fileName: file.name });
       };
       reader.onerror = () => reject(new Error('Failed to read file'));
       reader.readAsDataURL(file);
