@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/job-agent-app/static/js/main.017ef77c.js",
+    "main.js": "/job-agent-app/static/js/main.fc3a8410.js",
     "index.html": "/job-agent-app/index.html",
-    "main.017ef77c.js.map": "/job-agent-app/static/js/main.017ef77c.js.map"
+    "main.fc3a8410.js.map": "/job-agent-app/static/js/main.fc3a8410.js.map"
   },
   "entrypoints": [
-    "static/js/main.017ef77c.js"
+    "static/js/main.fc3a8410.js"
   ]
 }
