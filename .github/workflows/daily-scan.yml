@@ -22,7 +22,10 @@ jobs:
         with:
           node-version: '20'
 
-- name: Run job scraper
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run job scraper
         id: scrape
         run: node scripts/scrape-jobs.js
         env:
@@ -84,4 +87,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
-
