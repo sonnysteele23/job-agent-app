@@ -22,9 +22,11 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Run job scraper
+- name: Run job scraper
         id: scrape
         run: node scripts/scrape-jobs.js
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
 
       - name: Commit updated job data
         run: |
