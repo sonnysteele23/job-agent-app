@@ -62,7 +62,7 @@ function parseSalary(text) {
 
 async function fetchJSON(url) {
   try {
-    const r = await fetch(url, { headers:{'User-Agent':'SonnySteeleJobAgent/1.0'}, signal:AbortSignal.timeout(15000) });
+    const r = await fetch(url, { headers:{'User-Agent':'JobAgentApp/1.0'}, signal:AbortSignal.timeout(15000) });
     if (!r.ok) return null;
     return await r.json();
   } catch(e) { console.error(`  x ${url}: ${e.message}`); return null; }
@@ -127,7 +127,7 @@ function tagJob(j) {
 }
 
 async function main() {
-  console.log('Sonny Steele Job Agent — Scraping', new Date().toISOString());
+  console.log('Job Agent App — Scraping', new Date().toISOString());
   console.log(`Scanning ${SOURCES.length} companies...\n`);
   const allJobs = [];
 
