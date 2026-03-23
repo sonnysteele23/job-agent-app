@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 /**
  * Job Scraper — Hits Greenhouse, Ashby, Lever public APIs daily.
- * Filters for UX/Design roles. No API keys needed.
+ * Scrapes ALL roles (no industry filter). Matching is done client-side per user's resume.
+ * No API keys needed.
  */
 const fs = require('fs');
 const path = require('path');
@@ -33,13 +34,25 @@ const SOURCES = [
   { type:'ashby', slug:'vercel', company:'Vercel' },
   // Lever (https://api.lever.co/v0/postings/{slug}?mode=json)
   { type:'lever', slug:'Netflix', company:'Netflix' },
+  { type:'lever', slug:'twitch', company:'Twitch' },
+  // SmartRecruiters (https://api.smartrecruiters.com/v1/companies/{slug}/postings)
+  { type:'smartrecruiters', slug:'Spotify', company:'Spotify' },
+  { type:'smartrecruiters', slug:'Visa', company:'Visa' },
+  { type:'smartrecruiters', slug:'BOSCH', company:'Bosch' },
+  // More Greenhouse
+  { type:'greenhouse', slug:'duolingo', company:'Duolingo' },
+  { type:'greenhouse', slug:'discord', company:'Discord' },
+  { type:'greenhouse', slug:'canva', company:'Canva' },
+  { type:'greenhouse', slug:'gitlab', company:'GitLab' },
+  { type:'greenhouse', slug:'benchling', company:'Benchling' },
+  { type:'greenhouse', slug:'reddit', company:'Reddit' },
+  { type:'greenhouse', slug:'squarespace', company:'Squarespace' },
+  // More Lever
+  { type:'lever', slug:'github', company:'GitHub' },
 ];
 
-const TITLE_KW = ['ux','product design','design director','ux director','design manager','design lead',
-  'principal design','senior design','staff design','head of design','vp design','interaction design',
-  'experience design','ui/ux','ui ux','design system'];
-const EXCLUDE_KW = ['graphic design','interior design','instructional design','game art','sound design',
-  'hardware','mechanical','electrical','fashion design','curriculum'];
+// No title keyword filter — we scrape ALL jobs and let the client-side
+// match engine rank relevance per user's resume.
 const SALARY_RE = /\$\s*([\d,]+)\s*[k]?\s*[-–—to]+\s*\$?\s*([\d,]+)\s*[k]?/i;
 const SALARY_RE2 = /([\d,]+)\s*-\s*([\d,]+)\s*(USD|per year|annually)/i;
 
@@ -104,22 +117,44 @@ async function scrapeLever(slug, co) {
   });
 }
 
-function isRelevant(j) {
-  const t = (j.title||'').toLowerCase();
-  if (!TITLE_KW.some(k=>t.includes(k))) return false;
-  if (EXCLUDE_KW.some(k=>t.includes(k))) return false;
-  return true;
+async function scrapeSmartRecruiters(slug, co) {
+  const d = await fetchJSON(`https://api.smartrecruiters.com/v1/companies/${slug}/postings`);
+  if (!d?.content) return [];
+  return d.content.map(j => {
+    const loc = j.location?.city ? `${j.location.city}, ${j.location.region||''} ${j.location.country||''}`.trim() : 'Unknown';
+    const desc = (j.name || '') + ' ' + (j.customField?.map(f=>f.valueLabel).join(' ') || '');
+    const comp = j.compensation;
+    let salary = null;
+    if (comp?.min && comp?.max) {
+      salary = { min:comp.min, max:comp.max, display:`${Math.round(comp.min/1000)}k–${Math.round(comp.max/1000)}k` };
+    }
+    return { id:`sr-${slug}-${j.id}`, title:j.name, company:co,
+      location:loc, url:j.ref||`https://jobs.smartrecruiters.com/${slug}/${j.id}`,
+      postedAt:j.releasedDate||new Date().toISOString(), source:'smartrecruiters',
+      description:desc.substring(0,3000), salary };
+  });
 }
+
+// No isRelevant filter — all jobs are included. Matching is client-side.
 
 function tagJob(j) {
   const t = (j.title||'').toLowerCase(), d = (j.description||'').toLowerCase(), tags = [];
-  if (t.includes('director')||t.includes('head of')||t.includes('vp ')) tags.push('Director');
-  if (t.includes('principal')||t.includes('staff')) tags.push('Principal IC');
+  // Seniority
+  if (t.includes('director')||t.includes('head of')||t.includes('vp ')||t.includes('vice president')) tags.push('Director');
+  if (t.includes('principal')||t.includes('staff')||t.includes('distinguished')) tags.push('Principal IC');
   if (t.includes('senior')||t.includes('sr.')) tags.push('Senior');
   if (t.includes('lead')) tags.push('Lead');
   if (t.includes('manager')) tags.push('Manager');
-  if (d.includes('ai')||d.includes('machine learning')||t.includes('ai')) tags.push('AI/ML');
-  if (d.includes('design system')||t.includes('design system')) tags.push('Design Systems');
+  if (t.includes('intern')||t.includes('internship')) tags.push('Intern');
+  // Domain
+  if (d.includes('ai')||d.includes('machine learning')||t.includes('ai')||t.includes('ml')) tags.push('AI/ML');
+  if (t.includes('design')||t.includes('ux')||t.includes('ui')) tags.push('Design');
+  if (t.includes('engineer')||t.includes('developer')||t.includes('swe')) tags.push('Engineering');
+  if (t.includes('product manager')||t.includes('program manager')) tags.push('Product');
+  if (t.includes('data')||t.includes('analyst')||t.includes('analytics')) tags.push('Data');
+  if (t.includes('market')||t.includes('growth')) tags.push('Marketing');
+  if (t.includes('sales')||t.includes('account')) tags.push('Sales');
+  if (t.includes('ops')||t.includes('operations')) tags.push('Operations');
   if (d.includes('healthcare')||d.includes('hipaa')) tags.push('Healthcare');
   if (d.includes('fintech')||d.includes('financial')) tags.push('Fintech');
   if (tags.length===0) tags.push('IC');
@@ -137,10 +172,10 @@ async function main() {
     if (src.type==='greenhouse') jobs = await scrapeGH(src.slug, src.company);
     else if (src.type==='ashby') jobs = await scrapeAshby(src.slug, src.company);
     else if (src.type==='lever') jobs = await scrapeLever(src.slug, src.company);
-    const rel = jobs.filter(isRelevant);
-    rel.forEach(j => { j.tags = tagJob(j); });
-    console.log(`${jobs.length} total, ${rel.length} UX/Design`);
-    allJobs.push(...rel);
+    else if (src.type==='smartrecruiters') jobs = await scrapeSmartRecruiters(src.slug, src.company);
+    jobs.forEach(j => { j.tags = tagJob(j); });
+    console.log(`${jobs.length} jobs`);
+    allJobs.push(...jobs);
   }
 
   const dataDir = path.join(__dirname, '..', 'data');
@@ -174,7 +209,7 @@ async function main() {
     }
     if (process.env.GITHUB_STEP_SUMMARY) {
       const s = newJobs.map(j=>`* **${j.company}** — ${j.title}\n  ${j.url}`).join('\n');
-      fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, `## ${newJobs.length} New UX/Design Jobs\n\n${s}\n`);
+      fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, `## ${newJobs.length} New Jobs\n\n${s}\n`);
     }
   } else if (process.env.GITHUB_OUTPUT) {
     fs.appendFileSync(process.env.GITHUB_OUTPUT, `new_jobs_count=0\nhas_new_jobs=false\n`);
