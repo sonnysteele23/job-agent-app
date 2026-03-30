@@ -1,49 +1,263 @@
 {
-  "scrapedAt": "2026-03-29T13:28:35.272Z",
-  "count": 4,
+  "scrapedAt": "2026-03-30T13:39:29.264Z",
+  "count": 32,
   "jobs": [
     {
-      "id": "gh-brex-8434385002",
-      "title": "Software Engineer, Internship - 2026",
-      "company": "Brex",
-      "location": "São Paulo, São Paulo, Brazil",
-      "url": "https://www.brex.com/careers/8434385002?gh_jid=8434385002",
-      "postedAt": "2026-03-28T15:22:18-04:00",
+      "id": "gh-coinbase-7760683",
+      "title": "Customer Support Supervisor",
+      "company": "Coinbase",
+      "location": "Manila, Philippines",
+      "url": "https://www.coinbase.com/careers/positions/7760683?gh_jid=7760683",
+      "postedAt": "2026-03-30T08:17:52-04:00",
       "source": "greenhouse",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Brex is the AI-powered spend platform. We help companies spend with confidence with integrated corporate cards, banking, and global payments, plus intuitive software for travel and expenses. Tens of thousands of companies from startups to enterprises — including DoorDash, Flexport, and Compass — use Brex to proactively control spend, reduce costs, and increase efficiency on a global scale.&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Engineering at Brex&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Engineering at Brex is about building systems that scale with speed and intention. Our teams span Software, Data, Security, and IT, and operate with high autonomy and deep collaboration. We tackle hard technical problems, own our outcomes, and push for excellence at every level — from architecture to deployment. It’s an environment where engineering is a craft, and builders become leaders.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We’re looking for folks with an interest in building products, services, and infrastructure, comfortable in dealing with lots of moving pieces. In partnership with your mentor and team, you’ll be building solutions that will drive direct business impact and shape our long-term technical vision with a high-quality bar. You&#39;ll have the opportunity to learn and push the frontier of providing the best financial software experience to help companies grow. You’ll be encouraged to be metric and data-driven and to think creatively to help Brex scale and prepare for the new markets we are about to enter.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Where you’ll work&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;This role will be remote.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Graduating from a BA/BS program in 2026 - Computer Science or Computer Engineering or Software Engineering&lt;/li&gt; &lt;li&gt;Availability to participate in the program from April to December 2026&lt;/li&gt; &lt;li&gt;Strong knowledge of CS fundamentals&lt;/li&gt; &lt;li&gt;Strong communication, interpersonal skills, and eagerness to learn from others&lt;/li&gt; &lt;li&gt;Are excited about working in a high-paced environment with other high quality engineers&lt;/li&gt; &lt;li&gt;Familiarity with software engineering development cycles&lt;/li&gt; &lt;li&gt;Experience working with backend programming languages (i.e. Java, Kotlin, Pyt",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to be pushed beyond what you think you’re capable of?&lt;/p&gt; &lt;p&gt;At Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.&lt;/p&gt; &lt;p&gt;To achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.&lt;/p&gt; &lt;p&gt;Our &lt;a href=&quot;https://www.coinbase.com/mission&quot;&gt;work culture&lt;/a&gt; is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.&lt;/p&gt; &lt;p&gt;While many roles at Coinbase are remote-first, we are not remote-only. In-person participation is required throughout the year. Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment. Attendance is expected and fully supported.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As a Customer Support Supervisor, your primary role will be to manage a team of customer support agents. You will be responsible for your team&#39;s performance as measured by key operational metrics: contacts handled, first contact resolution rates, quality scores, and other KPIs. You will provide timely coaching to team members based on their performance against these metrics. Additionally, you will work closely with Workforce Management to ensure scheduling optimization and adherence. This includes conducting in-depth analyses of any performance gaps among team members. You will become a subject matter expert in Coinbase&#39;s operational processes and workflows.&amp;nbsp;&lt;/p&gt; &lt;p&gt;To perform your duties successfully, you will utilize tools such as: Maestro QA, Salesforce, Slack, G-Suite, Confluence, Looker, Amazon Web Services (AWS), and proprietary technologies. Familiarity with these systems is essential for tracking agent performance, collaborating with colleagues, documenting procedures, and analyzing business data.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Please note that this role is expected to report onsite in our Philippines Centre of Excellence office in Manila, Philippines.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you’ll be doing (ie. job duties):&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Lead a team of high performing customer service agents across multiple channels (eg. phone, messaging, email)&lt;/li&gt; &lt;li&",
       "salary": null,
       "tags": [
-        "Intern",
+        "AI/ML",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-coinbase-7760680",
+      "title": "Payments Risk Analyst",
+      "company": "Coinbase",
+      "location": "Manila, Philippines",
+      "url": "https://www.coinbase.com/careers/positions/7760680?gh_jid=7760680",
+      "postedAt": "2026-03-30T08:17:09-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to be pushed beyond what you think you’re capable of?&lt;/p&gt; &lt;p&gt;At Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.&lt;/p&gt; &lt;p&gt;To achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.&lt;/p&gt; &lt;p&gt;Our &lt;a href=&quot;https://www.coinbase.com/mission&quot;&gt;work culture&lt;/a&gt; is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.&lt;/p&gt; &lt;p&gt;While many roles at Coinbase are remote-first, we are not remote-only. In-person participation is required throughout the year. Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment. Attendance is expected and fully supported.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As a &lt;strong&gt;Payments Risk Analyst I&lt;/strong&gt;, you will help protect Coinbase and its customers by investigating and decisioning high‑risk fiat payment activity while balancing loss prevention and customer experience. You’ll work closely with CX, Risk, and Engineering partners to ensure safe scaling of our payments ecosystem.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Please note that this role is expected to report onsite in our Philippines Centre of Excellence office in Manila, Philippines.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you’ll be doing (ie. job duties):&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Investigate and decision &lt;strong&gt;high‑risk payments cases&lt;/strong&gt; (e.g., unban, limits, withdrawal holds, transfer risk monitoring) using internal tools like &lt;strong&gt;Caseflow&lt;/strong&gt;, &lt;strong&gt;Threat Investigation Portal (TIP)&lt;/strong&gt;, and Admin to determine the safest outcome for customers and the business.&lt;/li&gt; &lt;li&gt;Review account and transaction signals (payment method history, velocity, geolocation, device, KYC/AML flags) to identify potential fraud, scams, or abuse and take appropriate actions (limits, holds, flags, or closures) per SOPs.&lt;/li&gt; &lt;li&gt;Apply, adjust, and remove &lt;strong&gt;payments‑related flags&lt;/strong&gt; and controls in line with policy, clearly documenting rationale, evidence, and customer impact for downstream teams.&lt;/li&gt; &lt;li&gt;Pa",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Data",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-coinbase-7760206",
+      "title": "Senior Finance & Strategy Analyst, Consumer",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/7760206?gh_jid=7760206",
+      "postedAt": "2026-03-29T22:27:10-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to be pushed beyond what you think you’re capable of?&lt;/p&gt; &lt;p&gt;At Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.&lt;/p&gt; &lt;p&gt;To achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.&lt;/p&gt; &lt;p&gt;Our &lt;a href=&quot;https://www.coinbase.com/mission&quot;&gt;work culture&lt;/a&gt; is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.&lt;/p&gt; &lt;p&gt;While many roles at Coinbase are remote-first, we are not remote-only. In-person participation is required throughout the year. Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment. Attendance is expected and fully supported.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Team/ Role Paragraph:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The FP&amp;amp;A team is at the heart of Coinbase&#39;s strategic execution, translating our ambitious mission to unlock economic freedom into a sustainable financial reality. We ensure the company&#39;s resources are deployed effectively, providing the data-driven guidance that fuels our growth and powers the future of finance. We own the company’s financial roadmap, from the annual operating plan and rolling forecasts to the in-depth business reviews that ensure we drive efficiency and make informed trade offs&lt;/p&gt; &lt;p&gt;We are seeking an experienced finance professional to be a critical member of the FP&amp;amp;A team supporting our Consumer business.&lt;/p&gt; &lt;p&gt;In this role, you will be a key financial partner to Consumer leadership, taking ownership of the analysis that guides their operational expenditure (OpEx) planning. Your work will directly contribute to resource allocation, efficiency, and sound strategic decisions as we scale.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What You’ll Be Doing:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Manage end-to-end financial deliverables:&lt;/strong&gt; Take ownership of the forecasting, reporting, and analysis for your business partners, ensuring deadlines and deliverables for the annual budget and monthly planning are met with precision.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Unco",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "AI/ML",
+        "Data",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-coinbase-7135287",
+      "title": "Software Engineer, Backend",
+      "company": "Coinbase",
+      "location": "Remote - India",
+      "url": "https://www.coinbase.com/careers/positions/7135287?gh_jid=7135287",
+      "postedAt": "2026-03-30T08:52:36-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to be pushed beyond what you think you’re capable of?&lt;/p&gt; &lt;p&gt;At Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.&lt;/p&gt; &lt;p&gt;To achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.&lt;/p&gt; &lt;p&gt;Our &lt;a href=&quot;https://www.coinbase.com/mission&quot;&gt;work culture&lt;/a&gt; is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.&lt;/p&gt; &lt;p&gt;While many roles at Coinbase are remote-first, we are not remote-only. In-person participation is required throughout the year. Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment. Attendance is expected and fully supported.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the Team&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The CXAI Engineering team, part of Coinbase’s Enterprise Applications and Architecture organization, crafts the customer-facing and internal experiences that connect the Help Center, chatbots (CBCB), and agent workflows. We own core web and app chat interfaces and Help Center surfaces, collaborating closely with Conversation Design, CX, and ML/platform teams to deliver secure, compliant, and scalable AI-powered support. Our mission is to enhance the quality, responsiveness, and measurability of automated and agent-assisted experiences—enabling faster customer answers and more effective support resolutions.&amp;nbsp;We’re seeking a highly skilled Backend-Heavy Full Stack Engineer to drive pivotal CXAI initiatives within Help Center and Chat, including chatbot UI revamps, response quality and latency enhancements, and platformization efforts like shared evaluation frameworks for Coinbase and vendor bots. You will own the full lifecycle of features spanning Help Center, Chat, and Agent workflows, with a focus on building reliable, scalable, and AI-enabled products.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you’ll be doing&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Build and evolve customer support experiences across web surfaces, including Help Center, chat, and agent-facing tools, in close partnership with Product, Design, and cross-functional engineering teams.&lt;/li&gt; &lt;li&gt;Define and inte",
+      "salary": null,
+      "tags": [
         "AI/ML",
         "Engineering",
         "Fintech"
       ]
     },
     {
-      "id": "gh-gitlab-8476391002",
-      "title": "Regional Sales Director, ASEAN & Korea",
-      "company": "GitLab",
-      "location": "Remote, Singapore",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8476391002",
-      "postedAt": "2026-03-29T01:54:06-04:00",
+      "id": "gh-stripe-7452593",
+      "title": "Accounts Receivable Analyst",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=7452593",
+      "postedAt": "2026-03-30T00:52:31-04:00",
       "source": "greenhouse",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt; and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;An overview of this role&lt;/h2&gt; &lt;p&gt;As the Director of Regional Sales for ASEAN and Korea, you&#39;ll own the strategy and execution to grow GitLab&#39;s presence across Indonesia, Thailand, Vietnam, Singapore, Philippines, Malaysia, and Korea. You&#39;ll build and manage an Account Executive team, establish clear, data-informed sales processes, and stay close to the field by engaging directly with key accounts. Reporting to the VP of Sales, you&#39;ll work across account management, customer success, marketing, product, engineering, and operations to deliver a consistent, high-quality experience for GitLab customers and expand our footprint. In this role, you&#39;ll help shape GitLab&#39;s go-to-market motion in ASEAN and Korea, support new logo acquisition and expansion, and influence how we bring our open source and DevSecOps story to a broad range of customers while supporting regional business priorities.&lt;/p&gt; &lt;h2&gt;What you’ll do&lt;/h2&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;Oversee the growth of GitLab&#39;s business in ASEAN and Korea by building the regional sales plan, maintaining pipeline visibility, and guiding day-to-day execution in support of regional business plans.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;Manage, coach, and develop a team of Account Executives, joining customer ",
+      "description": "&lt;p&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Finance Operations (FinOps) team provides and enhances core business services that are the backbone for Stripe. FinOps uses data and operational excellence to deliver technology solutions, procurement, billing and payroll services, strategic sourcing, and supplier relationship management to Stripe.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We&#39;re looking for a Monetization Operations Analyst to join our growing team. This individual will help us improve user experience through accurate and timely onboarding of contracts, workflows and deliver improvements in our integrated financial systems with business partners, financial colleagues, and engineers.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Be responsible for onboarding sold custom contracts into our billing systems&lt;/li&gt; &lt;li&gt;Ability to understand the legal languages of the contract and comfortable working on it and have strong attention to detail&lt;/li&gt; &lt;li&gt;Build scalable and auditable onboarding processes for new and existing users&lt;/li&gt; &lt;li&gt;Partner with internal systems, deal desk, legal, sales ops, internal audit, go-to-market, engineer and account managers to develop and improve the process.&lt;/li&gt; &lt;li&gt;Partner with account managers to solve user inquiries related to onboarding implementation, billing, and collections and if needed troubleshoot as well.&lt;/li&gt; &lt;li&gt;Analyze our processes and instigate changes to help scale our operations and improve user experience&lt;/li&gt; &lt;li&gt;Work closely with other Stripe teams to assist with system implementations for billings, collections, and assist with internal and external ad-hoc audit support.&lt;/li&gt; &lt;li&gt;Help scale and optimize our processes by assisting with the execution of key projects and programs.&lt;/li&gt; &lt;li&gt;Gain unique insights into various businesses on Stripe scale and operate&lt;/li&gt; &lt;li&gt;Can quickly learn the Stripe ways of working and make a real impact through process enhancements.&lt;/li&gt; &lt;li&gt;Be a part of building a brand-new team and operational culture for Stripe&lt;/li&gt; &lt;li&gt;Assist with monthly and quarterly flux analysis of key metrics&lt;/li&gt; &lt;li&gt;Assist with ad hoc projects&lt;/li&gt; &",
       "salary": null,
       "tags": [
-        "Director",
+        "AI/ML",
+        "Data",
+        "Sales",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-stripe-7587393",
+      "title": "Treasury and Reserve Management, Lead",
+      "company": "Stripe",
+      "location": "San Francisco Or New York ",
+      "url": "https://stripe.com/jobs/search?gh_jid=7587393",
+      "postedAt": "2026-03-30T09:35:16-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;&lt;strong&gt;Treasury and Reserve Management, Lead&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;&lt;strong&gt;Reports to:&lt;/strong&gt; President of the Bridge National Trust Bank&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong style=&quot;font-size: 14px;&quot;&gt;Reserve Management &amp;amp; Liquidity Operations&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Stand up daily liquidity management schedule, workflows, and reporting cadences.&lt;/li&gt; &lt;li&gt;Ensure real-time reserve–liability reconciliation (on-chain vs. off-chain).&lt;/li&gt; &lt;li&gt;Working with Product &amp;amp; Legal define reserve allocation strategy within regulatory constraints including GENIUS allowable reserve assets and concentration thresholds.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Establish automated alerting for reserve deviations, liquidity shortfalls, or reconciliation breaks.&lt;/li&gt; &lt;li&gt;Build monthly reserve attestation package and external auditor engagement workflow.&lt;/li&gt; &lt;li&gt;Working with Product to create a transparency reporting framework including public facing disclosures &amp;amp; attestations, dashboards, and methodology materials.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt; Treasury Operations Setup&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Working with COO map all cash movement paths for mint, burn, redemption, custody, and funding flows.&lt;/li&gt; &lt;li&gt;Build SOPs for treasury operations: asset–liability matching, settlement, reconciliation and exception handling.&lt;/li&gt; &lt;li&gt;Working with Legal ensure custodial reserve account structures are documented accordingly.&lt;/li&gt; &lt;li&gt;Implement settlement controls and dual-authorization workflows.&lt;/li&gt; &lt;li&gt;Establish intraday liquidity monitoring and escalation processes.&lt;/li&gt; &lt;li&gt;Coordinate with internal treasury on intercompany funding protocols and settlements.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt; Financial Risk Management Infrastructure&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Build liquidity risk metrics: ratios, liquidity buffers, mismatches, flow analytics.&lt;/li&gt; &lt;li&gt;Develop interest-rate and market-risk monitoring for reserve asset performance.&lt;/li&gt; &lt;li&gt;Participate in counterparty risk assessments for custodians, asset managers, and banks.&lt;/li&gt; &lt;li&gt;Working with the CRO define risk appetite statements pertaining to liquidity and reserve management, asset concentration limits, and escalation thresholds and processes.&lt;/li&gt; &lt;li&gt;Working with the CRO develop stress-testing scenarios.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Stand up early-warning indicator dashboard and risk reporting to CRO &amp;amp; management.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt; Regulatory &amp;amp; Compliance Alignment&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Working with COO document end-to-end reserve and",
+      "salary": null,
+      "tags": [
+        "Lead",
+        "AI/ML",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-anthropic-5163925008",
+      "title": "Enterprise Account Executive, CPG",
+      "company": "Anthropic",
+      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5163925008",
+      "postedAt": "2026-03-30T04:07:29-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As an Enterprise Account Executive at Anthropic, you&#39;ll join the foundational team at the forefront of introducing our cutting-edge AI productivity API and SaaS solutions to consumer packaged goods companies across the EMEA markets. You&#39;ll drive the adoption of safe, frontier AI by securing strategic deals with CPG brands. You&#39;ll leverage your consultative sales expertise in the CPG sector to propel revenue growth while becoming a trusted partner to CPG stakeholders, helping them embed and deploy AI while uncovering its full range of capabilities in brand management, supply chain, and category planning. In collaboration with GTM, Product, and Marketing teams, you&#39;ll continuously refine our value proposition, sales methodology, and market positioning to resonate with CPG decision-makers.&lt;/p&gt; &lt;p&gt;The ideal candidate will have a passion for developing new market segments, pinpointing high-potential opportunities, and executing strategies to capture them. By driving deployment of Anthropic&#39;s emerging products, you will help enterprises obtain new capabilities while also advancing the ethical development of AI.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Win new business and drive revenue for Anthropic within the CPG sector. Navigate complex CPG organisations to reach key decision-makers, educate them about our services, and help them succeed with Anthropic. You&#39;ll own the full sales cycle, from first outbound to close&lt;/li&gt; &lt;li&gt;Design and execute innovative sales strategies tailored to CPG procurement cycles and budgeting processes to meet and exceed revenue quotas. Analyze CPG market landscapes, trends, and dynamics to translate high-level plans into targeted sales activities and campaigns&lt;/li&gt; &lt;li&gt;Spearhead market expansion by identifying new use cases within brand teams, supply chain functions, and commercial operations. Collaborate cross-functionally to differentiate our offerings for CPG applications&lt;/li&gt; &lt;li&gt;Navigate complex CPG stakeholder ecosystems including executives, administrators, IT departments, and procurement offices to build consensus&lt;/li&gt; &lt;li&gt;Inform product roadmaps and features by gathering feedback from users and conveying CPG market needs. Provide insights that strengthen our value proposition for CPG&lt;/li&gt; &lt;li&gt;Continuously refine the CPG sales methodology by",
+      "salary": null,
+      "tags": [
         "AI/ML",
         "Sales"
       ]
     },
     {
-      "id": "sr-Visa-744000117496637",
-      "title": "Staff SW Engineer (6+ years, Golang)",
+      "id": "gh-anthropic-5163941008",
+      "title": "Enterprise Account Executive, Generalist",
+      "company": "Anthropic",
+      "location": "Paris, France",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5163941008",
+      "postedAt": "2026-03-30T04:50:27-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As an Enterprise Account Executive at Anthropic, you&#39;ll join the foundational team at the forefront of introducing our cutting-edge AI productivity SaaS solution to large enterprise organizations across France and Southern Europe. You&#39;ll drive the adoption of safe, frontier AI by securing strategic deals with major corporations, technology companies, and research institutions. You&#39;ll leverage your consultative sales expertise in the enterprise sector to propel revenue growth while becoming a trusted partner to enterprise stakeholders, helping them embed and deploy AI while uncovering its full range of capabilities across business operations, research, and administration. In collaboration with GTM, Product, and Marketing teams, you&#39;ll continuously refine our value proposition, sales methodology, and market positioning to resonate with enterprise decision-makers in the French market.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Win new business and drive revenue for Anthropic within the enterprise sector across France. Navigate complex enterprise organizations to reach key decision-makers, educate them about our services, and help them succeed with Anthropic. You&#39;ll own the full sales cycle, from first outbound to close&lt;/li&gt; &lt;li&gt;Design and execute innovative sales strategies tailored to enterprise procurement cycles and budgeting processes to meet and exceed revenue quotas. Analyze enterprise market landscapes, trends, and dynamics to translate high-level plans into targeted sales activities and campaigns&lt;/li&gt; &lt;li&gt;Spearhead market expansion by identifying new use cases within enterprise departments, innovation centers, and operational offices. Collaborate cross-functionally to differentiate our offerings for enterprise applications&lt;/li&gt; &lt;li&gt;Navigate complex enterprise stakeholder ecosystems including executives, administrators, IT departments, and procurement offices to build consensus across French business culture and practices&lt;/li&gt; &lt;li&gt;Inform product roadmaps and features by gathering feedback from enterprise users and conveying market needs from the French enterprise landscape. Provide insights that strengthen our value proposition for enterprise customers&lt;/li&gt; &lt;li&gt;Continuously refine the enterprise sales methodology by incorporating learnings into playbooks, templates, and best practices",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Sales"
+      ]
+    },
+    {
+      "id": "gh-anthropic-5163907008",
+      "title": "Enterprise Account Executive, Manufacturing",
+      "company": "Anthropic",
+      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5163907008",
+      "postedAt": "2026-03-30T04:48:38-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As an Enterprise Account Executive at Anthropic, you&#39;ll join the foundational team at the forefront of introducing our cutting-edge AI productivity API and SaaS solutions to manufacturing organisations across the EMEA markets. You&#39;ll drive the adoption of safe, frontier AI by securing strategic deals with manufacturing brands. You&#39;ll leverage your consultative sales expertise in the manufacturing sector to propel revenue growth while becoming a trusted partner to manufacturing stakeholders, helping them embed and deploy AI while uncovering its full range of capabilities in production, supply chain, and operations. In collaboration with GTM, Product, and Marketing teams, you&#39;ll continuously refine our value proposition, sales methodology, and market positioning to resonate with manufacturing decision-makers.&lt;/p&gt; &lt;p&gt;The ideal candidate will have a passion for developing new market segments, pinpointing high-potential opportunities, and executing strategies to capture them. By driving deployment of Anthropic&#39;s emerging products, you will help enterprises obtain new capabilities while also advancing the ethical development of AI.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Win new business and drive revenue for Anthropic within the manufacturing sector. Navigate complex manufacturing organisations to reach key decision-makers, educate them about our services, and help them succeed with Anthropic. You&#39;ll own the full sales cycle, from first outbound to close&lt;/li&gt; &lt;li&gt;Design and execute innovative sales strategies tailored to manufacturing procurement cycles and budgeting processes to meet and exceed revenue quotas. Analyze manufacturing market landscapes, trends, and dynamics to translate high-level plans into targeted sales activities and campaigns&lt;/li&gt; &lt;li&gt;Spearhead market expansion by identifying new use cases within production teams, engineering departments, and operations centres. Collaborate cross-functionally to differentiate our offerings for manufacturing applications&lt;/li&gt; &lt;li&gt;Navigate complex manufacturing stakeholder ecosystems including executives, administrators, IT departments, and procurement offices to build consensus&lt;/li&gt; &lt;li&gt;Inform product roadmaps and features by gathering feedback from users and conveying manufacturing market needs. Provide insights that strengthen our v",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Sales"
+      ]
+    },
+    {
+      "id": "gh-anthropic-5163917008",
+      "title": "Enterprise Account Executive, Retail",
+      "company": "Anthropic",
+      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5163917008",
+      "postedAt": "2026-03-30T07:55:33-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As an Enterprise Account Executive at Anthropic, you&#39;ll join the foundational team at the forefront of introducing our cutting-edge AI productivity API and SaaS solutions to retail organisations across the EMEA markets. You&#39;ll drive the adoption of safe, frontier AI by securing strategic deals with retail brands. You&#39;ll leverage your consultative sales expertise in the retail sector to propel revenue growth while becoming a trusted partner to retail stakeholders, helping them embed and deploy AI while uncovering its full range of capabilities in merchandising, customer experience, and store operations. In collaboration with GTM, Product, and Marketing teams, you&#39;ll continuously refine our value proposition, sales methodology, and market positioning to resonate with retail decision-makers.&lt;/p&gt; &lt;p&gt;The ideal candidate will have a passion for developing new market segments, pinpointing high-potential opportunities, and executing strategies to capture them. By driving deployment of Anthropic&#39;s emerging products, you will help enterprises obtain new capabilities while also advancing the ethical development of AI.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Win new business and drive revenue for Anthropic within the retail sector. Navigate complex retail organisations to reach key decision-makers, educate them about our services, and help them succeed with Anthropic. You&#39;ll own the full sales cycle, from first outbound to close&lt;/li&gt; &lt;li&gt;Design and execute innovative sales strategies tailored to retail procurement cycles and budgeting processes to meet and exceed revenue quotas. Analyze retail market landscapes, trends, and dynamics to translate high-level plans into targeted sales activities and campaigns&lt;/li&gt; &lt;li&gt;Spearhead market expansion by identifying new use cases within merchandising teams, e-commerce divisions, and store operations. Collaborate cross-functionally to differentiate our offerings for retail applications&lt;/li&gt; &lt;li&gt;Navigate complex retail stakeholder ecosystems including executives, administrators, IT departments, and procurement offices to build consensus&lt;/li&gt; &lt;li&gt;Inform product roadmaps and features by gathering feedback from users and conveying retail market needs. Provide insights that strengthen our value proposition for retail&lt;/li&gt; &lt;li&gt;Continuously refine t",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Sales"
+      ]
+    },
+    {
+      "id": "gh-databricks-8482697002",
+      "title": "Big Data Solutions Architect (Professional Services)",
+      "company": "Databricks",
+      "location": "Paris, France",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8482697002",
+      "postedAt": "2026-03-30T05:23:08-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;CSQ327R126&lt;/p&gt; &lt;p&gt;As a Big Data Solutions Architect (Resident Solutions Architect) in our Professional Services team you will work with clients on short to medium term customer engagements on their big data challenges using the Databricks platform. You will provide data engineering, data science, and cloud technology projects which require integrating with client systems, training, and other technical tasks to help customers to get most value out of their data. RSAs are billable and know how to complete projects according to specification with excellent customer service. You will report to the regional Manager/Lead.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The impact you will have:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;You will work on a variety of impactful customer technical projects which may include designing and building reference architectures, creating how-to&#39;s and productionalizing customer use cases&lt;/li&gt; &lt;li&gt;Work with engagement managers to scope variety of&amp;nbsp; professional services work with input from the customer&lt;/li&gt; &lt;li&gt;Guide strategic customers as they implement transformational big data projects, 3rd party migrations, including end-to-end design, build and deployment of industry-leading big data and AI applications&lt;/li&gt; &lt;li&gt;Consult on architecture and design; bootstrap or implement customer projects which leads to a customers&#39; successful understanding, evaluation and adoption of Databricks.&lt;/li&gt; &lt;li&gt;Provide an escalated level of support for customer operational issues.&lt;/li&gt; &lt;li&gt;You will work with the Databricks technical team, Project Manager, Architect and Customer team to ensure the technical components of the engagement are delivered to meet customer&#39;s needs.&lt;/li&gt; &lt;li&gt;Work with Engineering and Databricks Customer Support to provide product and implementation feedback and to guide rapid resolution for engagement specific product and support issues.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What we look for:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;6+ years experience in data engineering, data platforms &amp;amp; analytics&lt;/li&gt; &lt;li&gt;Strong expertise in data warehousing concepts, architecture, and migration strategies.&lt;/li&gt; &lt;li&gt;Comfortable writing code in either Python, Pyspark or Scala&lt;/li&gt; &lt;li&gt;Working knowledge of two or more common Cloud ecosystems (AWS, Azure, GCP) with expertise in at least one&lt;/li&gt; &lt;li&gt;Deep experience with distributed computing with Apache Spark™ and knowledge of Spark runtime internals&lt;/li&gt; &lt;li&gt;Familiarity with CI/CD for production deployments&lt;/li&gt; &lt;li&gt;Working knowledge of MLOps&amp;nbsp;&lt;/li&gt; &lt;li&gt;Design and deployment of performant end-to-end data architectures&lt;/li&gt; &lt;li&gt;Experience with technical project delivery - managing scope and timelines.&lt;/li&gt; &lt;li&g",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Data"
+      ]
+    },
+    {
+      "id": "gh-databricks-8482372002",
+      "title": "Candidate Experience Coordinator (Fixed-Term Contract)",
+      "company": "Databricks",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8482372002",
+      "postedAt": "2026-03-29T15:53:52-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;As a Candidate Experience Coordinator at Databricks, you&#39;ll be the engine that powers our recruiting efforts, scheduling interviews, and moving candidates through the pipeline across Europe. As one of the first points of contact for candidates, you&#39;ll partner with Recruiters, Sourcers, and hiring teams to deliver an exceptional interviewing experience.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Build relationships and trust with the broader Talent Acquisition team, cross-functional partners, and hiring stakeholders&lt;/li&gt; &lt;li&gt;Coordinate high volumes of virtual and in-person interviews by navigating complex scheduling scenarios across multiple stakeholders&amp;nbsp;&lt;/li&gt; &lt;li&gt;Serve as the primary point of contact for candidates, managing timely, professional, and friendly communication (written and verbal) to ensure candidates feel supported throughout their journey&lt;/li&gt; &lt;li&gt;Handle candidate travel arrangements and expenses for in-person interviewing&lt;/li&gt; &lt;li&gt;Executing other post-interviewing tasks such as scheduling debriefs and reference checks, and generating offer letters.&lt;/li&gt; &lt;li&gt;Contribute to and identify data-driven improvements and ad hoc projects that enhance our recruitment processes and candidate experience programs&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What we&#39;re looking for:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Effective communication and prioritization skills&lt;/li&gt; &lt;li&gt;The ability to thrive in a fast-paced environment with evolving needs&amp;nbsp;&lt;/li&gt; &lt;li&gt;Collaborative mindset and openness to feedback&lt;/li&gt; &lt;li&gt;Proactive approach to resolving ambiguous challenges&amp;nbsp;&lt;/li&gt; &lt;li&gt;A track record of high accuracy and attention to detail&lt;/li&gt; &lt;li&gt;An interest in technology and artificial intelligence&lt;/li&gt; &lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Databricks&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Databricks is the data and AI company. More than 10,000 organizations worldwide — including Comcast, Condé Nast, Grammarly, and over 50% of the Fortune 500 — rely on the Databricks Data Intelligence Platform to unify and democratize data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe and was founded by the original creators of Lakehouse, Apache Spark™, Delta Lake and MLflow. To learn more, follow Databricks on&amp;nbsp;&lt;span style=&quot;color: rgb(255, 54, 33);&quot;&gt;&lt;a style=&quot;color: rgb(255, 54, 33);&quot; href=&quot;https://twitter.com/databricks&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://twitter.com/databricks&amp;amp;source=gmail&amp;amp;ust=1700237575733000&amp;amp;usg=AOvVaw03FL8fJvOD97ytN02f5G2C&quot;&gt;Twitter&",
+      "salary": null,
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-databricks-8478702002",
+      "title": "Emerging Enterprise Hunter Account Executive",
+      "company": "Databricks",
+      "location": "London, United Kingdom",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8478702002",
+      "postedAt": "2026-03-30T03:56:13-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;SLSQ327R208&lt;/p&gt; &lt;p&gt;Want to help solve the world&#39;s toughest problems with data and AI? This is what we do every day at Databricks.&lt;/p&gt; &lt;p&gt;Databricks operates at the leading edge of the Data and AI space. Our customers turn to us to lead the accelerated innovation their businesses need to gain first-mover advantage in today&#39;s ultra-competitive landscape.&lt;/p&gt; &lt;p&gt;As an Emerging Enterprise Hunter (Digital Natives), you are an enterprise sales professional experienced in selling to Digital Native accounts across the UK and Ireland. You know how to sell innovation and change through customer vision expansion and can guide deals forward to compress decision cycles. You love understanding a product in depth and are passionate about communicating its value to Customers and Partners.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Always looking for new opportunities, you will close new accounts and expand them. Along with the chance to close exciting deals and solve meaningful problems, we also offer accelerators above 100% quota attainment.&lt;/p&gt; &lt;p&gt;You will report to the Emerging Enterprise Sales Senior Manager, UKI.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The impact you will have:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Assess your territory and develop a successful execution strategy&amp;nbsp;&lt;/li&gt; &lt;li&gt;Use a solution-based approach to selling and creating value for new logo accounts&amp;nbsp;&lt;/li&gt; &lt;li&gt;Identify and close quick, small wins while managing longer, complex sales cycles&lt;/li&gt; &lt;li&gt;Track all customer details including use case, purchase time frames, next steps, and forecasting in Salesforce&lt;/li&gt; &lt;li&gt;Exceed activity and quarterly revenue targets&lt;/li&gt; &lt;li&gt;Promote the value of the Databricks&#39; Data Intelligence Platform&amp;nbsp;&lt;/li&gt; &lt;li&gt;Ensure 100% satisfaction among all customers&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What we look for:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Understanding of the data platform and cloud ecosystems&lt;/li&gt; &lt;li&gt;Some exposure to the software industry and some basic concepts of selling SaaS, Data and Business Value&lt;/li&gt; &lt;li&gt;Basic understanding on how to research company information and identifying key stakeholders&lt;/li&gt; &lt;li&gt;Competent with prospecting research and ability to map out key stakeholders&lt;/li&gt; &lt;li&gt;Adept in selling to technical buyers&amp;nbsp;&lt;/li&gt; &lt;li&gt;Understanding of MEDDPICC&lt;/li&gt; &lt;li&gt;Experience exceeding sales targets/quotas&lt;/li&gt; &lt;li&gt;Bachelor&#39;s Degree or relevant work experience&lt;/li&gt; &lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Databricks&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Databricks is the data and AI company. More than 10,000 organizations worldwide ",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Sales"
+      ]
+    },
+    {
+      "id": "gh-databricks-8482144002",
+      "title": "Enterprise Account Executive - Financial Services",
+      "company": "Databricks",
+      "location": "Montréal, Canada",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8482144002",
+      "postedAt": "2026-03-30T01:47:40-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;SLSQ227R615&lt;/p&gt; &lt;p&gt;As an Enterprise Account Executive - Financial Services at Databricks, you are a strategic sales professional experienced in selling into enterprise accounts. Having experience working with Financial Services accounts is preferred. You know how to sell innovation and change through customer vision expansion and can guide deals forward to compress decision cycles. You love understanding a product in depth and are passionate about communicating its value to Customers and System Integrators. Always looking for new opportunities, you will be asked to drive consumption. Along with the chance to close an exciting deal, we also offer accelerators above 100% quota attainment.&lt;/p&gt; &lt;p&gt;The impact you will have:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Meet with CIOs, IT executives, LOB executives, Program Managers, and other important partners&lt;/li&gt; &lt;li&gt;Close both new accounts and existing accounts&lt;/li&gt; &lt;li&gt;Identify and close quick, small wins while managing longer, complex sales cycles&lt;/li&gt; &lt;li&gt;Exceed activity, pipeline, and revenue targets&lt;/li&gt; &lt;li&gt;Track all customer details including use case, purchase time frames, next steps, and forecasting in Salesforce&lt;/li&gt; &lt;li&gt;Use a solution-based approach to selling and creating value for customers&lt;/li&gt; &lt;li&gt;Promote Databricks&#39; enterprise cloud data platform powered by Apache Spark™&lt;/li&gt; &lt;li&gt;Ensure 100% satisfaction among all customers&lt;/li&gt; &lt;li&gt;Prioritize opportunities and applying appropriate resources&lt;/li&gt; &lt;li&gt;Build a plan for success internally at Databricks and externally with your accounts&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;What we look for:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;You have previously worked in an early stage company and you know how to navigate and be successful&lt;/li&gt; &lt;li&gt;Field sales experience within big data, Cloud, or SaaS sales&lt;/li&gt; &lt;li&gt;FINS Experience&lt;/li&gt; &lt;li&gt;Prior customer relationships with CIOs, program managers, and essential decision makers&lt;/li&gt; &lt;li&gt;Simply articulate intricate cloud technologies&lt;/li&gt; &lt;li&gt;7+ years experience exceeding sales quotas&lt;/li&gt; &lt;li&gt;Understanding of Spark and big data preferable&lt;/li&gt; &lt;li&gt;French Speaking&lt;/li&gt; &lt;li&gt;Passion for cloud technologies&lt;/li&gt; &lt;li&gt;Bachelor&#39;s Degree&lt;/li&gt; &lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Databricks&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Databricks is the data and AI company. More than 10,000 organizations worldwide — including Comcast, Condé Nast, Grammarly, and over 50% of the Fortune 500 — rely on the Databricks Data Intelligence Platform to unify and democratize data, analytics and AI. Databricks is headquartered in San Francisco, with offices ",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Sales",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-databricks-8481717002",
+      "title": "Solutions Architect",
+      "company": "Databricks",
+      "location": "Munich, Germany",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8481717002",
+      "postedAt": "2026-03-30T04:32:35-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;FEQ327R45&lt;/p&gt; &lt;p&gt;At Databricks, our core principles are at the heart of everything we do; creating a culture of proactiveness and a customer-centric mindset guides us to create a unified platform that makes data science and analytics accessible to everyone. We aim to inspire our customers to make informed decisions that push their business forward. We provide a user-friendly and intuitive platform that makes it easy to turn insights into action and fosters a culture of creativity, experimentation, and continuous improvement. You will be an essential part of this mission, using your technical expertise to demonstrate how our Data Intelligence Platform can help customers solve their complex data challenges. You&#39;ll work with a collaborative, customer-focused team that values innovation and creativity, using your skills to create customised solutions to help our customers achieve their goals and guide their businesses forward. Join us in our quest to change how people work with data and make a better world!&lt;/p&gt; &lt;p data-renderer-start-pos=&quot;2006&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;The impact you will have: &lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Form successful relationships with clients throughout your assigned territory to provide technical and business value in collaboration with an Account Executive. This includes owning the (or parts thereof) technical relationship with clients from a pre-sales point of view&lt;/li&gt; &lt;li&gt;Become a trusted technical advisor to your customers in the domain of Data Engineering, Data Warehousing and/or Data Science&lt;/li&gt; &lt;li&gt;Operate as an expert in big data analytics to excite customers about Databricks. You will develop into a ‘champion’ and trusted advisor on architecture, design, and implementation to lead the successful adoption of the Databricks Data Intelligence Platform.&lt;/li&gt; &lt;li&gt;Scale best practices in your field and support customers by authoring reference architectures, how-tos, and demo applications, and help build the Databricks community in your region by leading workshops, seminars, and meet-ups.&lt;/li&gt; &lt;li&gt;Grow your knowledge and expertise to the level of a technical and/or industry specialist.&lt;/li&gt; &lt;/ul&gt; &lt;p data-renderer-start-pos=&quot;2367&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;What we look for:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Familiarity working with clients, creating a narrative, answering customer questions, aligning the agenda with important interests, and achieving tangible outcomes.&lt;/li&gt; &lt;li&gt;Ability to independently deliver a technical proposition, identify customers&#39; pain-points, and explain important areas for business value to develop a trusted advisor skillset.&lt;/li&gt; &lt;li&gt;A proactive mindset who likes to work as a part of a larger account team and enjoys to independently take ownership of technical topics and ",
+      "salary": null,
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-gitlab-8476671002",
+      "title": "Senior Manager, Engagement Management",
+      "company": "GitLab",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8476671002",
+      "postedAt": "2026-03-30T06:59:37-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt; and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;GitLab is an open core software company that develops the most comprehensive &lt;a class=&quot;_112a7898 _727ac2a2 _38a26304 _9fd6260d d4697dfb&quot; href=&quot;https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fabout%2Egitlab%2Ecom%2Fsolutions%2Fdevops-platform&amp;amp;urlhash=IVX0&amp;amp;isSdui=true&quot; target=&quot;_blank&quot;&gt;AI-powered DevSecOps Platform&lt;/a&gt;, used by more than 100,000 organizations. Our &lt;a class=&quot;_112a7898 _727ac2a2 _38a26304 _9fd6260d d4697dfb&quot; href=&quot;https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fabout%2Egitlab%2Ecom%2Fcompany%2Fmission&amp;amp;urlhash=z2YI&amp;amp;isSdui=true&quot; target=&quot;_blank&quot;&gt;mission&lt;/a&gt; is to enable everyone to contribute to and co-create the software that powers our world. When everyone can contribute, consumers become contributors, significantly accelerating the rate of human progress. This mission is integral to our culture, influencing how we hire, build products, and lead our industry. We make this possible at GitLab by running our &lt;a class=&quot;_112a7898 _727ac2a2 _38a26304 _9fd6260d d4697dfb&quot; href=&quot;https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fabout%2Egitlab%2Ecom%2Fhandbook%2Fusing-gitlab-at-gitlab&amp;amp;urlhash=9FBd&amp;amp;isSdui=true&quot; target=&quot;_blank&quot;&gt;operations&l",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Manager",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000117651557",
+      "title": "Staff Software Engineer (6+ years, GO, AWS)",
       "company": "Visa",
       "location": "Bengaluru, INDIA in",
-      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000117496637",
-      "postedAt": "2026-03-29T13:13:05.405Z",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000117651557",
+      "postedAt": "2026-03-30T13:29:46.961Z",
       "source": "smartrecruiters",
-      "description": "Staff SW Engineer (6+ years, Golang) Software Development/Engineering India Visa Inc. Pismo Engineering and Technology",
+      "description": "Staff Software Engineer (6+ years, GO, AWS) Software Development/Engineering India Visa Inc. Pismo Engineering and Technology",
       "salary": null,
       "tags": [
         "Principal IC",
@@ -51,18 +265,225 @@
       ]
     },
     {
-      "id": "sr-Visa-744000117451577",
-      "title": "SW Engineer - Sr. Consultant Level",
+      "id": "sr-Visa-744000117651297",
+      "title": "Copy of Chief Software Engineer",
       "company": "Visa",
-      "location": "Austin, TX us",
-      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000117451577",
-      "postedAt": "2026-03-28T14:10:38.735Z",
+      "location": "Foster City, CA us",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000117651297",
+      "postedAt": "2026-03-30T13:28:57.511Z",
       "source": "smartrecruiters",
-      "description": "SW Engineer - Sr. Consultant Level Software Development/Engineering United States Visa Inc. Visa Engineering and Technology",
+      "description": "Copy of Chief Software Engineer Software Development/Engineering United States Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000117650667",
+      "title": "Sr. SW Engineer (2+ years, GO, AWS)",
+      "company": "Visa",
+      "location": "Bengaluru, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000117650667",
+      "postedAt": "2026-03-30T13:27:08.692Z",
+      "source": "smartrecruiters",
+      "description": "Sr. SW Engineer (2+ years, GO, AWS) Software Development/Engineering India Visa Inc. Pismo Engineering and Technology",
       "salary": null,
       "tags": [
         "Senior",
         "Engineering"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000117647129",
+      "title": "Director of Data Center Operations",
+      "company": "Visa",
+      "location": "Highlands Ranch, CO us",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000117647129",
+      "postedAt": "2026-03-30T13:22:04.377Z",
+      "source": "smartrecruiters",
+      "description": "Director of Data Center Operations Software Development/Engineering United States Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Director",
+        "Data",
+        "Operations"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000117641122",
+      "title": "Senior Data Center Facilities Engineer (Night Shift)",
+      "company": "Visa",
+      "location": "Highlands Ranch, CO us",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000117641122",
+      "postedAt": "2026-03-30T12:57:01.900Z",
+      "source": "smartrecruiters",
+      "description": "Senior Data Center Facilities Engineer (Night Shift) Software Development/Engineering United States Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Engineering",
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000117636876",
+      "title": "Software Engineer (2024 / 25, GenAI must)",
+      "company": "Visa",
+      "location": "Bengaluru, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000117636876",
+      "postedAt": "2026-03-30T12:35:27.424Z",
+      "source": "smartrecruiters",
+      "description": "Software Engineer (2024 / 25, GenAI must) Data Science/Data Engineering India Visa Inc. Visa Product and Design",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000117631733",
+      "title": "Solution Consulting Manager",
+      "company": "Visa",
+      "location": "Pasay City, PHILIPPINES ph",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000117631733",
+      "postedAt": "2026-03-30T12:19:03.859Z",
+      "source": "smartrecruiters",
+      "description": "Solution Consulting Manager Sales Philippines Visa Inc. Visa Sales",
+      "salary": null,
+      "tags": [
+        "Manager"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000117620057",
+      "title": "Communications & Events Planning Associate ",
+      "company": "Visa",
+      "location": "Kyiv, UKRAINE ua",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000117620057",
+      "postedAt": "2026-03-30T11:17:57.742Z",
+      "source": "smartrecruiters",
+      "description": "Communications & Events Planning Associate  Facilities Management Ukraine Visa Inc. Visa Corporate Services and Administration",
+      "salary": null,
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000117599873",
+      "title": "Senior Manager - 11 Yrs to 14 Yrs , Java Backend, ",
+      "company": "Visa",
+      "location": "Bengaluru, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000117599873",
+      "postedAt": "2026-03-30T09:35:53.911Z",
+      "source": "smartrecruiters",
+      "description": "Senior Manager - 11 Yrs to 14 Yrs , Java Backend,  Software Development/Engineering India Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Manager"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000117590867",
+      "title": "Senior Manager, Account Executive - Travel Merchants",
+      "company": "Visa",
+      "location": "Dubai, UNITED ARAB EMIRATES ae",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000117590867",
+      "postedAt": "2026-03-30T08:48:33.821Z",
+      "source": "smartrecruiters",
+      "description": "Senior Manager, Account Executive - Travel Merchants Business Development United Arab Emirates Visa Inc. Visa Sales",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Manager",
+        "Sales"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000117566918",
+      "title": "Sr. Manager, Account Executive",
+      "company": "Visa",
+      "location": "Sydney, AUSTRALIA au",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000117566918",
+      "postedAt": "2026-03-30T07:03:15.515Z",
+      "source": "smartrecruiters",
+      "description": "Sr. Manager, Account Executive Account Management Australia Visa Inc. Visa Sales",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Manager",
+        "Sales"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000117558537",
+      "title": "Product Analyst (Product Management + Data visualization + AI,ML + Stakeholder management) (3-5 years experience)",
+      "company": "Visa",
+      "location": "Bengaluru, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000117558537",
+      "postedAt": "2026-03-30T05:49:29.647Z",
+      "source": "smartrecruiters",
+      "description": "Product Analyst (Product Management + Data visualization + AI,ML + Stakeholder management) (3-5 years experience) Product/Solutions Management India Visa Inc. Visa Product and Design",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000117555786",
+      "title": "Trilingual Client Care Analyst (EN-PORT-SP)",
+      "company": "Visa",
+      "location": "Bogota, COLOMBIA co",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000117555786",
+      "postedAt": "2026-03-30T04:54:10.071Z",
+      "source": "smartrecruiters",
+      "description": "Trilingual Client Care Analyst (EN-PORT-SP) Customer Service Colombia Visa Inc. Visa Client Services",
+      "salary": null,
+      "tags": [
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000117551867",
+      "title": "Data Scientist",
+      "company": "Visa",
+      "location": "Beijing, Beijing cn",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000117551867",
+      "postedAt": "2026-03-30T03:34:27.005Z",
+      "source": "smartrecruiters",
+      "description": "Data Scientist Data Science/Data Engineering China Visa Inc. Visa Data Science and Analytics",
+      "salary": null,
+      "tags": [
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000117549975",
+      "title": "Client Consulting Director",
+      "company": "Visa",
+      "location": "Jakarta, INDONESIA id",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000117549975",
+      "postedAt": "2026-03-30T03:10:59.551Z",
+      "source": "smartrecruiters",
+      "description": "Client Consulting Director Consulting Indonesia Visa Inc. Visa Sales",
+      "salary": null,
+      "tags": [
+        "Director"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000117508217",
+      "title": "Director, Product Management – Payments Platform / Payment Framework",
+      "company": "Visa",
+      "location": "Austin, TX us",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000117508217",
+      "postedAt": "2026-03-29T19:34:21.160Z",
+      "source": "smartrecruiters",
+      "description": "Director, Product Management – Payments Platform / Payment Framework Product/Solutions Management United States Visa Inc. Visa Product and Design",
+      "salary": null,
+      "tags": [
+        "Director"
       ]
     }
   ]
