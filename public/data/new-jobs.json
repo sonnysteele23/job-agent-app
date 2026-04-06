@@ -1,19 +1,369 @@
 {
-  "scrapedAt": "2026-04-05T13:28:57.578Z",
-  "count": 1,
+  "scrapedAt": "2026-04-06T13:37:00.690Z",
+  "count": 24,
   "jobs": [
     {
-      "id": "sr-Visa-744000118733948",
-      "title": "Director, Visa Direct Product & Commercialization",
+      "id": "gh-stripe-7761131",
+      "title": " Strategy and Analytics Analyst ",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=7761131",
+      "postedAt": "2026-04-06T05:55:44-04:00",
+      "source": "greenhouse",
+      "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Strategy &amp;amp; Analytics Internal Systems and SDC team aspires to supercharge the Internal Systems and SDC organization with analytics and insights. The Internal Systems and SDC org creates the engineering infrastructure and runs the internal operations that enables Stripe to succeed. We deliver data-driven insights that inform business decisions, drive measurable operational improvements, and guide strategy. We are not just data analysts, we are a mix of strategic business partners, deeply strategic and/or technical operational executors. We ensure timely, reliable, high-quality data for not just Internal Systems and SDC, but for stakeholders across Stripe.&lt;/p&gt; &lt;h2&gt;What you’ll do&lt;/h2&gt; &lt;p&gt;In this role, you’ll be the go-to expert for your business area. You’ll partner directly with our Head of SDC and be his go-to for all things data, insights, and strategy. You’ll be hands-on and responsible for delivering critical insights, ensuring data driven decision making is at the core of what we do. You’ll partner with leadership to drive business strategy, planning, goal-setting and performance tracking. You may also scope and lead mission critical projects and execute on strategic initiatives.&lt;/p&gt; &lt;h3&gt;Responsibilities&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Metrics &amp;amp; Insights: Wrangle large, highly complex datasets using SQL into actionable insights and become the data expert for your business area. Develop metrics and large-scale dashboards to track the health of our user-facing and internal teams. Perform analyses (using SQL &amp;amp; other analytical tools/languages), identify trends, conduct research, build models, all to deliver objective, critical insights that can inform leadership of opportunities, risks, and strategic priorities.&lt;/li&gt; &lt;li&gt;Communicate with executives: Create narratives and documents that tell the story of your business area to influence senior Operations leadership and Stripe executive team decision making. Own executive-facing weekly, monthly or quarterly reporting.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Stakeholder management: Influence and drive cross-functional change by partnering with stakeholders across a wide internal network of globally distributed teams, including Ops, Finance, Data Science, Product/Engineering, and more&lt;/li&gt; &lt;li&gt;Drive op",
+      "salary": null,
+      "tags": [
+        "Data",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-stripe-7543679",
+      "title": "Technical Partner Manager - Networks",
+      "company": "Stripe",
+      "location": "US-Remote; US-Chicago; US-Atlanta; Canada-Toronto",
+      "url": "https://stripe.com/jobs/search?gh_jid=7543679",
+      "postedAt": "2026-04-06T09:17:14-04:00",
+      "source": "greenhouse",
+      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Global Partner Engineering and Operations (PE&amp;amp;O) team is part of Stripe’s Global Partnerships organization and is&amp;nbsp; responsible for managing the technical and operational aspects of new and existing product partnerships and programs. Positioned at the intersection of product, engineering, and partnerships, we focus on technical operational execution and optimization with financial ecosystem partners. We drive smooth technical onboarding and implementation with financial partners, we manage the ongoing engagement between Stripe and its partners, and we monitor and optimize stringent quality and performance targets. Our team also drives partner-agnostic programs and initiatives to address broad ecosystem challenges and builds technical solutions and tools that enhance operational efficiency and scalability.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We are seeking a knowledgeable and proactive Technical Partner Manager to join our Global Partner Engineering &amp;amp; Operations (PE&amp;amp;O) Network partnerships team at Stripe. In this role, you will be responsible for building and maintaining strong relationships with our partners, facilitating technical integrations and launching new capabilities with new and existing partners, and ensuring the optimal performance of our solutions with financial partners. The ideal candidate will possess a blend of technical expertise and account management experience, with a focus on driving partner success.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Partner Management: &lt;/strong&gt;Build and maintain strong, long-term relationships with key financial ecosystem partners, serving as the primary point of contact for technical inquiries and operational support.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Technical Integration: &lt;/strong&gt;Collaborate closely with partners to define and implement successful integrations, ensuring all technical requirements are met and projects are delivered on time.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Performance Tracking: &lt;/strong&gt;Establish Service Level Agreements (SLAs) and performance standards for partner accounts, leveraging metrics and data analys",
+      "salary": null,
+      "tags": [
+        "Manager",
+        "AI/ML",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-anthropic-5117581008",
+      "title": "Solutions Architect, Applied AI",
+      "company": "Anthropic",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5117581008",
+      "postedAt": "2026-04-06T02:29:54-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2 class=&quot;heading&quot;&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As an Applied AI team member at Anthropic India, you will be a Pre-Sales architect focused on becoming a trusted technical advisor helping large enterprises across India and the Asia-Pacific region understand the value of Claude and paint the vision on how they can successfully integrate and deploy Claude into their technology stack. You&#39;ll combine your deep technical expertise with customer-facing skills to architect innovative LLM solutions that address complex business challenges while maintaining our high standards for safety and reliability.&lt;/p&gt; &lt;p&gt;Working closely with our Sales, Product, and Engineering teams, you&#39;ll guide customers from initial technical discovery through successful deployment. You&#39;ll leverage your expertise to help customers understand Claude&#39;s capabilities, develop evals, and design scalable architectures that maximize the value of our AI systems.&lt;/p&gt; &lt;h2 class=&quot;heading&quot;&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;Partner with account executives to deeply understand customer requirements and translate them into technical solutions, ensuring alignment between business objectives and technical implementation&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Serve as the primary technical advisor to enterprise customers throughout their Claude adoption journey, from discovery to initial evaluation through deployment. You will need to coordinate internally across multiple teams &amp;amp; stakeholders to drive customer success&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Support customers building with both the Claude API and Claude for Work&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Create and deliver compelling technical content tailored to different audiences. You will need to be able to spread the gamut from technical deep dives for engineering &amp;amp; development teams up to business value focused conversations with executives&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Guide technical architecture decisions and help customers integrate Claude effectively into their existing technology stack&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Help customers develop evaluation frameworks to measure Claude&#39;s performance for their specific use cases&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Identify common integration patterns and contribute insights back to our Product and Engineering teams&lt;/p&",
+      "salary": null,
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-databricks-8337377002",
+      "title": "Senior Technical Solutions Engineer - Platform (Greater China Region) ",
+      "company": "Databricks",
+      "location": "Singapore",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8337377002",
+      "postedAt": "2026-04-06T04:34:44-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;Req: CSQ127R180&lt;br&gt;Location: Singapore&lt;/p&gt; &lt;p&gt;As a Senior Technical Solutions Engineer, you will provide technical support for Databricks Platform related issues and resolve any challenges involving the Databricks unified analytics platform. You will assist customers in their Databricks journey and provide them with the guidance and knowledge that they need to accomplish value and achieve their strategic goals using our products. They will look to you for answers to everything from basic technical questions to complex architectural scenarios spanning across the entire Big Data ecosystem. You will report to the Senior Manager of Technical Solutions.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The Impact You Will Have&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Troubleshoot and resolve complex customer issues related to Databricks platform&lt;/li&gt; &lt;li&gt;Provide best practices support for custom-built solutions developed by Databricks customers&lt;/li&gt; &lt;li&gt;Deliver suggestions for improving performance in customer-specific environments&lt;/li&gt; &lt;li&gt;Assist with issues around third-party integrations with Databricks environment&lt;/li&gt; &lt;li&gt;Demonstrate and coordinate with engineering and escalation teams to achieve resolution of customer issues and requests&lt;/li&gt; &lt;li&gt;Participate in the creation and maintenance of company documentation and knowledge articles&lt;/li&gt; &lt;li&gt;Be a true proponent of customer advocacy&lt;/li&gt; &lt;li&gt;Strengthen your AWS/Azure and Databricks platform expertise through learning and internal training programs&lt;/li&gt; &lt;li&gt;Participate in weekend and weekday on call rotation&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What We Look For&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;4+ years experience designing, building, testing, and maintaining Python/Java/Scala based applications. Expert level knowledge in python is desired .&lt;/li&gt; &lt;li&gt;Strong experience with SQL-based database is required.&lt;/li&gt; &lt;li&gt;Linux/Unix administration skills.&lt;/li&gt; &lt;li&gt;Hands-on experience with AWS, Azure or GCP.&lt;/li&gt; &lt;li&gt;Experience with &quot;Distributed Big Data Computing&quot; environment.&lt;/li&gt; &lt;li&gt;Technical degree or the equivalent experience.&lt;em&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Proficiency in Mandarin and English is a must as this role serves clients based in the Greater China Region and involves direct customer communications in Mandarin.&amp;nbsp;&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Databricks&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Databricks is the data and AI company. More than 10,000 organizations worldwide — including Comcast, Condé Nast, Grammarly, and over 50% of the Fortune 500 — rely on the Databricks Data Intellig",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "AI/ML",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "gh-gitlab-8478359002",
+      "title": "Senior Data Analyst, Enterprise Analytics ",
+      "company": "GitLab",
+      "location": "Remote, Bangalore",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8478359002",
+      "postedAt": "2026-04-06T09:08:56-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt; and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;An overview of this role&lt;/h2&gt; &lt;p&gt;As a &lt;strong&gt;&lt;strong class=&quot;textBold&quot;&gt;Senior Data Analyst&lt;/strong&gt;&lt;/strong&gt; on GitLab&#39;s &lt;strong&gt;&lt;strong class=&quot;textBold&quot;&gt;Enterprise Analytics&lt;/strong&gt;&lt;/strong&gt; team, you&#39;ll support some of GitLab&#39;s most visible go-to-market and executive reporting. You&#39;ll work closely with &lt;strong&gt;&lt;strong class=&quot;textBold&quot;&gt;Sales, Marketing, Revenue Operations, Finance, and analytics partners&lt;/strong&gt;&lt;/strong&gt; to deliver company-level reports, go-to-market performance views, and lifecycle reporting that leaders use to run the business. Working in &lt;strong&gt;&lt;strong class=&quot;textBold&quot;&gt;Snowflake, dbt, Tableau, and VS Code&lt;/strong&gt;&lt;/strong&gt;, you&#39;ll turn ambiguous business questions into trusted, well-documented data products that serve as a single source of truth for performance and targets versus actuals. You&#39;ll also help improve our &lt;strong&gt;&lt;strong class=&quot;textBold&quot;&gt;Enterprise Analytics handbook&lt;/strong&gt;&lt;/strong&gt; and core data foundations so strategy, processes, and metric definitions are clear and usable in our all-remote, values-driven environment.&lt;/p&gt; &lt;h2&gt;What you&#39;ll do&lt;/h2&gt; &lt;ul&gt;",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "AI/ML",
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000118860872",
+      "title": "Sr. Manager - Solution Architect - NALP Lead",
       "company": "Visa",
-      "location": "Bogota, COLOMBIA co",
-      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118733948",
-      "postedAt": "2026-04-05T01:47:50.839Z",
+      "location": "Cairo, EGYPT eg",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118860872",
+      "postedAt": "2026-04-06T13:09:22.880Z",
       "source": "smartrecruiters",
-      "description": "Director, Visa Direct Product & Commercialization Product/Solutions Management Colombia Visa Inc. Visa Product and Design",
+      "description": "Sr. Manager - Solution Architect - NALP Lead Product/Solutions Management Egypt Visa Inc. Visa Product and Design",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Lead",
+        "Manager"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000118860555",
+      "title": "Sr Manager -  Solution Architect - GCC Lead",
+      "company": "Visa",
+      "location": "Riyadh, SAUDI ARABIA sa",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118860555",
+      "postedAt": "2026-04-06T13:08:44.770Z",
+      "source": "smartrecruiters",
+      "description": "Sr Manager -  Solution Architect - GCC Lead Product/Solutions Management Saudi Arabia Visa Inc. Visa Product and Design",
+      "salary": null,
+      "tags": [
+        "Lead",
+        "Manager"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000118847818",
+      "title": "Business Associate – Visa Leadership Associate Program (For Fresh Graduates)",
+      "company": "Visa",
+      "location": "Kyiv, Kyiv city ua",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118847818",
+      "postedAt": "2026-04-06T10:37:47.577Z",
+      "source": "smartrecruiters",
+      "description": "Business Associate – Visa Leadership Associate Program (For Fresh Graduates) Human Resources Ukraine Visa Inc. Visa People and Culture",
+      "salary": null,
+      "tags": [
+        "Lead",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000118848257",
+      "title": "Compliance Manager",
+      "company": "Visa",
+      "location": "Pasay City, PHILIPPINES ph",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118848257",
+      "postedAt": "2026-04-06T10:37:29.499Z",
+      "source": "smartrecruiters",
+      "description": "Compliance Manager Legal & Compliance Philippines Visa Inc. Visa Legal and Regulatory Affairs",
+      "salary": null,
+      "tags": [
+        "Manager",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000118847987",
+      "title": "Compliance Specialist",
+      "company": "Visa",
+      "location": "Pasay City, PHILIPPINES ph",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118847987",
+      "postedAt": "2026-04-06T10:33:57.393Z",
+      "source": "smartrecruiters",
+      "description": "Compliance Specialist Legal & Compliance Philippines Visa Inc. Visa Legal and Regulatory Affairs",
+      "salary": null,
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000118847237",
+      "title": "Staff Software Engineer- Java Backend - 6+yrs of exp",
+      "company": "Visa",
+      "location": "Bengaluru, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118847237",
+      "postedAt": "2026-04-06T10:23:56.822Z",
+      "source": "smartrecruiters",
+      "description": "Staff Software Engineer- Java Backend - 6+yrs of exp Software Development/Engineering India Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Principal IC",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000118844038",
+      "title": "Staff Software Engineer- Java backend-6+yrs",
+      "company": "Visa",
+      "location": "Bengaluru, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118844038",
+      "postedAt": "2026-04-06T09:37:21.480Z",
+      "source": "smartrecruiters",
+      "description": "Staff Software Engineer- Java backend-6+yrs Software Development/Engineering India Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Principal IC",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000118842647",
+      "title": "Manager (Knowledge Management and AI) ",
+      "company": "Visa",
+      "location": "Bengaluru, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118842647",
+      "postedAt": "2026-04-06T09:16:31.964Z",
+      "source": "smartrecruiters",
+      "description": "Manager (Knowledge Management and AI)  Consulting India Visa Inc. Visa Sales",
+      "salary": null,
+      "tags": [
+        "Manager",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000118839687",
+      "title": "Staff Site Reliability Engineering - Linux, Containers, Terraform, Cloud, GenAI",
+      "company": "Visa",
+      "location": "Bengaluru, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118839687",
+      "postedAt": "2026-04-06T08:31:06.394Z",
+      "source": "smartrecruiters",
+      "description": "Staff Site Reliability Engineering - Linux, Containers, Terraform, Cloud, GenAI Software Development/Engineering India Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Principal IC",
+        "AI/ML",
+        "Design",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000118839067",
+      "title": "Senior Manager Fintech Activation",
+      "company": "Visa",
+      "location": "Karachi, PAKISTAN pk",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118839067",
+      "postedAt": "2026-04-06T08:20:17.192Z",
+      "source": "smartrecruiters",
+      "description": "Senior Manager Fintech Activation Business Development Pakistan Visa Inc. Visa Sales",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Manager",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000118834184",
+      "title": "Staff Data Engineer (Bigdata + Golang/ Java/ Rust/ C/C++)",
+      "company": "Visa",
+      "location": "Bengaluru, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118834184",
+      "postedAt": "2026-04-06T07:15:08.535Z",
+      "source": "smartrecruiters",
+      "description": "Staff Data Engineer (Bigdata + Golang/ Java/ Rust/ C/C++) Cyber Security India Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Principal IC",
+        "Engineering",
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000118829663",
+      "title": "Director, Cybersource Solutions Management",
+      "company": "Visa",
+      "location": "Mumbai, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118829663",
+      "postedAt": "2026-04-06T06:07:39.417Z",
+      "source": "smartrecruiters",
+      "description": "Director, Cybersource Solutions Management Consulting India Visa Inc. Visa Product and Design",
       "salary": null,
       "tags": [
         "Director"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000118827517",
+      "title": "Software Engineer",
+      "company": "Visa",
+      "location": "Bengaluru, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118827517",
+      "postedAt": "2026-04-06T04:58:16.710Z",
+      "source": "smartrecruiters",
+      "description": "Software Engineer Software Development/Engineering India Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000118826057",
+      "title": "SW Engineer- Sr. Consultant",
+      "company": "Visa",
+      "location": "Bengaluru, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118826057",
+      "postedAt": "2026-04-06T04:19:13.240Z",
+      "source": "smartrecruiters",
+      "description": "SW Engineer- Sr. Consultant Software Development/Engineering India Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000118826007",
+      "title": "Sr. Staff SW Engineer",
+      "company": "Visa",
+      "location": "Bengaluru, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118826007",
+      "postedAt": "2026-04-06T04:18:52.958Z",
+      "source": "smartrecruiters",
+      "description": "Sr. Staff SW Engineer Software Development/Engineering India Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Principal IC",
+        "Senior",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000118787272",
+      "title": "Software Engineer",
+      "company": "Visa",
+      "location": "Bellevue, WA us",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118787272",
+      "postedAt": "2026-04-06T00:09:24.209Z",
+      "source": "smartrecruiters",
+      "description": "Software Engineer Technology and Operations United States Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Engineering"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000118769722",
+      "title": "Staff Software Engineer",
+      "company": "Visa",
+      "location": "Austin, TX us",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118769722",
+      "postedAt": "2026-04-05T21:09:40.615Z",
+      "source": "smartrecruiters",
+      "description": "Staff Software Engineer Software Development/Engineering United States Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Principal IC",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000118747317",
+      "title": "Manager, Consulting and Analytics - VIsa",
+      "company": "Visa",
+      "location": "Atlanta, GA us",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118747317",
+      "postedAt": "2026-04-05T17:07:14.783Z",
+      "source": "smartrecruiters",
+      "description": "Manager, Consulting and Analytics - VIsa No Consulting United States Visa Inc. Visa Consulting",
+      "salary": null,
+      "tags": [
+        "Manager",
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000118747037",
+      "title": "Manager, Consulting and Analytics - Visa",
+      "company": "Visa",
+      "location": "Ashburn, VA us",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000118747037",
+      "postedAt": "2026-04-05T16:53:07.783Z",
+      "source": "smartrecruiters",
+      "description": "Manager, Consulting and Analytics - Visa No Consulting United States Visa Inc. Visa Consulting",
+      "salary": null,
+      "tags": [
+        "Manager",
+        "Data"
       ]
     }
   ]
