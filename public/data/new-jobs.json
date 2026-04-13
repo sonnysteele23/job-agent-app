@@ -1,129 +1,622 @@
 {
-  "scrapedAt": "2026-04-12T13:31:37.490Z",
-  "count": 7,
+  "scrapedAt": "2026-04-13T13:39:50.969Z",
+  "count": 41,
   "jobs": [
     {
-      "id": "gh-brex-8503146002",
-      "title": "Business Recruiter",
-      "company": "Brex",
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://www.brex.com/careers/8503146002?gh_jid=8503146002",
-      "postedAt": "2026-04-11T15:46:05-04:00",
+      "id": "gh-stripe-7773553",
+      "title": "Engineering Manager, Support Experience",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=7773553",
+      "postedAt": "2026-04-13T03:35:39-04:00",
       "source": "greenhouse",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world&#39;s best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.&lt;/p&gt; &lt;p&gt;Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Recruiting at Brex&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Recruiting is where every career at Brex begins. We’re the first point of connection for future builders and leaders, helping candidates see what’s possible. We partner with leaders across the company to find exceptional talent and build high-performing teams. We move quickly, think strategically, and take pride in creating a thoughtful, welcoming candidate experience from the very first contact. We don’t just fill roles, we shape the culture at Brex, finding the next generation of builders and leaders.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As a Recruiter on the Operations Recruiting team, you play a pivotal role in scaling the critical business functions at Brex, including Customer Support and Operations.&amp;nbsp; You will work closely with hiring managers to create the strategy and roadmap to attract the best talent to Brex. As the expert in talent acquisition, you will help attract, evaluate, and hire the best for our Operations teams. We are moving quickly so you will own projects and programs extending beyond the typical recruiting activities, ensuring process excellence and top-notch experience for all candidates. This is a 12-month contract with an opportunity for full-time conversion.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Where you’ll work&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;This role will be based in our Salt Lake City office. We are a hybrid environment that combines the energy and connections of being in the office with the benefits and flexibility of working from home. We currently require a minimum of three coordinated days in the office per week, Monday, Wednesday and Thursday. As a perk, we also have up to four weeks per year of fully re",
-      "salary": {
-        "min": 85600,
-        "max": 107000,
-        "display": "$86k–$107k"
-      },
-      "tags": [
-        "AI/ML",
-        "Design"
-      ]
-    },
-    {
-      "id": "gh-brex-8503145002",
-      "title": "Business Recruiter",
-      "company": "Brex",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://www.brex.com/careers/8503145002?gh_jid=8503145002",
-      "postedAt": "2026-04-11T15:46:05-04:00",
-      "source": "greenhouse",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world&#39;s best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.&lt;/p&gt; &lt;p&gt;Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Recruiting at Brex&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Recruiting is where every career at Brex begins. We’re the first point of connection for future builders and leaders, helping candidates see what’s possible. We partner with leaders across the company to find exceptional talent and build high-performing teams. We move quickly, think strategically, and take pride in creating a thoughtful, welcoming candidate experience from the very first contact. We don’t just fill roles, we shape the culture at Brex, finding the next generation of builders and leaders.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As a Recruiter on the Operations Recruiting team, you play a pivotal role in scaling the critical business functions at Brex, including Customer Support and Operations.&amp;nbsp; You will work closely with hiring managers to create the strategy and roadmap to attract the best talent to Brex. As the expert in talent acquisition, you will help attract, evaluate, and hire the best for our Operations teams. We are moving quickly so you will own projects and programs extending beyond the typical recruiting activities, ensuring process excellence and top-notch experience for all candidates. This is a 12-month contract with an opportunity for full-time conversion.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Where you’ll work&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;This role will be based in our Vancouver office. We are a hybrid environment that combines the energy and connections of being in the office with the benefits and flexibility of working from home. We currently require a minimum of two coordinated days in the office per week, Wednesday and Thursday. Starting February 2, 2026, we will require three days per week in office - M",
-      "salary": {
-        "min": 85600,
-        "max": 107000,
-        "display": "$86k–$107k"
-      },
-      "tags": [
-        "AI/ML",
-        "Design"
-      ]
-    },
-    {
-      "id": "gh-brex-8503147002",
-      "title": "Business Recruiter",
-      "company": "Brex",
-      "location": "New York, New York, United States",
-      "url": "https://www.brex.com/careers/8503147002?gh_jid=8503147002",
-      "postedAt": "2026-04-11T15:46:06-04:00",
-      "source": "greenhouse",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world&#39;s best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.&lt;/p&gt; &lt;p&gt;Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Recruiting at Brex&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Recruiting is where every career at Brex begins. We’re the first point of connection for future builders and leaders, helping candidates see what’s possible. We partner with leaders across the company to find exceptional talent and build high-performing teams. We move quickly, think strategically, and take pride in creating a thoughtful, welcoming candidate experience from the very first contact. We don’t just fill roles, we shape the culture at Brex, finding the next generation of builders and leaders.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As a Recruiter on the Operations Recruiting team, you play a pivotal role in scaling the critical business functions at Brex, including Customer Support and Operations.&amp;nbsp; You will work closely with hiring managers to create the strategy and roadmap to attract the best talent to Brex. As the expert in talent acquisition, you will help attract, evaluate, and hire the best for our Operations teams. We are moving quickly so you will own projects and programs extending beyond the typical recruiting activities, ensuring process excellence and top-notch experience for all candidates. This is a 12-month contract with an opportunity for full-time conversion.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Where you’ll work&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;This role will be based in our New York office. We are a hybrid environment that combines the energy and connections of being in the office with the benefits and flexibility of working from home. We currently require a minimum of three coordinated days in the office per week, Monday, Wednesday and Thursday. As a perk, we also have up to four weeks per year of fully remote w",
-      "salary": {
-        "min": 96728,
-        "max": 120910,
-        "display": "$97k–$121k"
-      },
-      "tags": [
-        "AI/ML",
-        "Design"
-      ]
-    },
-    {
-      "id": "gh-brex-8503148002",
-      "title": "Business Recruiter",
-      "company": "Brex",
-      "location": "San Francisco, California, United States",
-      "url": "https://www.brex.com/careers/8503148002?gh_jid=8503148002",
-      "postedAt": "2026-04-11T15:46:05-04:00",
-      "source": "greenhouse",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world&#39;s best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.&lt;/p&gt; &lt;p&gt;Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Recruiting at Brex&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Recruiting is where every career at Brex begins. We’re the first point of connection for future builders and leaders, helping candidates see what’s possible. We partner with leaders across the company to find exceptional talent and build high-performing teams. We move quickly, think strategically, and take pride in creating a thoughtful, welcoming candidate experience from the very first contact. We don’t just fill roles, we shape the culture at Brex, finding the next generation of builders and leaders.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As a Recruiter on the Operations Recruiting team, you play a pivotal role in scaling the critical business functions at Brex, including Customer Support and Operations.&amp;nbsp; You will work closely with hiring managers to create the strategy and roadmap to attract the best talent to Brex. As the expert in talent acquisition, you will help attract, evaluate, and hire the best for our Operations teams. We are moving quickly so you will own projects and programs extending beyond the typical recruiting activities, ensuring process excellence and top-notch experience for all candidates. This is a 12-month contract with an opportunity for full-time conversion.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Where you’ll work&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;This role will be based in our San Francisco office. We are a hybrid environment that combines the energy and connections of being in the office with the benefits and flexibility of working from home. We currently require a minimum of three coordinated days in the office per week, Monday, Wednesday and Thursday. As a perk, we also have up to four weeks per year of fully rem",
-      "salary": {
-        "min": 96728,
-        "max": 120910,
-        "display": "$97k–$121k"
-      },
-      "tags": [
-        "AI/ML",
-        "Design"
-      ]
-    },
-    {
-      "id": "gh-anthropic-5179882008",
-      "title": "Product Operations Manager, Feedback Loops",
-      "company": "Anthropic",
-      "location": "San Francisco, CA | New York City, NY",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5179882008",
-      "postedAt": "2026-04-11T22:14:11-04:00",
-      "source": "greenhouse",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2 class=&quot;heading&quot;&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We&#39;re hiring a Product Operations Manager — Feedback Loops to own and continuously improve how customer signal flows into product and research decisions at Anthropic. This is a horizontal, org-wide role — you won&#39;t be embedded in a single product team, you&#39;ll build the shared operating system for voice of the customer that every product team, every surface, and every GTM motion plugs into.&lt;/p&gt; &lt;p&gt;Feedback at Anthropic is uniquely high-leverage. We&#39;re building on frontier models that evolve constantly, serving customers from individual developers to the largest enterprises, across multiple surfaces (API, &lt;a class=&quot;text-accent-secondary-100 underline&quot; href=&quot;http://claude.ai&quot; target=&quot;_blank&quot;&gt;claude.ai&lt;/a&gt;, Claude Code). Customer signal arrives from everywhere — field conversations, support interactions, early access programs, in-product telemetry — and the opportunity is to make that signal a first-class, structured input to every product and research decision. This role will build the system that makes customer voice as easy to act on as any other data source.&lt;/p&gt; &lt;p&gt;You treat feedback loops as a product. You&#39;re obsessed with making it effortless for the field to share what they&#39;re hearing and for product teams to know what matters most. You build AI-enabled systems that do the first pass so humans can focus on judgment, not triage. You think like a product manager, not a process administrator. Your work will directly impact how fast Anthropic learns from its customers and how reliably that learning shapes what we build next.&lt;/p&gt; &lt;h2 class=&quot;heading&quot;&gt;&lt;strong&gt;Key Responsibilities&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;You&#39;ll own the operating system for customer feedback across all of Anthropic — one shared platform, not a collection of per-team processes. Working horizontally across every Product team, Research PM, GTM, Customer Success, and Support, you&#39;ll establish the intake, synthesis, and routing infrastructure that makes voice of the customer a first-class input to every roadmap. You&#39;ll drive adoption through influence, making it so obviously useful that teams pull from it rather than get pushed to it.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Feedback Intake &amp;amp; System of Record&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Own the single, org-wide pipeline that capture",
+      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;The Support Experience engineering organization builds and improves Stripe’s user support from end to end: how users get help within our products, how they get in touch with us when they have questions, and how our teams use internal tools to answer those questions. We’re accountable for the quality and reliability of this support stack and we use data and firsthand experience to continuously improve it.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Providing great support to users of all sizes is culturally important to everyone at Stripe. We partner closely with Stripe’s design, product, and operational teams across a wide surface area: the external-facing support interfaces (&lt;a href=&quot;https://support.stripe.com/&quot;&gt;https://support.stripe.com/&lt;/a&gt;), self-serve content, entry points, internal tooling, case routing, and helping product teams across the company reduce support volume by improving our products. We are also using the latest generative AI technologies to re-imagine support experiences, and are developing AI assistants for Stripe’s users and to help our operations teams be more productive.&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;You’ll lead and grow an established, high-performing engineering team within the Support Experience organization. Your job is to start with what’s been built and make it better: grow the team, elevate the technical bar, and expand the team’s impact across Stripe.&lt;/p&gt; &lt;p&gt;In this role, your team will build support experiences for priority user segments, solving problems such as how platforms, enterprises, and consumer users get help from Stripe. This includes implementing new API endpoints for use across multiple products, data engineering to improve our support operations with real-time insights, or building AI-enabled product experiences designed for each segment’s unique needs. You’ll lead your team to use the best tools for each job, whether that means experimental machine learning applications or proven techniques for building scalable distributed systems.&lt;/p&gt; &lt",
       "salary": null,
       "tags": [
         "Manager",
         "AI/ML",
-        "Operations"
+        "Engineering",
+        "Fintech"
       ]
     },
     {
-      "id": "gh-anthropic-5179891008",
-      "title": "Product Operations Manager, Research Product",
-      "company": "Anthropic",
-      "location": "San Francisco, CA | New York City, NY",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5179891008",
-      "postedAt": "2026-04-11T22:14:32-04:00",
+      "id": "gh-airtable-8503811002",
+      "title": "Performance Marketing Specialist Contractor",
+      "company": "Airtable",
+      "location": "Remote - US",
+      "url": "https://job-boards.greenhouse.io/airtable/jobs/8503811002",
+      "postedAt": "2026-04-13T09:24:52-04:00",
       "source": "greenhouse",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2 class=&quot;heading&quot;&gt;About the Role:&lt;/h2&gt; &lt;p&gt;We&#39;re hiring a Product Operations Manager to work directly with our Product and Engineering teams on our Growth, Enterprise, and Verticals team. They will build, launch, and improve bleeding edge products that make the most of our frontier models’ capabilities.&amp;nbsp;&lt;/p&gt; &lt;p&gt;The Product Operations team connects strategy to execution by creating alignment up, down, and across the company. They will&amp;nbsp; work closely with Product Managers and Engineers to identify bottlenecks, streamline workflows, enhance decision-making processes, and scale our Product’s impact. Working as an extension of the product leadership team, they will balance hands-on tactical execution with strategic initiatives, bringing a pragmatic eye for scale and operationalization in a fit-for-purpose way.&lt;/p&gt; &lt;p&gt;The Research Product Team is responsible for launching our new models into the wild. They are the connective tissue between our Research Org, our internal product teams, and our users themselves.&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;p&gt;The ideal candidate will be hands-on and have experience building and operationalizing end-to-end product delivery. They are passionate about creating scalable systems that help Product teams better understand users. This includes implementing feedback loops, developing planning frameworks, and designing launch playbooks that elevate our Product organization&#39;s effectiveness.&lt;/p&gt; &lt;h2 class=&quot;heading&quot;&gt;Responsibilities:&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;Inputs to Product Teams&lt;/strong&gt; – Ensuring product teams have the information they need to make great decisions&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Voice of customer synthesis and feedback routing from strategic to tactical&lt;/li&gt; &lt;li&gt;Create high-leverage engagement points with partners throughout the product lifecycle&lt;/li&gt; &lt;li&gt;Establish rigor in understanding users via reliable metrics, dashboards, and clear hypotheses&lt;/li&gt; &lt;li&gt;Establish mechanisms for measuring product success and impact, including analytics dashboards and reporting systems&lt;/li&gt; &lt;li&gt;Streamline the most important decision points for teams and impacted partners&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Ops of the Product Org&lt;/strong&gt; – Creating the operating systems that enable product teams to thrive&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Support team rhythms, rituals, and operational models (off",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable to transform how work gets done.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;We’re looking for a hands-on Performance Marketing Specialist to own the day-to-day execution across paid social channels. In this role, you’ll be stepping into an active campaign environment, and be expected to hit the ground running with minimal ramp time to help scale our high-growth performance engine. You will work closely with Airtable’s Performance Marketing team and cross-functional partners (lifecycle marketing, marketing operations, and product marketing) to ensure campaigns run efficiently and are fully tracked end-to-end.&lt;/p&gt; &lt;p&gt;We’re looking for folks who know what good looks like but who are flexible, resourceful, and self-driven, and excited to join us on our acquisition motion.&lt;/p&gt; &lt;h1&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;Own end-to-end execution and performance of paid social campaigns (Meta, LinkedIn), including in-platform management of targeting, bidding, and creative trafficking&lt;/li&gt; &lt;li&gt;Execute structured experiments and clearly document learnings to drive continuous improvement in paid campaigns&lt;/li&gt; &lt;li&gt;Deliver operational excellence in the form of precise budget management and pacing&lt;/li&gt; &lt;li&gt;Regularly analyze performance campaign results and make ongoing recommendations for decisions across spend, targeting, bidding, creative, and landing pages.&lt;/li&gt; &lt;li&gt;Support paid video and other emerging channels (e.g., newsletters, TikTok) as needed&lt;/li&gt; &lt;li&gt;Serve as a liaison between media performance and content and creative, flagging what’s working and what needs improvement&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;Experienced performance marketer, with expertise in paid social: You have 4+ years of hands-on paid media experience across multiple channels. You’ve built and managed campaigns in-platform yourself, not just overseen them.&lt;/li&gt; &lt;li&gt;B2B experience: You have experience working in sales-led and/or product-led organizations previously.&lt;/li&gt; &lt;li&gt;Detail-oriented and organized: You can manage multiple campaigns and workstreams without things falling through the cracks.&lt;/li&gt; &lt;li&gt;Strong communicator: You proactively share updates, flag issues early, and build strong relationships with immediate team and cross-functional partners.&lt;/li&gt; &lt;li&gt;Analytical and hypothesis-driven: You are comfortable navigating across a swath of metrics and extracting the “aha” insights. You approach optimizations with intention and follow through by tracking impact.&lt;/li&gt; &lt;li&gt;Buil",
       "salary": null,
       "tags": [
-        "Manager",
         "AI/ML",
-        "Operations"
+        "Marketing"
       ]
     },
     {
-      "id": "sr-Visa-744000119236237",
-      "title": "Senior Manager, Financial Analysis",
-      "company": "Visa",
-      "location": "Foster City, CA us",
-      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000119236237",
-      "postedAt": "2026-04-07T22:04:00.124Z",
-      "source": "smartrecruiters",
-      "description": "Senior Manager, Financial Analysis Finance/Accounting United States Visa Inc. Visa Finance",
+      "id": "gh-anthropic-5185574008",
+      "title": "Policy Analyst, LATAM",
+      "company": "Anthropic",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5185574008",
+      "postedAt": "2026-04-13T09:00:33-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the role&lt;/h2&gt; &lt;p&gt;As Policy Analyst, LATAM you will ensure effective execution of complex cross-functional plans that advance key company priorities across Latin America, help the company assess and engage in emerging policy opportunities, and address challenges throughout the region. A key priority will be to engage external stakeholders across LATAM to drive progress in AI policy and AI safety. You will also collaborate with Policy and cross-functional colleagues on a variety of other projects, including strategically expanding our product and policy influence into new LATAM markets, developing new policy proposals, and drafting submissions to requests for comment.&lt;/p&gt; &lt;h2 class=&quot;heading&quot;&gt;In this role, you will:&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;Contribute to the development of strategies to support Anthropic&#39;s LATAM policy objectives, including implementation plans and metrics&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Support projects to ensure smooth entry to new LATAM markets from a regulatory perspective&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Propose and develop new programming and generate opportunities for Anthropic to build relationships with policymakers, think tanks, and non-profit organizations across Latin America, with particular focus on Brazil and other key regional markets&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Create initial policy stakeholder maps and devise strategic engagement plans tailored to LATAM political and regulatory contexts&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Collaborate with policy and technical teams to translate Anthropic research into concrete policy proposals, stakeholder education, and thought leadership opportunities relevant to LATAM audiences&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Draft and amplify public submissions, responses to requests for information (RFI), and policy memos written by Anthropic to drive positive change in AI policy across the region&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h2 class=&quot;heading&quot;&gt;You may be a good fit if you:&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Are fluent in Portuguese and English&lt;/strong&gt; (Spanish fluency is also strongly preferred) with the ability to engage policymakers, draft materials, and navigate stakeholder conversations in Portuguese&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Have a track record of supporting tech and AI policy advocacy in LATAM, with deep familiarity with Brazil&#39;s regulatory landsca",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Data"
+      ]
+    },
+    {
+      "id": "gh-databricks-8493722002",
+      "title": "Head of Marketing - Japan",
+      "company": "Databricks",
+      "location": "Tokyo, Japan",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493722002",
+      "postedAt": "2026-04-12T20:17:09-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;MKTQ127R2&lt;/p&gt; &lt;p&gt;Databricks is seeking an exceptional marketing leader to serve as Head of Marketing for Japan. As Head of Marketing for Japan, you will serve as the country marketing leader and strategic business partner to the Japan leadership team helping shape overall go-to-market strategy.&lt;/p&gt; &lt;p&gt;You will be responsible for defining and executing Databricks’ integrated marketing strategy for Japan to accelerate category leadership, pipeline growth, customer adoption, and long-term market expansion. This includes building Databricks’ reputation and presence in one of our most strategic global markets while ensuring marketing is deeply aligned to business priorities across sales, partners, customer success, and corporate functions.&lt;/p&gt; &lt;p&gt;This role requires a highly strategic, commercially-minded marketing executive who can balance long-term market development with near-term revenue accountability.&lt;/p&gt; &lt;p&gt;Reporting to the VP Marketing, APJ, you will lead cross-functional orchestration across global, APJ, and in-country teams to deliver high-impact, locally relevant programs that drive measurable business outcomes.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;KEY RESPONSIBILITIES&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;Business &amp;amp; Market Leadership&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Serve as the senior marketing leader and trusted advisor to the Japan leadership team, contributing to country strategy and operating as a key voice in market planning and execution.&lt;/li&gt; &lt;li&gt;Own country marketing strategy across reputation, demand, customer engagement, and ecosystem development.&lt;/li&gt; &lt;li&gt;Partner closely with country sales leadership to align marketing investments with strategic growth priorities, whitespace opportunities, and account segmentation.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Integrated Marketing Strategy&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Develop and execute Japan’s end-to-end marketing strategy across brand, demand generation, executive engagement, customer marketing, communications, and events.&lt;/li&gt; &lt;li&gt;Ensure global and APJ campaigns are effectively localized and activated to maximize impact in-market.&lt;/li&gt; &lt;li&gt;Build innovative, high-performing programs tailored to Japan’s unique buyer, cultural, and market dynamics.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Partner Marketing &amp;amp; Ecosystem Development&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Develop partner marketing strategy in close partnership with alliances and cloud ecosystem teams.&lt;/li&gt; &lt;li&gt;Leverage partners as a force multiplier to expand market reach, accelerate pipeline creation, and deepen customer engagement.&lt;/li&gt; &lt;li&gt;Build joint go-to-market motions with strategic ecosystem partners.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;AI-First Marketing Leadership&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;",
+      "salary": null,
+      "tags": [
+        "Director",
+        "AI/ML",
+        "Marketing"
+      ]
+    },
+    {
+      "id": "gh-databricks-8476500002",
+      "title": "Resident Solutions Architect",
+      "company": "Databricks",
+      "location": "Tokyo, Japan",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476500002",
+      "postedAt": "2026-04-13T01:35:37-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;CSQ227R244&lt;/p&gt; &lt;p&gt;As a Resident Solutions Architect (RSA) in our Professional Services team you will work with clients on short to medium term customer engagements on their big data challenges using the Databricks platform. You will provide data engineering, data science, and cloud technology projects which require integrating with client systems, training, and other technical tasks to help customers to get most value out of their data. RSAs are billable and know how to complete projects according to specification with excellent customer service. You will report to the Director, Professional Services.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The impact you will have:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;You will work on a variety of impactful customer technical projects which may include building reference architectures, how-to&#39;s and production grade MVPs&lt;/li&gt; &lt;li&gt;Guide strategic customers as they implement transformational big data projects, 3rd party migrations, including end-to-end design, build and deployment of industry-leading big data and AI applications&lt;/li&gt; &lt;li&gt;Consult on architecture and design; bootstrap or implement strategic customer projects which leads to a customers&#39; successful understanding, evaluation and adoption of Databricks&lt;/li&gt; &lt;li&gt;Provide an escalated level of support for customer operational issues.&lt;/li&gt; &lt;li&gt;You will work with the Databricks technical team, Project Manager, Architect and Customer team to ensure the technical components of the engagement are delivered to meet customer&#39;s needs&lt;/li&gt; &lt;li&gt;Work with Engineering and Databricks Customer Support to provide product and implementation feedback and to guide rapid resolution for engagement specific product and support issues&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What we look for:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Experience with Big Data Technologies or Data science in a customer-facing post-sales, technical architecture or consulting role.&lt;/li&gt; &lt;li&gt;Comfortable writing code in SQL, with proficiency in either Python or Scala.&lt;/li&gt; &lt;li&gt;Working knowledge of at least one major cloud ecosystem (AWS, Azure, or GCP).&lt;/li&gt; &lt;li&gt;Experience with developer operations and continuous integration/delivery for production deployments.&lt;/li&gt; &lt;li&gt;Experience with technical project delivery - managing scope and timelines, preferably in data platform project&lt;/li&gt; &lt;li&gt;Ability to communicate and collaborate in Japanese and English fluently to deliver domestic and overseas projects.&lt;/li&gt; &lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Databricks&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Databricks is the data and AI company. More than 10,000 organizations worldwide — including Comcast, Condé Nast, Grammarly, and over 50% of ",
+      "salary": null,
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-databricks-8495067002",
+      "title": "Retail & Consumer Goods APAC Leader ",
+      "company": "Databricks",
+      "location": "Singapore; Sydney, Australia",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8495067002",
+      "postedAt": "2026-04-13T03:12:28-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;SLSQ427R275&lt;/p&gt; &lt;p class=&quot;my-2 [&amp;amp;+p]:mt-4 [&amp;amp;_strong:has(+br)]:inline-block [&amp;amp;_strong:has(+br)]:pb-2&quot;&gt;This is not a role for someone who wants to inherit a playbook.&amp;nbsp;As the Go-to-Market Leader for APAC Retail &amp;amp; Consumer Goods, you will architect and execute a category-defining strategy from the ground up.&amp;nbsp;You&#39;ll operate with the mindset of a founder of a hyper-growth enterprise—a rare opportunity that demands entrepreneurial instincts, relentless drive, and the courage to build in ambiguity.&lt;/p&gt; &lt;p class=&quot;my-2 [&amp;amp;+p]:mt-4 [&amp;amp;_strong:has(+br)]:inline-block [&amp;amp;_strong:has(+br)]:pb-2&quot;&gt;Databricks is scaling at extraordinary speed. Databricks is the market share leader in data + AI in Retail &amp;amp; Consumer Goods, and this vertical represents one of the most significant growth opportunities in our portfolio. We need a leader who thrives in white space, who sees undefined territory not as risk but as canvas.&amp;nbsp;You will shape how APAC’s largest retailers and consumer brands harness Data and AI to transform their operations, unlock new revenue streams, and reimagine customer experiences.&lt;/p&gt; &lt;p class=&quot;my-2 [&amp;amp;+p]:mt-4 [&amp;amp;_strong:has(+br)]:inline-block [&amp;amp;_strong:has(+br)]:pb-2&quot;&gt;You will report to the Global VP of Consumer Industries, but your impact will extend across the entire organization—influencing product direction, shaping partner ecosystems, and setting the strategic agenda for one of our most consequential markets.&lt;/p&gt; &lt;h4 id=&quot;the-impact-you-will-have&quot; class=&quot;font-editorial font-bold mb-2 mt-4 [.has-inline-images_&amp;amp;]:clear-end text-base first:mt-0&quot;&gt;The impact you will have&lt;/h4&gt; &lt;ul&gt; &lt;li class=&quot;my-2 [&amp;amp;+p]:mt-4 [&amp;amp;_strong:has(+br)]:inline-block [&amp;amp;_strong:has(+br)]:pb-2&quot;&gt;&lt;strong&gt;A Scalable APAC Growth Engine&lt;/strong&gt;&amp;nbsp;Design and execute a go-to-market strategy that doesn&#39;t yet exist in its final form. You’ll establish C-level relationships with flagship accounts, construct an ecosystem of ISVs, SIs, and alliance partners, and create repeatable motions that accelerate revenue growth across Retail, Consumer Goods, Restaurants, and Wholesale.&lt;/li&gt; &lt;li class=&quot;my-2 [&amp;amp;+p]:mt-4 [&amp;amp;_strong:has(+br)]:inline-block [&amp;amp;_strong:has(+br)]:pb-2&quot;&gt;&lt;strong&gt;Programmatic Opportunity Capture&lt;/strong&gt;&amp;nbsp;Identify the highest-value use cases and industry-specific opportunities—demand forecasting, unified customer intelligence, supply chain optimization, real-time pricing—and build scalable programs that systematically convert these opportunities into revenue. You won&#39;t pursue targets one at a time; you&#39;ll construct the engines, assets, and activation frameworks that allow us to capture entire categories of opportu",
+      "salary": null,
+      "tags": [
+        "Lead",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-databricks-8493729002",
+      "title": "Sr. Regional Marketing Manager - Italy, Spain & Israel",
+      "company": "Databricks",
+      "location": "Milan, Italy",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8493729002",
+      "postedAt": "2026-04-13T04:58:52-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;MKTQ227R12&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Databricks is at the forefront of innovation in the data and AI industry, empowering organizations to harness the power of data and artificial intelligence.&lt;/p&gt; &lt;p&gt;As Sr. Field Marketing Manager for Italy, Spain and Israel, you will play a pivotal role in driving demand generation and business growth across the region. You will be responsible for crafting and executing innovative regional marketing strategies that generate high-quality leads, convert them into opportunities, and build a robust sales pipeline. This cross-functional role requires close collaboration with teams across Marketing, Sales Development, Sales, Partner Management, and other field teams. You will initially report to the Director, EMEA Continental Marketing.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The impact you’ll have&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Build the territory strategy with sales stakeholders and execute regional marketing programs&lt;/li&gt; &lt;li&gt;Lead end-to-end execution of all regional field marketing programmes and events, both physical and virtual, ensuring seamless delivery and high engagement. This includes onsite execution with occasional multi-day travel (currently no travel to Israel until further notice)&lt;/li&gt; &lt;li&gt;Build data-driven and integrated marketing plans in close alignment with corporate and EMEA marketing to increase awareness, drive engagement, generate leads, and support conversion rates.&lt;/li&gt; &lt;li&gt;Evaluate and execute the most effective partner and third party event co-marketing opportunities&lt;/li&gt; &lt;li&gt;Effectively manage budgets and evaluate ROI of all campaigns&lt;/li&gt; &lt;li&gt;Collaborate closely with SDR and sales teams to enhance lead-to-opportunity conversion rates&lt;/li&gt; &lt;li&gt;Generate qualified leads through innovative and cost-effective marketing strategies, driving pipeline growth, consumption and revenue&lt;/li&gt; &lt;li&gt;Leverage data to continuously refine and optimize campaign strategies, ensuring sustained business growth and programme optimization&lt;/li&gt; &lt;li&gt;Establish strong communication channels with sales and regional teams to ensure the delivery of impactful marketing campaigns tailored to the region&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What we look for &lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Proven experience in managing field marketing events, including proprietary, third-party and virtual events, with a track record of successful execution&lt;/li&gt; &lt;li&gt;Demonstrated ability to deliver tangible business results through strategic marketing programs&lt;/li&gt; &lt;li&gt;Ability to lead and collaborate with cross-functional teams in a dynamic and fast-paced enterprise s",
       "salary": null,
       "tags": [
         "Senior",
         "Manager",
-        "Fintech"
+        "AI/ML",
+        "Marketing"
+      ]
+    },
+    {
+      "id": "gh-databricks-8476064002",
+      "title": "Sr. Solutions Architect",
+      "company": "Databricks",
+      "location": "Bengaluru, India",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476064002",
+      "postedAt": "2026-04-13T03:55:18-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;&lt;strong&gt;FEQ227R53&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As a Senior Solutions Architect, you will shape the future of the Data &amp;amp; AI landscape by working with the most sophisticated data engineering and data science teams in the world. You will be a&amp;nbsp;&lt;strong&gt;technical advisor&amp;nbsp;&lt;/strong&gt;internally to the sales team, and work with the product team as an advocate of your customers in the field. You will help our customers to achieve tangible data-driven outcomes through the use of our Databricks Lakehouse Platform, helping data teams complete projects and integrate our platform into their enterprise Ecosystem. You&#39;ll grow as a leader in your field, while&amp;nbsp;finding solutions to our customers&#39; biggest challenges in big data, analytics, data engineering and data science problems&lt;/p&gt; &lt;p&gt;Reporting to the Field Engineering Manager, you will collaborate with our most strategic prospects and customers, work directly with product and engineering to drive the Databricks roadmap forward, and work with the broader customer-facing team to develop architectures and solutions using our platform. You will guide customers through the competitive landscape, best practices, and implementation, and develop technical champions along the way.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The impact you will have:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;You will partner with the sales team and provide technical leadership to help customers understand how Databricks can help solve their business problems.&lt;/li&gt; &lt;li&gt;You will work directly with the sales team to develop your book of business, define account strategies, and execute those strategies to help your customers and prospects solve their business problems with Databricks.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Consult on Big Data architectures, implement proof of concepts for strategic projects, spanning data engineering, data science and machine learning, and SQL analysis workflows. As well as validating integrations with cloud services, home grown tools, and other 3rd party applications&lt;/li&gt; &lt;li&gt;Collaborate with your fellow Solutions Architects, using your skills to support each other and our users&lt;/li&gt; &lt;li&gt;Become an expert in, promote, and recruit contributors for Databricks inspired open-source projects (Spark, Delta Lake, and MLflow) across the developer community.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What we look for:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;8+ years in a data engineering, data science, technical architecture, or similar pre-sales/consulting role&lt;/li&gt; &lt;li&gt;8+ years of experience&amp;nbsp;with&amp;nbsp;Big Data technologies, including Apache Spark™, AI, Data Science, Data Engineering, Hadoop, Cassandra, and others&lt;/li&gt; &lt;li&gt;Strong consulting / customer facing&amp;nbsp;experience , working&amp;nbsp;with external clients across a variety of industry markets&lt;/li&gt; &l",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-databricks-8479027002",
+      "title": "Strategic Customer Advisor ",
+      "company": "Databricks",
+      "location": "United States",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8479027002",
+      "postedAt": "2026-04-13T07:47:46-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;SLSQ227R447&lt;/strong&gt;&lt;/p&gt; &lt;p data-renderer-start-pos=&quot;1648&quot;&gt;Location is Remote - AMER - willingness and able to travel&lt;/p&gt; &lt;p data-renderer-start-pos=&quot;1800&quot;&gt;Databricks is assembling a small group of elite sales leaders to engage in our most complex, high-stakes customer opportunities. This role is built for individuals who have operated at the highest levels, leading transformation rather than just transactions. You will be deployed into Databricks&#39; most critical accounts and opportunities where executive alignment is fragile, deal velocity has stalled, or the path forward requires sharper thinking and stronger leadership. You will spend the majority of your time in the field with customers and account teams, with equal responsibility to elevate how we sell internally.&lt;/p&gt; &lt;p&gt;This is a 50/50 role:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Externally:&lt;/strong&gt; Shaping customer vision, guiding executives, and driving deal outcomes.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Internally:&lt;/strong&gt; Advising, coaching, and raising the standard of the field.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;The primary objective is to make the existing account team better, faster, and more effective, not to override their efforts.&lt;/p&gt; &lt;p data-renderer-start-pos=&quot;2006&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;The impact you will have: &lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own the Hardest Moments – Step into late-stage, high-value, multi-threaded deals where alignment is not established and execution must improve.&lt;/li&gt; &lt;li&gt;Operate at the Executive Layer – Engage CIOs, CDOs, and business leaders with a strong, credible point of view (POV) on data, AI, and platform transformation.&lt;/li&gt; &lt;li&gt;Drive Deal Velocity – Bring structure to ambiguity, align stakeholders, clarify value, and compress decision cycles.&lt;/li&gt; &lt;li&gt;Lead Through Influence – Earn trust quickly across both customers and internal teams; know when to push, when to align, and how to create movement.&lt;/li&gt; &lt;li&gt;Elevate the Field – Coach Account Executives (AEs) and field leaders in real time, improving deal strategy, qualification, and execution standards.&lt;/li&gt; &lt;li&gt;Scale What Works – Translate wins into repeatable plays across EBCs, QBRs, All Hands, and global enablement forums.&lt;/li&gt; &lt;li&gt;Expand Enterprise Footprint – Identify new buying centers, use cases, and paths to platform adoption across large, complex organizations.&lt;/li&gt; &lt;/ul&gt; &lt;p data-renderer-start-pos=&quot;2367&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;What we look for:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Background in Data &amp;amp; AI organizations in highly strategic sales roles.&lt;/li&gt; &lt;li&gt;10+ years with consistent top-tier performance in enterprise environments (Fortun",
+      "salary": null,
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-duolingo-8503886002",
+      "title": "Country Marketing Manager",
+      "company": "Duolingo",
+      "location": "Remote - Indonesia",
+      "url": "https://careers.duolingo.com/jobs/8503886002?gh_jid=8503886002",
+      "postedAt": "2026-04-13T09:22:45-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!&lt;/p&gt; &lt;p&gt;At Duolingo, you’ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You’ll have limitless learning opportunities and daily collaborations with world-class minds — while doing work that’s both meaningful and fun.&lt;/p&gt; &lt;p&gt;Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Read &lt;a href=&quot;https://blog.duolingo.com/?utm_source=greenhouse.com&amp;amp;utm_medium=referral&amp;amp;utm_campaign=generalblog_gh_091224&quot;&gt;our blog&lt;/a&gt; to learn more.&lt;/p&gt; &lt;hr&gt; &lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;About the role...&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We are seeking an experienced, creative marketer to help us build awareness and accelerate our growth in Indonesia. As our resident expert on the market, you will use your skills including social media, influencer marketing, PR, and advertising, to drive awareness, build a loved brand and bring new users to Duolingo.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Reporting to the Southeast Asia Regional Marketing Manager, you will partner closely with Regional stakeholders, Global Marketing and Product teams in Pittsburgh, New York, and Country Marketing Managers around the world to find opportunities and come up with new, creative tactics and campaigns relevant to the Polish consumer.&amp;nbsp;&lt;/p&gt; &lt;p&gt;We want a creative leader with deep consumer understanding and proven experience in devising campaigns that drive buzz, growth and earned media with expertise in Social, creative marketing and PR. As a member of a geographically distributed organization, the ideal candidate will not only be an outstanding, self-motivated creative talent, but also a proactive and team-oriented communicator.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Indonesia is now one of our fastest-growing markets, and we want to unlock its growth potential even further! &lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;🧠&amp;nbsp; You will...&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Leverage market insights to develop a marketing strategy to grow Duolingo’s awareness, brand love and expand the number of users in Indonesia&lt;/li&gt; &lt;li&gt;Hire and lead agencies or contractors required to deliver the marketing plan&lt;/li&gt; &lt;li&gt;Implement the plan with a focus on social media, partnerships, brand, acquisition campaigns and PR.&lt;/li&gt; &lt;li&gt;Act as a local spokesperson sourcing and managing speaking opportunities in Indonesia for yourself and relevant executives&lt;/li&gt; &lt;li&gt;Analyze the results of the local marketing efforts and adjust the plan&lt;/li&gt; &lt;",
+      "salary": null,
+      "tags": [
+        "Manager",
+        "AI/ML",
+        "Marketing"
+      ]
+    },
+    {
+      "id": "gh-gitlab-8478614002",
+      "title": "Customer Success Architect - Federal Government ",
+      "company": "GitLab",
+      "location": "Remote, Australia",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8478614002",
+      "postedAt": "2026-04-12T23:51:59-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt; and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As a Customer Success Architect, you’ll be a strategic advisor to some of GitLab’s most important Federal Government customers, helping them connect our DevSecOps platform to their business goals and realise meaningful, long-term outcomes. You’ll partner closely with customers after the sale to turn pre-sales command plans into concrete success plans, guide them along the customer journey, and drive hands-on enablement, adoption, utilisation, and maturity. Reporting into the APJ&amp;nbsp; Customer Success organisation, you’ll own a book of customers, act as their primary GitLab liaison for questions and escalations, and coordinate with Product Management, Engineering, Sales, Professional Services, and Support so customers can navigate complex technical and organisational challenges with confidence.&lt;/p&gt; &lt;p&gt;You’ll use your understanding of Git, software development lifecycles, and continuous integration, continuous deployment, and DevSecOps practices to help customers adopt best practices and stay current with new GitLab capabilities. In your first year, success looks like building strong, consultative relationships with key stakeholders, increasing adoption of the GitLab platform, and strengthening retention, growth, and customer satisfaction across your portfolio.&lt;/p&gt; &lt;h2&gt;What you’ll do&lt;/h2&gt",
+      "salary": null,
+      "tags": [
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-gitlab-8498354002",
+      "title": "New Business Account Executive - Netherlands",
+      "company": "GitLab",
+      "location": "Remote, Netherlands",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8498354002",
+      "postedAt": "2026-04-13T05:54:28-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt; and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;An overview of this role&lt;/h2&gt; &lt;p&gt;As a New Business Account Executive, you’ll play an important role in GitLab’s growth for the Netherlands. You’ll focus on acquiring net-new customers and expanding our market presence. You’ll build relationships with C-level and senior technical buyers at high-growth companies, manage the full sales cycle from first outreach to close, and create your own pipeline through consistent, high-quality prospecting. In this greenfield territory, you’ll support change and innovation, help customers navigate their decision process, and act as a trusted partner to new customers as they adopt GitLab’s AI-powered DevSecOps platform. You’ll collaborate closely with a dedicated SDR pod, Solutions Architecture, Marketing, and Customer Success. You’ll report to the Director of New Business Sales and contribute to GitLab’s revenue trajectory and position in a dynamic market.&lt;/p&gt; &lt;h2&gt;What you’ll do&lt;/h2&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;Manage the full new logo acquisition cycle from first outreach through close for high-growth target accounts for the Netherlands market&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;Build and maintain strong pipeline coverage through consistent, high-quality prospecting across phone, email, social, and creative outbound channels&lt;/li&gt; ",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Sales"
+      ]
+    },
+    {
+      "id": "gh-gitlab-8481626002",
+      "title": "Program Manager - London",
+      "company": "GitLab",
+      "location": "Remote, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8481626002",
+      "postedAt": "2026-04-13T07:56:44-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt; and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;A highly visible and customer-facing position, within the Professional Services organization, and the wider Customer Success team, that works with but not limited to Professional Services Engineers, Project Managers, Engagement Managers, Technical Architects, Professional Services Operations, and the Sales Organization. A Program Manager is responsible for overseeing and managing customer programs and a portfolio of projects. Their primary role is to ensure the successful delivery of client projects, including long-term strategy, while also managing the overall program and providing strategic guidance to the team and customer. The Professional Services Program Manager reports to the Regional Delivery Manager.&lt;/p&gt; &lt;h2&gt;Responsibilities&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Lead delivery of multi-workstream professional services engagements with some of the largest and most strategic customers.&lt;/li&gt; &lt;li&gt;Build strong relationships with key customer stakeholders including executive leaders, counterpart program/project managers, engineering, development, and security and teams.&lt;/li&gt; &lt;li&gt;Develop a delivery methodology that leverages agile and project management best practices. Communicate how this methodology will be used to key customer stakeholders. Lead the execution of the methodology by bring",
+      "salary": null,
+      "tags": [
+        "Manager",
+        "AI/ML",
+        "Product"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120451456",
+      "title": "Senior Manager – Visa Direct Specialized Sales",
+      "company": "Visa",
+      "location": "San Juan, PR us",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120451456",
+      "postedAt": "2026-04-13T13:25:04.717Z",
+      "source": "smartrecruiters",
+      "description": "Senior Manager – Visa Direct Specialized Sales Sales United States Visa Inc. Visa Sales",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Manager",
+        "Sales"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120451147",
+      "title": "Business Analyst, Operations & Strategy",
+      "company": "Visa",
+      "location": "San Francisco, CA us",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120451147",
+      "postedAt": "2026-04-13T13:23:43.104Z",
+      "source": "smartrecruiters",
+      "description": "Business Analyst, Operations & Strategy Strategy & Planning United States Visa Inc. Visa Strategy and Planning",
+      "salary": null,
+      "tags": [
+        "Data",
+        "Operations"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120450247",
+      "title": "Sr. Analyst, Risk Solutions Management (Issuing Consultant)",
+      "company": "Visa",
+      "location": "Bogota, COLOMBIA co",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120450247",
+      "postedAt": "2026-04-13T13:20:38.133Z",
+      "source": "smartrecruiters",
+      "description": "Sr. Analyst, Risk Solutions Management (Issuing Consultant) Product/Solutions Management Colombia Visa Inc. Visa Product and Design",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Design",
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120447217",
+      "title": "Senior Manager, Client Consulting, Visa Consulting & Analytics (VCA), São Paulo or Brasilia, Brazil",
+      "company": "Visa",
+      "location": "Sao Paulo, BRAZIL br",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120447217",
+      "postedAt": "2026-04-13T13:09:00.035Z",
+      "source": "smartrecruiters",
+      "description": "Senior Manager, Client Consulting, Visa Consulting & Analytics (VCA), São Paulo or Brasilia, Brazil Consulting Brazil Visa Inc. Visa Consulting",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Manager",
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120445667",
+      "title": "Analyst, Solutions Management",
+      "company": "Visa",
+      "location": "San Francisco, CA us",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120445667",
+      "postedAt": "2026-04-13T13:02:38.424Z",
+      "source": "smartrecruiters",
+      "description": "Analyst, Solutions Management Product/Solutions Management United States Visa Inc. Visa Product and Design",
+      "salary": null,
+      "tags": [
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120415995",
+      "title": "Implementation Consultant (Project Manager)",
+      "company": "Visa",
+      "location": "Pasay City, PHILIPPINES ph",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120415995",
+      "postedAt": "2026-04-13T12:16:12.746Z",
+      "source": "smartrecruiters",
+      "description": "Implementation Consultant (Project Manager) Product, Program, and Project Management (Non-Technical) Philippines Visa Inc. Visa Client Services",
+      "salary": null,
+      "tags": [
+        "Manager"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120421728",
+      "title": "Implementation Analyst (Project Manager)",
+      "company": "Visa",
+      "location": "Pasay City, PHILIPPINES ph",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120421728",
+      "postedAt": "2026-04-13T12:14:35.304Z",
+      "source": "smartrecruiters",
+      "description": "Implementation Analyst (Project Manager) Product, Program, and Project Management (Non-Technical) Philippines Visa Inc. Visa Client Services",
+      "salary": null,
+      "tags": [
+        "Manager",
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120415392",
+      "title": "Senior Manager, GTM & Commercialization, Visa Direct Asia Pacific ",
+      "company": "Visa",
+      "location": "Singapore, Singapore sg",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120415392",
+      "postedAt": "2026-04-13T12:03:49.327Z",
+      "source": "smartrecruiters",
+      "description": "Senior Manager, GTM & Commercialization, Visa Direct Asia Pacific  Sales Singapore Visa Inc. Visa Sales",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Manager"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120373518",
+      "title": "Associate, AP Marketing Insights and Analytics",
+      "company": "Visa",
+      "location": "Singapore, Singapore sg",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120373518",
+      "postedAt": "2026-04-13T10:50:51.482Z",
+      "source": "smartrecruiters",
+      "description": "Associate, AP Marketing Insights and Analytics Marketing & Communications Singapore Visa Inc. Visa Marketing and Communications",
+      "salary": null,
+      "tags": [
+        "Data",
+        "Marketing"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120373017",
+      "title": "Sr. HR Analytics Analyst (Data Warehouse Architect)",
+      "company": "Visa",
+      "location": "Bengaluru, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120373017",
+      "postedAt": "2026-04-13T10:47:03.211Z",
+      "source": "smartrecruiters",
+      "description": "Sr. HR Analytics Analyst (Data Warehouse Architect) Human Resources India Visa Inc. Visa People and Culture",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120357928",
+      "title": "Senior Manager, Visa Direct Card",
+      "company": "Visa",
+      "location": "Singapore, Singapore sg",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120357928",
+      "postedAt": "2026-04-13T09:36:05.260Z",
+      "source": "smartrecruiters",
+      "description": "Senior Manager, Visa Direct Card Sales Singapore Visa Inc. Visa Product and Design",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Manager"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120338369",
+      "title": "Systems Analyst",
+      "company": "Visa",
+      "location": "Bengaluru, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120338369",
+      "postedAt": "2026-04-13T08:27:18.738Z",
+      "source": "smartrecruiters",
+      "description": "Systems Analyst Finance/Accounting India Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120319007",
+      "title": "Associate Systems Analyst - IT support role (Candidates must be open for rotational shifts and week-offs)",
+      "company": "Visa",
+      "location": "Bengaluru, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120319007",
+      "postedAt": "2026-04-13T06:47:46.298Z",
+      "source": "smartrecruiters",
+      "description": "Associate Systems Analyst - IT support role (Candidates must be open for rotational shifts and week-offs) Information Technology India Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120315961",
+      "title": "Staff Data Engineer-Data Pipelines, Hadoop, Scala,spark,Kafka (6+yrs- 8 yrs)",
+      "company": "Visa",
+      "location": "Bengaluru, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120315961",
+      "postedAt": "2026-04-13T06:33:19.019Z",
+      "source": "smartrecruiters",
+      "description": "Staff Data Engineer-Data Pipelines, Hadoop, Scala,spark,Kafka (6+yrs- 8 yrs) Cyber Security India Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Principal IC",
+        "Engineering",
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120316788",
+      "title": "Staff Database Engineer (SQL Server, TSQL, 7-10 years' experience)",
+      "company": "Visa",
+      "location": "Bengaluru, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120316788",
+      "postedAt": "2026-04-13T06:32:05.519Z",
+      "source": "smartrecruiters",
+      "description": "Staff Database Engineer (SQL Server, TSQL, 7-10 years' experience) Software Development/Engineering India Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Principal IC",
+        "Engineering",
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120310187",
+      "title": "Full Stack Senior Developer",
+      "company": "Visa",
+      "location": "Auckland, NEW ZEALAND nz",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120310187",
+      "postedAt": "2026-04-13T05:16:38.679Z",
+      "source": "smartrecruiters",
+      "description": "Full Stack Senior Developer Software Development/Engineering New Zealand Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120307102",
+      "title": "Technical Project Analyst",
+      "company": "Visa",
+      "location": "Bengaluru, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120307102",
+      "postedAt": "2026-04-13T04:26:58.528Z",
+      "source": "smartrecruiters",
+      "description": "Technical Project Analyst Product & Project Management (Technical) India Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120301972",
+      "title": "Implementation Analyst",
+      "company": "Visa",
+      "location": "Pasay City, PHILIPPINES ph",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120301972",
+      "postedAt": "2026-04-13T02:50:04.077Z",
+      "source": "smartrecruiters",
+      "description": "Implementation Analyst Product, Program, and Project Management (Non-Technical) Philippines Visa Inc. Visa Client Services",
+      "salary": null,
+      "tags": [
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120300757",
+      "title": "Implementation Analyst",
+      "company": "Visa",
+      "location": "Bogota, COLOMBIA co",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120300757",
+      "postedAt": "2026-04-13T02:17:27.218Z",
+      "source": "smartrecruiters",
+      "description": "Implementation Analyst Product, Program, and Project Management (Non-Technical) Colombia Visa Inc. Visa Client Services",
+      "salary": null,
+      "tags": [
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120300177",
+      "title": "Senior Director, Corporate Communication, Australia, New Zealand, Pacific Islands (AUNZPI)",
+      "company": "Visa",
+      "location": "Sydney, AUSTRALIA au",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120300177",
+      "postedAt": "2026-04-13T02:06:27.990Z",
+      "source": "smartrecruiters",
+      "description": "Senior Director, Corporate Communication, Australia, New Zealand, Pacific Islands (AUNZPI) Public Relations Australia Visa Inc. Visa Marketing and Communications",
+      "salary": null,
+      "tags": [
+        "Director",
+        "Senior"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120300012",
+      "title": "Director, Visa Pay – APAC",
+      "company": "Visa",
+      "location": "Singapore, Singapore sg",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120300012",
+      "postedAt": "2026-04-13T02:05:29.733Z",
+      "source": "smartrecruiters",
+      "description": "Director, Visa Pay – APAC Product, Program, and Project Management (Non-Technical) Singapore Visa Inc. Visa Product and Design",
+      "salary": null,
+      "tags": [
+        "Director"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120295289",
+      "title": "Client Care Associate, Client Resolution",
+      "company": "Visa",
+      "location": "Pasay City, PHILIPPINES ph",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120295289",
+      "postedAt": "2026-04-13T01:35:31.938Z",
+      "source": "smartrecruiters",
+      "description": "Client Care Associate, Client Resolution Customer Service Philippines Visa Inc. Visa Client Services",
+      "salary": null,
+      "tags": [
+        "IC"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120294607",
+      "title": "Director",
+      "company": "Visa",
+      "location": "Austin, TX us",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120294607",
+      "postedAt": "2026-04-13T01:32:31.697Z",
+      "source": "smartrecruiters",
+      "description": "Director Product/Solutions Management United States Visa Inc. Visa Product and Design",
+      "salary": null,
+      "tags": [
+        "Director"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120277497",
+      "title": "VMS Senior Data Scientist",
+      "company": "Visa",
+      "location": "Tokyo, JAPAN jp",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120277497",
+      "postedAt": "2026-04-13T00:48:15.980Z",
+      "source": "smartrecruiters",
+      "description": "VMS Senior Data Scientist Data Science/Data Engineering Japan Visa Inc. Visa Product and Design",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120277247",
+      "title": "Cybersecurity Engineer - Senior Consultant Level ",
+      "company": "Visa",
+      "location": "Austin, TX us",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120277247",
+      "postedAt": "2026-04-13T00:34:18.815Z",
+      "source": "smartrecruiters",
+      "description": "Cybersecurity Engineer - Senior Consultant Level  Cyber Security United States Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120274298",
+      "title": "Senior Data Engineer",
+      "company": "Visa",
+      "location": "Auckland, NEW ZEALAND nz",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120274298",
+      "postedAt": "2026-04-12T23:11:41.167Z",
+      "source": "smartrecruiters",
+      "description": "Senior Data Engineer Cyber Security New Zealand Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Engineering",
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120273517",
+      "title": "Senior Manager Client Advisory - Visa Consulting & Analytics (Sydney or Melbourne)",
+      "company": "Visa",
+      "location": "Melbourne, VIC au",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120273517",
+      "postedAt": "2026-04-12T22:19:52.840Z",
+      "source": "smartrecruiters",
+      "description": "Senior Manager Client Advisory - Visa Consulting & Analytics (Sydney or Melbourne) Consulting Australia Visa Inc. Visa Sales",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Manager",
+        "Data"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000120265127",
+      "title": "Staff Software Engineer – Open Banking (Java, AWS, GenAI, 7-10 years' experience)",
+      "company": "Visa",
+      "location": "Bengaluru, INDIA in",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120265127",
+      "postedAt": "2026-04-12T14:55:06.062Z",
+      "source": "smartrecruiters",
+      "description": "Staff Software Engineer – Open Banking (Java, AWS, GenAI, 7-10 years' experience) Software Development/Engineering India Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Principal IC",
+        "AI/ML",
+        "Engineering"
       ]
     }
   ]
