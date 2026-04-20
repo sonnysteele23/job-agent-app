@@ -1,49 +1,301 @@
 {
-  "scrapedAt": "2026-04-19T13:32:21.248Z",
-  "count": 3,
+  "scrapedAt": "2026-04-20T13:40:34.029Z",
+  "count": 19,
   "jobs": [
     {
-      "id": "sr-Visa-744000120785967",
-      "title": "Director, EMF Segment Go-to-Market, Visa Direct North America",
-      "company": "Visa",
-      "location": "Foster City, CA us",
-      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120785967",
-      "postedAt": "2026-04-14T18:27:40.100Z",
-      "source": "smartrecruiters",
-      "description": "Director, EMF Segment Go-to-Market, Visa Direct North America Product/Solutions Management United States Visa Inc. Visa Product and Design",
+      "id": "gh-coinbase-7741187",
+      "title": "Engineering Manager - Customer Experience AI",
+      "company": "Coinbase",
+      "location": "Remote - India",
+      "url": "https://www.coinbase.com/careers/positions/7741187?gh_jid=7741187",
+      "postedAt": "2026-04-20T04:05:57-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Ready to be pushed beyond what you think you’re capable of?&lt;/p&gt; &lt;p&gt;At Coinbase, our mission is to increase economic freedom in the world. It’s a massive, ambitious opportunity that demands the best of us, every day, as we build the emerging onchain platform — and with it, the future global financial system.&lt;/p&gt; &lt;p&gt;To achieve our mission, we’re seeking a very specific candidate. We want someone who is passionate about our mission and who believes in the power of crypto and blockchain technology to update the financial system. We want someone who is eager to leave their mark on the world, who relishes the pressure and privilege of working with high caliber colleagues, and who actively seeks feedback to keep leveling up. We want someone who will run towards, not away from, solving the company’s hardest problems.&lt;/p&gt; &lt;p&gt;Our &lt;a href=&quot;https://www.coinbase.com/mission&quot;&gt;work culture&lt;/a&gt; is intense and isn’t for everyone. But if you want to build the future alongside others who excel in their disciplines and expect the same from you, there’s no better place to be.&lt;/p&gt; &lt;p&gt;While many roles at Coinbase are remote-first, we are not remote-only. In-person participation is required throughout the year. Team and company-wide offsites are held multiple times annually to foster collaboration, connection, and alignment. Attendance is expected and fully supported.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The CXAI Engineering team is part of Coinbase’s Consumer Engagement and Experience (CEE) organization, focused on transforming how customers interact with crypto support. Our mission is to deliver fast, accurate, and secure resolutions using Generative AI—moving beyond traditional support systems to build an intelligent orchestration layer between customers and the blockchain.&lt;/p&gt; &lt;p&gt;We’re looking for an Engineering Manager to lead the development of our AI-powered Automated Resolution platform. This role will guide a team working across a hybrid ecosystem of internal LLM-driven agents and key third-party integrations. You’ll own the evolution of the system’s core intelligence—enabling it to understand complex issues, securely retrieve context, and take meaningful actions across on-chain and in-app environments.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you’ll be doing:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Lead AI Strategy &amp;amp; Execution: Drive the roadmap for our conversational AI stack, moving beyond simple decision trees into LLM-driven reasoning, RAG, and agentic workflows.&lt;/li&gt; &lt;li&gt;Orchestrate the AI Ecosystem: Oversee the integration of third-party AI solutions while simultaneously scaling our in-house LLM infrastructure to handle high-stakes crypto support queries.&lt;/li&gt; &lt;li&gt;Build Evaluation &amp;amp; Guardrails: Establish rigorous AI evaluatio",
       "salary": null,
       "tags": [
-        "Director",
-        "Marketing"
+        "Manager",
+        "AI/ML",
+        "Engineering",
+        "Fintech"
       ]
     },
     {
-      "id": "sr-Visa-744000120781713",
-      "title": "Staff Site Reliability Engineer",
-      "company": "Visa",
-      "location": "São Paulo, SP br",
-      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120781713",
-      "postedAt": "2026-04-14T18:02:41.667Z",
-      "source": "smartrecruiters",
-      "description": "Staff Site Reliability Engineer PISMOAP Software Development/Engineering Brazil Visa Inc. Pismo Engineering and Technology",
+      "id": "gh-stripe-7824139",
+      "title": "Creative Design Operations Associate (Motion)",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=7824139",
+      "postedAt": "2026-04-20T05:29:30-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;br&gt;&lt;br&gt;Stripe is growing quickly and along with that, so are its operational requirements. Stripe Delivery Centers (SDC) are a brand new initiative to accelerate and expand Stripe’s operational capabilities via the creation of centralized hubs or centers of operational excellence. SDC will be staffed with Stripes, not vendors - we want Stripes at SDC to have the same level of tools and systems access as Stripes in other locations.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Stripe is investing in building out its Creative Design team within SDC to reach users across the globe. The team designs comprehensive ad campaigns tailored for various platforms, ensuring that every visual element aligns with our marketing goals and engages our audience effectively. We create net-new creative content,&amp;nbsp; localize and adapt our content to meet the unique cultural and linguistic needs of different regions, to effectively present our message in global languages.&lt;br&gt;&lt;br&gt;In addition to our work in advertising and web content, we also produce high-quality designs for presentations and other collateral aimed at large users and executive audiences. Our designs enhance the clarity and impact of our messages, making complex information accessible and engaging. Whether it&#39;s a pitch to clients or a strategy meeting with executives, we provide visually compelling designs that communicate our ideas confidently and effectively.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;Designers’ at Stripe’s SDC demonstrate a passion for captivating storytelling and great design. They use design systems to help tell compelling stories to a variety of audiences, and are well-versed at expanding, evolving, defining, and documenting flexible design systems and experiences that achieve bar-raising quality and consistency for the brand at scale. They are user-focused, have a strong understanding of the business, and are empathetic and inspiring. The ideal candidate excels across a variety of styles, crisply articulates design decisions, iterates quickly, and collaborates seamlessly with marketers, product managers, leaders, other designers, and other partners.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Ideate and design comprehensive designs for internal a",
       "salary": null,
       "tags": [
-        "Principal IC",
+        "AI/ML",
+        "Design",
+        "Operations",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-stripe-7824143",
+      "title": "Creative Design Operations Associate (Static)",
+      "company": "Stripe",
+      "location": "Bengaluru",
+      "url": "https://stripe.com/jobs/search?gh_jid=7824143",
+      "postedAt": "2026-04-20T05:11:21-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;br&gt;&lt;br&gt;Stripe is growing quickly and along with that, so are its operational requirements. Stripe Delivery Centers (SDC) are a brand new initiative to accelerate and expand Stripe’s operational capabilities via the creation of centralized hubs or centers of operational excellence. SDC will be staffed with Stripes, not vendors - we want Stripes at SDC to have the same level of tools and systems access as Stripes in other locations.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Stripe is investing in building out its Creative Design team within SDC to reach users across the globe. The team designs comprehensive ad campaigns tailored for various platforms, ensuring that every visual element aligns with our marketing goals and engages our audience effectively. We create net-new creative content,&amp;nbsp; localize and adapt our content to meet the unique cultural and linguistic needs of different regions, to effectively present our message in global languages.&lt;br&gt;&lt;br&gt;In addition to our work in advertising and web content, we also produce high-quality designs for presentations and other collateral aimed at large users and executive audiences. Our designs enhance the clarity and impact of our messages, making complex information accessible and engaging. Whether it&#39;s a pitch to clients or a strategy meeting with executives, we provide visually compelling designs that communicate our ideas confidently and effectively.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;Designers’ at Stripe’s SDC demonstrate a passion for captivating storytelling and great design. They use design systems to help tell compelling stories to a variety of audiences, and are well-versed at expanding, evolving, defining, and documenting flexible design systems and experiences that achieve bar-raising quality and consistency for the brand at scale. They are user-focused, have a strong understanding of the business, and are empathetic and inspiring. The ideal candidate excels across a variety of styles, crisply articulates design decisions, iterates quickly, and collaborates seamlessly with marketers, product managers, leaders, other designers, and other partners.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Ideate and design comprehensive designs for internal a",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Design",
+        "Operations",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-stripe-7826761",
+      "title": "Software Engineer, Security Analytics Infrastructure",
+      "company": "Stripe",
+      "location": "N/A",
+      "url": "https://stripe.com/jobs/search?gh_jid=7826761",
+      "postedAt": "2026-04-20T09:35:49-04:00",
+      "source": "greenhouse",
+      "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;In this role, you would join Stripe&#39;s Security Analytics Infrastructure team. Our mission is to enable Stripe’s detection and response by generating, centralizing, and organizing security data through simple, reliable pipelines and providing a platform of core security systems. We also undertake experimental, bespoke projects that close Stripe‑specific security gaps and accelerate outcomes for our partner teams.&amp;nbsp;&lt;/p&gt; &lt;h2&gt;What you’ll do&lt;/h2&gt; &lt;p&gt;As a Software Engineer on this team, you will use your blend of security and software engineering expertise to build and support our key services including a SIEM, SOAR, endpoint detection &amp;amp; response, server observability, threat intel platform and AI infrastructure.&amp;nbsp; You’ll work closely with partner teams working in multiple program areas of cyber defense, including cyber intelligence, threat detection, vulnerability management, secure devices and compliance.&amp;nbsp; Overall you’ll help ensure that we have the right data in the right place at the right time for our users.&lt;/p&gt; &lt;h3&gt;Who you are&lt;/h3&gt; &lt;p&gt;We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt; &lt;h3&gt;Responsibilities&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Build and maintain services and dataflows related to our security analytics platform&lt;/li&gt; &lt;li&gt;Collaborate with other teams to drive improvements to processes our platform supports&lt;/li&gt; &lt;li&gt;Continuously improve our security posture, processes, and tools&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Minimum requirements&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;5+ years software engineering experience in a high-stakes production environment&lt;/li&gt; &lt;li&gt;Significant experience in applying software engineering in the cybersecurity field&lt;/li&gt; &lt;li&gt;Experience in applying AI tooling in this space (e.g. Claude Code, agent-based approaches, etc)&lt;/li&gt; &lt;li&gt;Empathy, strong communication skills and a deep respect for the power of collaboration&lt;/li&gt; &lt;li&gt;Excellent problem-solving skills and attention to detail&lt;/li&gt; &lt;li&gt;High standards for code quality and a constructive attitude to help others raise th",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Engineering",
+        "Data",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-anthropic-5163917008",
+      "title": "Enterprise Account Executive, Retail",
+      "company": "Anthropic",
+      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5163917008",
+      "postedAt": "2026-04-20T06:17:17-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As an Enterprise Account Executive at Anthropic, you&#39;ll join the foundational team at the forefront of introducing our cutting-edge AI productivity API and SaaS solutions to retail organisations across the EMEA markets. You&#39;ll drive the adoption of safe, frontier AI by securing strategic deals with retail brands. You&#39;ll leverage your consultative sales expertise in the retail sector to propel revenue growth while becoming a trusted partner to retail stakeholders, helping them embed and deploy AI while uncovering its full range of capabilities in merchandising, customer experience, and store operations. In collaboration with GTM, Product, and Marketing teams, you&#39;ll continuously refine our value proposition, sales methodology, and market positioning to resonate with retail decision-makers.&lt;/p&gt; &lt;p&gt;The ideal candidate will have a passion for developing new market segments, pinpointing high-potential opportunities, and executing strategies to capture them. By driving deployment of Anthropic&#39;s emerging products, you will help enterprises obtain new capabilities while also advancing the ethical development of AI.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Responsibilities:&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Win new business and drive revenue for Anthropic within the retail sector. Navigate complex retail organisations to reach key decision-makers, educate them about our services, and help them succeed with Anthropic. You&#39;ll own the full sales cycle, from first outbound to close&lt;/li&gt; &lt;li&gt;Design and execute innovative sales strategies tailored to retail procurement cycles and budgeting processes to meet and exceed revenue quotas. Analyze retail market landscapes, trends, and dynamics to translate high-level plans into targeted sales activities and campaigns&lt;/li&gt; &lt;li&gt;Spearhead market expansion by identifying new use cases within merchandising teams, e-commerce divisions, and store operations. Collaborate cross-functionally to differentiate our offerings for retail applications&lt;/li&gt; &lt;li&gt;Navigate complex retail stakeholder ecosystems including executives, administrators, IT departments, and procurement offices to build consensus&lt;/li&gt; &lt;li&gt;Inform product roadmaps and features by gathering feedback from users and conveying retail market needs. Provide insights that strengthen our value proposition for retail&lt;/li&gt; &lt;li&gt;Continuously refine t",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Sales"
+      ]
+    },
+    {
+      "id": "gh-databricks-8503080002",
+      "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "company": "Databricks",
+      "location": "Singapore",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8503080002",
+      "postedAt": "2026-04-20T01:04:35-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;CSQ427R172&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Mission&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The AI Forward Deployed Engineering (AI FDE) team is a highly specialized customer-facing AI team at Databricks. We deliver professional services engagements to help our customers build and productionize first-of-its-kind AI applications. We work cross-functionally to shape long-term strategic priorities and initiatives alongside engineering, product, and developer relations, as well as support internal subject matter expert (SME) teams. We view our team as an ensemble: we look for individuals with strong, unique specializations to improve the overall strength of the team. This team is the right fit for you if you love working with customers, teammates, and fueling your curiosity for the latest trends in GenAI, LLMOps, and ML more broadly.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The impact you will have:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Develop cutting-edge GenAI solutions, incorporating the latest techniques from our Mosaic AI research to solve customer problems&lt;/li&gt; &lt;li&gt;Own production rollouts of consumer and internally facing GenAI applications&lt;/li&gt; &lt;li&gt;Serve as a trusted technical advisor to customers across a variety of domains&lt;/li&gt; &lt;li&gt;Present at conferences such as Data + AI Summit, recognized as a thought leader internally and externally&lt;/li&gt; &lt;li&gt;Collaborate cross-functionally with the product and engineering teams to influence priorities and shape the product roadmap&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What we look for:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Experience building GenAI applications, including RAG, multi-agent systems, Text2SQL, fine-tuning, etc., with tools such as HuggingFace, LangChain, and DSPy&lt;/li&gt; &lt;li&gt;Expertise in deploying production-grade GenAI applications, including evaluation and optimizations&amp;nbsp;&lt;/li&gt; &lt;li&gt;Extensive years of hands-on industry data science experience, leveraging common machine learning and data science tools, i.e. pandas, scikit-learn, PyTorch, etc.&lt;/li&gt; &lt;li&gt;Experience building production-grade machine learning deployments on AWS, Azure, or GCP&lt;/li&gt; &lt;li&gt;Graduate degree in a quantitative discipline (Computer Science, Engineering, Statistics, Operations Research, etc.) or equivalent practical experience&lt;/li&gt; &lt;li&gt;Experience communicating and/or teaching technical concepts to non-technical and technical audiences alike&lt;/li&gt; &lt;li&gt;Passion for collaboration, life-long learning, and driving business value through AI&lt;/li&gt; &lt;li&gt;[Preferred] Experience using the Databricks Intelligence Platform and Apache Spark™ to process large-scale distributed datasets&lt;/li&gt; &lt;li&gt;We require fluency in English and have a preference for candidates who also speak Mandarin&lt;/li&gt; &lt;/ul&gt;&lt;div class=&quot;c",
+      "salary": null,
+      "tags": [
+        "AI/ML",
         "Engineering"
       ]
     },
     {
-      "id": "sr-Visa-744000120780707",
-      "title": "Network Analyst",
-      "company": "Visa",
-      "location": "Ashburn, VA us",
-      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000120780707",
-      "postedAt": "2026-04-14T17:51:47.888Z",
-      "source": "smartrecruiters",
-      "description": "Network Analyst Software Development/Engineering United States Visa Inc. Visa Engineering and Technology",
+      "id": "gh-databricks-8510406002",
+      "title": "Geo Core Account Executive - Portugal Market",
+      "company": "Databricks",
+      "location": "Madrid",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8510406002",
+      "postedAt": "2026-04-20T09:29:20-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;SLSQ427R18&lt;/p&gt; &lt;p data-renderer-start-pos=&quot;2729&quot;&gt;&amp;nbsp;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Geo Core Account Executive - Portugal Market&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Madrid, Spain&lt;/p&gt; &lt;p&gt;Do you want to help solve the world’s toughest problems with Data and AI? That’s what we do every day at Databricks.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The Role:&lt;/strong&gt; Databricks is looking for a creative, execution-oriented Geo Core Account Executive to join our team in Madrid, focusing on the Portuguese market. Reporting to our Director of Enterprise Sales, you will manage and grow a select group of enterprise-class clients. You will identify new use cases and secure new business to expand Databricks&#39; footprint within your portfolio.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The impact you will have:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Identify new business opportunities and scale consumption use cases within your key account portfolio.&lt;/li&gt; &lt;li&gt;Assess your key accounts and develop a strategy to meet and exceed revenue and consumption goals.&lt;/li&gt; &lt;li&gt;Build positive relationships with key decision makers (C-level) and establish yourself as a trusted advisor for Data &amp;amp; AI-related subjects.&lt;/li&gt; &lt;li&gt;Coordinate internal teams and Portuguese integration partners to maximize impact on the local ecosystem.&lt;/li&gt; &lt;li&gt;Showcase exceptional value during engagements to guide complex negotiations to a successful close.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What we look for:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Successful track record of meeting and exceeding sales quotas and KPIs.&lt;/li&gt; &lt;li&gt;Experience selling to large enterprise-class customers (Financial Services or Mixed Industries).&lt;/li&gt; &lt;li&gt;Proven experience selling data and AI/Big Data/complex cloud solutions.&lt;/li&gt; &lt;li&gt;Experience of following robust sales methodologies (e.g., MEDDPICC, Value Selling).&lt;/li&gt; &lt;li&gt;Based in Madrid with availability for frequent travel.&lt;/li&gt; &lt;li&gt;Demonstrable experience working with integration partners in Portugal.&lt;/li&gt; &lt;li&gt;Native Portuguese, high level of English, and fluent Spanish are essential.&lt;/li&gt; &lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Databricks&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Databricks is the data and AI company. More than 10,000 organizations worldwide — including Comcast, Condé Nast, Grammarly, and over 50% of the Fortune 500 — rely on the Databricks Data Intelligence Platform to unify and democratize data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe and was founded by the original creators of Lakehouse, Apache Spark™, Delta Lake and MLflow. ",
       "salary": null,
       "tags": [
-        "Data"
+        "AI/ML",
+        "Marketing",
+        "Sales",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-databricks-8507812002",
+      "title": "Named Enterprise Account Executive",
+      "company": "Databricks",
+      "location": "Remote - Denmark",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8507812002",
+      "postedAt": "2026-04-20T06:17:19-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;SLSQ327R219&lt;/p&gt; &lt;p&gt;Want to help solve the world&#39;s toughest problems with data and AI? This is what we do every day at Databricks.&lt;/p&gt; &lt;p&gt;Databricks operates at the leading edge of the Data and AI space. Our customers turn to us to lead the accelerated innovation their businesses need to gain first-mover advantage in today&#39;s ultra-competitive landscape.&lt;/p&gt; &lt;p&gt;We are looking for a creative, delivery-oriented&amp;nbsp;Enterprise Account Executive to join the team in Denmark to maximise the phenomenal market opportunity that exists for Databricks. As an Account Executive, you know how to sell innovation and value to existing customers, identify new use cases and grow consumption and can guide deals forward to compress decision cycles. You love understanding a product in depth and are passionate about communicating its value to customers and partners.&amp;nbsp;&lt;/p&gt; &lt;p&gt;You will report to the Sales Director for Denmark and Norway.&amp;nbsp;&lt;/p&gt; &lt;p data-renderer-start-pos=&quot;2006&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;The impact you will have:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;You will co-develop a business plan, with your team and ecosystem partners, that accelerates customer success to exceed quarterly/annual consumption and booking goals&lt;/li&gt; &lt;li&gt;You will lead your team, customers and partners to identify impactful data and AI use cases whilst proving out their value on the Databricks Data Intelligence platform&lt;/li&gt; &lt;li&gt;You will implement the data and AI transformation goals of your customer through a combination of strategic partnerships, well scoped professional services, training and targeted Executive engagement&lt;/li&gt; &lt;li&gt;You will develop an understanding of technical product details and roadmap to build trust with executives and technical champions&lt;/li&gt; &lt;/ul&gt; &lt;p data-renderer-start-pos=&quot;2367&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;What we look for:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Exstensive experience selling complex solutions to Enterprise Customers&lt;/li&gt; &lt;li&gt;Experience working in Data, Cloud industries with some technical sales experience&lt;/li&gt; &lt;li&gt;Proof of exceeding sales quotas in high-growth Enterprise software companies&amp;nbsp;&lt;/li&gt; &lt;li&gt;Experience driving consumption and commit-based engagement models and strategies working with professional services and training teams&lt;/li&gt; &lt;li&gt;Experience co-selling and scaling your business with Cloud Vendors (AWS, Azure and Google Cloud teams) and Global Solution Integrators (GSI)&lt;/li&gt; &lt;li&gt;Experience of building effective champions, collaborative teams and partnerships to support execution of your account / territory plan&lt;/li&gt; &lt;li&gt;Understanding of how to identify all key uses cases and buying centr",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Sales"
+      ]
+    },
+    {
+      "id": "gh-databricks-8196585002",
+      "title": "Sr. Financial Analyst",
+      "company": "Databricks",
+      "location": "Mountain View, California; San Francisco, California",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8196585002",
+      "postedAt": "2026-04-19T17:30:54-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;GAQ327R142&lt;/p&gt; &lt;p&gt;While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered.&lt;/p&gt; &lt;p&gt;Databricks is seeking a Senior Financial Analyst to join our Corporate FP&amp;amp;A team. In this role, you will report to the Senior Finance Manager / Director of Corporate FP&amp;amp;A and help empower the broader FP&amp;amp;A organization. You will play a key role in building and managing core strategic planning processes, as well as partnering with leaders across functions to support budgeting, forecasting, and ongoing financial management.&amp;nbsp;&lt;/p&gt; &lt;p&gt;The impact you will have:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Support long and short-term planning processes, including:&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li&gt; &lt;ul&gt; &lt;li&gt;Ownership of the planning calendar with clearly communicated timelines, deliverables, and expectations with all planning stakeholders&lt;/li&gt; &lt;li&gt;Ensuring system snapshots are completed accurately and on time&lt;/li&gt; &lt;li&gt;Building driver-based financial models to optimize resource allocation&lt;/li&gt; &lt;li&gt;Preparing executive-ready materials, including financial models, scenario analyses, and presentations&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li&gt;Support financial modeling for capital raising and coordinate across FP&amp;amp;A, Investor Relations, and Treasury&lt;/li&gt; &lt;li&gt;Support the development of Executive and Board reporting materials, ensuring accuracy and clarity of financial insights&lt;/li&gt; &lt;li&gt;Manage ad hoc analyses and strategic projects to support senior leaders across Finance and Investor Relations&lt;/li&gt; &lt;li&gt;Identify and lead process and system optimization initiatives, including opportunities for automation&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;What we look for:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Masters in Business Administration from a top tier program&lt;/li&gt; &lt;li&gt;Bachelor&#39;s Degree in Business, Finance, Accounting, or a related field&lt;/li&gt; &lt;li&gt;4+ years of experience in corporate finance, management consulting, or investment banking; experience in the software or SaaS industry is a plus&lt;/li&gt; &lt;li&gt;Advanced proficiency in Google Sheets or Excel, including the ability to build and maintain complex financial models&lt;/li&gt; &lt;li&gt;Leverage best-in-class AI to upskill and architect sophisticated, model-driven solutions.&lt;/li&gt; &lt;li&gt;Utilize data to uncover outcome driven insights.&lt;/li&gt; &lt;li&gt;Ability to grasp the strategic ‘big picture’.&lt;/li&gt; &lt;li&gt;Strong communication skills and the ability to prioritize and manage multiple objectives in a fast-paced environment while meeting deadlines&lt;/li&gt; &lt;li&gt;Understanding of the three statement financial model&lt;/li&gt; &lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "AI/ML",
+        "Data",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-databricks-8452392002",
+      "title": "Sr. Solutions Engineer France",
+      "company": "Databricks",
+      "location": "Paris, France",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8452392002",
+      "postedAt": "2026-04-20T03:55:32-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;&lt;strong&gt;FEQ227R177&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Databricks, our core values are at the heart of everything we do. Our culture of proactiveness and a customer-centric mindset guides us to create a unified platform that makes data science and analytics accessible to everyone. We aim to inspire our customers to make informed decisions that push their business forward. We provide a user-friendly and intuitive platform that makes it easy to turn insights into action and fosters a culture of creativity, experimentation, and continuous improvement.&lt;/p&gt; &lt;p&gt;You will be an essential part of this mission, using your technical expertise to demonstrate how our Data and Intelligence Platform can help customers solve their complex data challenges.&lt;/p&gt; &lt;p&gt;You&#39;ll work with a collaborative, customer-focused team that values innovation and creativity. You&#39;ll use your skills to create customized solutions to help our customers achieve their goals and guide their businesses forward.&lt;/p&gt; &lt;p&gt;Join us in our quest to change how people work with data and make a better world!&lt;br&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The impact you will have:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Form successful relationships with clients throughout your assigned territory, providing technical and business value to Databricks customers in collaboration with Account Executives.&lt;/li&gt; &lt;li&gt;Operate as an expert in big data analytics to excite customers about Databricks. You will develop into a ‘champion’ and trusted advisor on multiple issues of architecture, design, and implementation to lead to the successful adoption of the Databricks Data Intelligence Platform.&lt;/li&gt; &lt;li&gt;Scale best practices in your field and support customers by authoring reference architectures, how-tos, and demo applications, and help build the Databricks community in your region by leading workshops, seminars, and meet-ups.&lt;/li&gt; &lt;li&gt;Grow your knowledge and expertise to the level of a technical and/or industry specialist.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What we look for:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Engage customers in technical sales, challenge their questions, guide clear outcomes, and communicate technical and value propositions.&lt;/li&gt; &lt;li&gt;Passion for delivering technical propositions, identifying customers&#39; pain points and explaining essential areas for business value to develop a trusted advisor skillset.&lt;/li&gt; &lt;li&gt;Knowledgeable in a core Big Data Analytics domain with some exposure to advanced Data Engineering and/or Data science use cases.&lt;/li&gt; &lt;li&gt;Experience diving deeper into solution architecture and expertise with at least one major public cloud platform.&lt;/li&gt; &lt;li&gt;Code in a core programming language like Python, Java, or Scala.&lt;/li&gt; &lt;li&gt;A foundational understanding of Apache Spark™ architecture is pr",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "AI/ML",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "gh-databricks-8430926002",
+      "title": "Strategic Account Executive - Automotive",
+      "company": "Databricks",
+      "location": "Seoul, South Korea",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8430926002",
+      "postedAt": "2026-04-19T22:35:24-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;SLSQ227R354&lt;/p&gt; &lt;p&gt;As part of our accelerating APJ growth, Databricks is looking for a dynamic Strategic Account Executive to join the team.&lt;/p&gt; &lt;p&gt;As a Strategic Account Executive, you will be responsible for driving growth and strengthening our relationship with one of Databricks’ key strategic customers.&lt;/p&gt; &lt;p&gt;You know how to sell towards the Automotive vertical domain and can guide deals forward to compress decision cycles. You love understanding a product in-depth and are passionate about communicating its value to customers and partners. Always prospecting for new opportunities, you will close new accounts while growing our business in existing accounts.&lt;/p&gt; &lt;p&gt;This is an exciting Sales role that will make an important impact on the revenue and expansion of our business in Korea. You will report to the Director of Sales, Korea.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The impact you will have:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Evangelize Databricks&#39; Unified Analytics Platform powered by Spark and launch the Databricks brand in Strategic Accounts across all industries&lt;/li&gt; &lt;li&gt;Prospect, identify and source new sales opportunities, building pipeline individually and/or with the Databricks SDR team&lt;/li&gt; &lt;li&gt;Engage with business and technical decision makers and lead them through the evaluation and buying process&lt;/li&gt; &lt;li&gt;Exceed individual activity, pipeline and annual revenue targets&lt;/li&gt; &lt;li&gt;Engage with and drive business through local partners (technology partners, ISVs, SIs and GSIs)&lt;/li&gt; &lt;li&gt;Drive customer success and upsell in existing customers&lt;/li&gt; &lt;li&gt;Create a Territory Strategy&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What we look for:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Proven success in Strategic Sales roles, ideally in Big Data, Cloud, or SaaS technology&lt;/li&gt; &lt;li&gt;Demonstrable experience of selling innovation, ideally in Big Data, Cloud, or SaaS technology&lt;/li&gt; &lt;li&gt;Solution and business-outcomes focused sales approach (Command of the Message, MEDDPIC, Challenger Sale)&lt;/li&gt; &lt;li&gt;Ability to simply articulate intricate cloud &amp;amp; big data technologies and their business value for the customer&lt;/li&gt; &lt;li&gt;Proven success and upward trajectory in Automotive vertical domain - ideally encompassing the management and scaling of the top Automotive accounts in Korea&lt;/li&gt; &lt;li&gt;Bachelors Degree and 10+ years of experience selling SaaS solutions to Strategic Customers&lt;/li&gt; &lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Databricks&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Databricks is the data and AI company. More than 10,000 organizations worldwide — including Comcast, Condé Nast, Grammarly, and over 50% ",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Sales"
+      ]
+    },
+    {
+      "id": "gh-gitlab-8497728002",
+      "title": "Customer Success Engineer - Japan",
+      "company": "GitLab",
+      "location": "Remote, Japan",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8497728002",
+      "postedAt": "2026-04-19T23:29:50-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt; and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;An overview of this role&lt;/h2&gt; &lt;p&gt;As a Customer Success Engineer, you&#39;ll expand your impact by partnering with customers in GitLab&#39;s group across APJ to help them get measurable value from GitLab through hands-on technical guidance and proactive enablement. &lt;strong&gt;&lt;strong class=&quot;textBold&quot;&gt;This role is ideal for a developer or systems engineer looking to transition into customer success while leveraging your deep technical expertise in DevSecOps and cloud technologies.&lt;/strong&gt;&lt;/strong&gt; You&#39;ll serve as a trusted technical advisor, partnering with customers over Zoom and email to improve adoption, unblock implementations, and apply DevSecOps best practices across the software delivery lifecycle. Working closely with Account Executives and Renewals Managers, you&#39;ll align technical recommendations to customer goals and help support renewals and expansion by demonstrating outcomes. You&#39;ll also contribute back to the broader GitLab team by sharing learnings through documentation and enablement content, while mentoring team members and customers through complex technical challenges. This role is a strong fit for someone who enjoys solving complex technical problems, communicates clearly, and thrives in a remote, asynchronous environment. You&#39;re eager to gro",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "gh-gitlab-8493970002",
+      "title": "G&A Engineer, Netsuite/Claude ",
+      "company": "GitLab",
+      "location": "Remote, North America",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8493970002",
+      "postedAt": "2026-04-20T07:11:37-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt; and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;An overview of this role&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We are currently hiring an IT Enterprise Applications Engineer specializing in NetSuite &amp;amp; Claude Code. The Enterprise Applications Administration job family is responsible for the implementation and operational ownership of all Enterprise Applications across GitLab and the deployment of code, customizations, and workflows. In this role, you will be part of the Enterprise Applications G&amp;amp;A team, reporting directly to the Senior Manager, G&amp;amp;A Systems. The Enterprise Applications team provides development and support to the Business Applications that support GitLab&#39;s core business processes of Quote To Cash, Procure to Pay, and Record to Report. The purpose is to automate, enforce, and make these aforementioned processes efficient. We accomplish these goals by partnering deeply with our business partners to understand their needs and bring that to life.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Develop with NetSuite SuiteCloud development tools such as SuiteBuilder, SuiteFlow, SuiteAnalytics, and SuiteScript to develop new and maintain existing business workflows.&lt;/li&gt; &lt;li&gt;Build system integration tools such as SuiteTal",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Design",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "gh-gitlab-8509723002",
+      "title": "Senior Solutions Architect - CEUR",
+      "company": "GitLab",
+      "location": "Remote, Germany",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8509723002",
+      "postedAt": "2026-04-20T04:03:13-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our &lt;a href=&quot;https://handbook.gitlab.com/handbook/values/&quot;&gt;values&lt;/a&gt; and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;An overview of this role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a&amp;nbsp;Senior Solutions Architect in GitLab&#39;s Central EMEA team, you&#39;ll be a trusted advisor to GitLab prospects and customers, helping them understand how GitLab&#39;s DevSecOps platform addresses both technical requirements and business objectives across the entire software development lifecycle. You&#39;ll guide organizations through their digital transformation journeys, from planning through monitoring, using your technical expertise, understanding of cloud and modern software development practices, and strong customer empathy. Reporing to a regional Solutions Architect manager and partnering closely with Account Executives and cross-functional teams, you&#39;ll own technical evaluations (including proof of value initiatives and workshops), shape solution architectures, and serve as the voice of the customer back to Product Management. You&#39;ll focus on driving successful platform adoption, influencing revenue growth through solution selling, and building long-term, trust-based relationships that showcase GitLab&#39;s differentiated position in an AI-driven DevSecOps landscape.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li value=&quot;12&quot;&gt;&lt;span class=&quot;textBold&qu",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000121772391",
+      "title": "Business Associate - Visa Leadership Associate Program ",
+      "company": "Visa",
+      "location": "Kyiv, UKRAINE ua",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000121772391",
+      "postedAt": "2026-04-20T13:04:35.935Z",
+      "source": "smartrecruiters",
+      "description": "Business Associate - Visa Leadership Associate Program  Business Development Ukraine Visa Inc. Visa Sales",
+      "salary": null,
+      "tags": [
+        "Lead",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000121691067",
+      "title": "Executive Assistant - KSA ",
+      "company": "Visa",
+      "location": "Riyadh, SAUDI ARABIA sa",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000121691067",
+      "postedAt": "2026-04-20T07:16:31.876Z",
+      "source": "smartrecruiters",
+      "description": "Executive Assistant - KSA  Administrative Saudi Arabia Visa Inc. Visa Corporate Services and Administration",
+      "salary": null,
+      "tags": [
+        "IC"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000121682307",
+      "title": "Director",
+      "company": "Visa",
+      "location": "Tokyo, JAPAN jp",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000121682307",
+      "postedAt": "2026-04-20T06:06:20.302Z",
+      "source": "smartrecruiters",
+      "description": "Director Business Development Japan Visa Inc. Visa Sales",
+      "salary": null,
+      "tags": [
+        "Director"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000121680647",
+      "title": "Revenue Growth Manager – Visa Direct",
+      "company": "Visa",
+      "location": "Dubai, UNITED ARAB EMIRATES ae",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000121680647",
+      "postedAt": "2026-04-20T05:45:02.872Z",
+      "source": "smartrecruiters",
+      "description": "Revenue Growth Manager – Visa Direct Business Development United Arab Emirates Visa Inc. Visa Sales",
+      "salary": null,
+      "tags": [
+        "Manager",
+        "Marketing"
+      ]
+    },
+    {
+      "id": "sr-Visa-744000121657362",
+      "title": "Software Engineer",
+      "company": "Visa",
+      "location": "Austin, TX us",
+      "url": "https://api.smartrecruiters.com/v1/companies/Visa/postings/744000121657362",
+      "postedAt": "2026-04-20T01:21:38.645Z",
+      "source": "smartrecruiters",
+      "description": "Software Engineer Technology and Operations United States Visa Inc. Visa Engineering and Technology",
+      "salary": null,
+      "tags": [
+        "Engineering"
       ]
     }
   ]
