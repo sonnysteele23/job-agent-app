@@ -1,5 +1,138 @@
 {
-  "scrapedAt": "2026-07-05T13:35:51.445Z",
-  "count": 0,
-  "jobs": []
+  "scrapedAt": "2026-07-06T14:15:03.294Z",
+  "count": 8,
+  "jobs": [
+    {
+      "id": "gh-stripe-7874654",
+      "title": "Business Partner Analyst,  Financial Enablement",
+      "company": "Stripe",
+      "location": "Dublin, Ireland",
+      "url": "https://stripe.com/jobs/search?gh_jid=7874654",
+      "postedAt": "2026-07-06T06:36:32-04:00",
+      "source": "greenhouse",
+      "description": "&lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world&#39;s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;About the team&lt;/h3&gt; &lt;p&gt;The Internal System Org is at the core of Stripe to empower business-critical financial domains including Finance and Strategy, Accounting, Tax, Treasury, Product Experience, and GTM. We are the Financial Enablement team, acting as the centralized data analytics team for Internal System Org. We enable and empower Finance and Strategy, GTM, Accounting, and Product teams to achieve business goals through dataset development, data analytics support, dashboards, AI, and operational efficiency enhancements.&lt;/p&gt; &lt;h2&gt;What you&#39;ll do&lt;/h2&gt; &lt;p&gt;You&#39;re passionate about solving business problems and making a direct impact on the business. You thrive in environments with many moving parts and quickly pick up new domain knowledge and technologies (e.g., AI). We&#39;re looking for someone with strong communication skills and advanced SQL and analytics abilities. A background in Accounting or Finance, or prior AI experience, is a strong plus, though these can also be developed on the job.&lt;/p&gt; &lt;h3&gt;Responsibilities&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Perform data analysis, identify trends, conduct research, and build visualizations to deliver objective, critical insights that fulfill team stakeholders&#39; business needs&lt;/li&gt; &lt;li&gt;Work closely with cross-functional teams, including Finance and Strategy, Accounting, Product, Tax, User Billing, Seller System, and Sales Ops teams, to align on financial goals and drive revenue growth&lt;/li&gt; &lt;li&gt;Work closely with Engineering and Product teams to help define product solutions&lt;/li&gt; &lt;li&gt;Leverage AI tools to improve teamwork efficiency&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Who you are&lt;/h2&gt; &lt;p&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt; &lt;h3&gt;Minimum requirements&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Bachelor&#39;s degree in a STEM major (e.g., Computer Science, Mathematics, Statistics, Engineering) and 4+ years of experience in data analysis&lt;/li&gt; &lt;li&gt;Strong problem-solving ability, proficiency with SQL (minimum of 3 years of advanced SQL), and strong understanding of data relationships&lt;/li&gt; &lt;li&gt;Experience working with larg",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Data",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "gh-databricks-8613435002",
+      "title": "Pre-sales Senior Technical Solutions Engineer (Data and AI)",
+      "company": "Databricks",
+      "location": "London, United Kingdom",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8613435002",
+      "postedAt": "2026-07-05T12:16:41-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p&gt;&lt;strong&gt;Req ID: &lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;FEQ327R439&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Recruiter: &lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;Dina Hussain&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Location: &lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;London (or surrounding areas)&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;At Databricks, our core values are at the heart of everything we do; creating a culture of proactiveness and a customer-centric mindset guides us to create a unified platform that makes data science and analytics accessible to everyone. We aim to inspire our customers to make informed decisions that push their business forward. We provide a user-friendly and intuitive platform that makes it easy to turn insights into action and fosters a culture of creativity, experimentation, and continuous improvement. You will be an essential part of this mission, using your technical expertise to demonstrate how our Databricks Data Intelligence Platform can help customers solve their complex data challenges. You&#39;ll work with a collaborative, customer-focused team that values innovation and creativity, using your skills to create customised solutions to help our customers achieve their goals and guide their businesses forward. Join us in our quest to change how people work with data and make a better world!&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;You will be reporting to the Manager, Field Engineering.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The impact you will have:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Form successful relationships with clients throughout your assigned territory to provide technical and business value in collaboration with an Account Executive and a Senior Solutions Architect.&lt;/li&gt; &lt;li&gt;Gain excitement from clients about Databricks through hands-on evaluation and Spark programming, integrating with the wider cloud ecosystem and 3rd party applications.&lt;/li&gt; &lt;li&gt;Contribute to building the Databricks technical community through engagement at workshops, seminars, and meet-ups.&lt;/li&gt; &lt;li&gt;Become a Big Data Analytics advisor on aspects of architecture and design.&lt;/li&gt; &lt;li&gt;Support your customers by authoring reference architectures, how-tos, and demo applications.&lt;/li&gt; &lt;li&gt;Develop both technically and in the pre-sales aspect with the goal of becoming an independently operating Solutions Architect.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What we look for:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Experience, technical customer-facing and with a background in Data Science / Generative AI / Machine Learning / Data Warehousing or Data Engineering.&amp;nbsp;&amp;nbsp;&lt;/li&gt; &lt;li&gt;You will be working in ",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "AI/ML",
+        "Engineering",
+        "Data",
+        "Sales"
+      ]
+    },
+    {
+      "id": "gh-databricks-8568043002",
+      "title": "Sr. Manager, Field Engineering - Lakebase",
+      "company": "Databricks",
+      "location": "Singapore",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568043002",
+      "postedAt": "2026-07-05T22:39:24-04:00",
+      "source": "greenhouse",
+      "description": "&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;FEQ327R255&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We are looking for a Sr. Manager, Field Engineering – Lakebase, to join our world-class hyper-growth organization. In this role, you will lead a specialized team of pre-sales Solutions Architects focused on our high priority product-line, Lakebase.&amp;nbsp; The team will engage with complex, strategic accounts, helping drive the growth and expansion of our Lakebase product offering in a territory that spans across multiple verticalized business units..&lt;/p&gt; &lt;p&gt;Your experience partnering with sales organizations will help grow consumption, while coaching new sales and pre-sales team members to work together and raise the bar to best-in-class execution. Your team will engage, plan and strategically align with direct account teams in the verticalized business units, jointly engaging clients as you help ensure Lakebase is adopted and provides tremendous value to our customers. You will guide your team and be involved in initiatives to enhance its effectiveness. You must be an expert at communicating complex, business-value-focused solutions, while remaining deeply technical as you position, explain, and are seen as a credible technical leader in the transactional database (OLTP) domain; support a complex consumption motion; and build relationships with key stakeholders in large enterprises. This role will report to a Global Lakebase leader in Field Engineering.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;The impact you will have:&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Hire and manage a team of technical pre-sales Solutions Architects focused on Lakebase.&lt;/li&gt; &lt;li&gt;Build a collaborative culture within a rapid-growth team that embodies and promotes Databricks’ customer-obsessed, team-first, and diverse values.&lt;/li&gt; &lt;li&gt;Support our growing Lakebase business, focusing on customer value and enabling your SA team to drive technical adoption and consumption.&lt;/li&gt; &lt;li&gt;Support increased return on investment of Solutions Architect involvement in sales cycles.&lt;/li&gt; &lt;li&gt;Create trust-based, long-term customer relationships and deeply understand transactional databases (OLTP), along with data platform, data warehousing (OLAP), AI, app development and cloud market landscapes and trends, reporting on the forces that shift the strategic direction of accounts.&lt;/li&gt; &lt;li&gt;Promote a solution-, value-, and technical-based field engineering organization focused on modern data architectures, operational workloads, and AI-native applications.&lt;/li&gt; &lt;li&gt;Display an understanding of business needs and revenue potential for accounts in the assigned region.&lt;/li&gt; &lt;li&gt;Build Databricks’ Lakebase brand across the market in partnership with Marketing, Product, and Sales teams.&lt;/li&gt; &lt;li&gt;Partner closely with Product and Engineering teams to translate customer feedback, technical require",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Manager",
+        "AI/ML",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "gh-gusto-7864440",
+      "title": "Senior Manager, Agentic Strategy & Operations",
+      "company": "Gusto",
+      "location": "Denver, CO;San Francisco, CA;New York, NY;Las Vegas, NV;Chicago, IL;Phoenix, AZ",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7864440",
+      "postedAt": "2026-07-06T09:11:14-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;line-height: 1.2;&quot;&gt;&amp;nbsp;&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;About Gusto&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Gusto, we&#39;re on a mission to grow the small business economy. We handle the hard stuff — payroll, health insurance, 401(k)s, and HR — so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;br&gt;All full-time employees receive competitive base pay, benefits, and equity (RSUs) — because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our&lt;a href=&quot;https://gusto.com/about/careers/total-rewards&quot; target=&quot;_blank&quot;&gt; &lt;u&gt;Total Rewards philosophy&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;br&gt;AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the Role:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We are building AI-powered, agentic workflows to transform how service operations scale, resolve customer needs, and maintain quality in high-stakes environments. At Gusto, that means designing systems that can earn the trust of small business owners — where a wrong answer or a missed escalation has real consequences.&lt;/p&gt; &lt;p&gt;As an AI Solutions Architect, you will own the end-to-end design and performance of these workflows in production — where models, tools, data, and human judgment come together to deliver outcomes. This is not a traditional architecture role. You will design, prototype, deploy, and continuously improve AI-driven systems that directly impact customer experience and operational efficiency. You will also play a key role in shaping the evolution of our AI platform by identifying capability gaps, prototyping solutions, and informing the primitives required to scale agentic systems effectively.&lt;/p&gt; &lt;p&gt;You will report into the Service Transformation org and work at the intersection of AI governance, service quality, and operational transformation — operating as the connective tissue between Engineering, CX, Legal, and Compliance as Gus, Gusto&#39;s AI assistant, scales.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the Team:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The mission of our Service Transformation (CXT) team is to quickly evolve and scale how Gusto delivers outstanding service experiences and leverages AI to do so. Our team designs the systems, governance frameworks, and feedback loops that allow Gusto&#39;s service model to improve continuously,",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Manager",
+        "AI/ML",
+        "Operations"
+      ]
+    },
+    {
+      "id": "gh-gitlab-8589163002",
+      "title": "Commercial Account Executive (Mid-Market) - Australia",
+      "company": "GitLab",
+      "location": "Remote, Australia",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8589163002",
+      "postedAt": "2026-07-05T20:50:30-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;As a Commercial Account Executive focused on New Zealand, you&#39;ll drive GitLab&#39;s growth by helping the majority of New Zealand&#39;s organizations adopt, implement, and expand our AI-powered DevSecOps platform. New Zealand is a strategic focus market for GitLab, and outside of a small number of named strategic accounts, the vast majority of the New Zealand market sits within Commercial - meaning this role carries the scope, complexity, and customer seniority typically associated with Enterprise coverage. You&#39;ll focus on guiding customers through their AI and DevSecOps journeys and driving pipeline generation that translates into measurable new ARR and long-term expansion. In this role, you&#39;ll act as a key connector between customer stakeholders and GitLab&#39;s field organization so GitLab is seen as a trusted, long-term partner across the full sales cycle. You&#39;ll also mentor and coach fellow team members, sharing knowledge and learnings to elevate team performance. In your first year at this level, you&#39;ll deepen executive-level customer relationships, continue building a healthy book of business, and demonstrate consistent top-tier performance while supporting the growth of your peers.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Own and grow a book of mid-market commercial accounts in your territory, focusing on",
+      "salary": null,
+      "tags": [
+        "AI/ML",
+        "Marketing",
+        "Sales"
+      ]
+    },
+    {
+      "id": "gh-gitlab-8615946002",
+      "title": "Engineering Manager, Cell Infrastructure",
+      "company": "GitLab",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8615946002",
+      "postedAt": "2026-07-06T09:34:36-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt; &lt;div&gt;An overview of this role&lt;/div&gt; &lt;div&gt;&lt;br&gt;As &lt;strong&gt;Manager / Senior Manager, Cell Infrastructure&lt;/strong&gt;, you&#39;ll help shape the foundation that lets GitLab run reliably across multiple cloud providers in the agentic era. As more enterprise customers adopt AI-driven development workflows, GitLab needs a cell-based infrastructure that can scale horizontally, support strong reliability, and operate with clear cost efficiency. In this role, you&#39;ll report to the &lt;strong&gt;VP Engineering, Platform Scale &amp;amp; Architecture&lt;/strong&gt; and lead a 0 to 1 effort to build the control layer that determines how GitLab cells are provisioned, placed, and operated across clouds.&lt;/div&gt; &lt;div&gt;&lt;br&gt;This is a high-impact leadership role where you&#39;ll define architecture as much as you&#39;ll deliver it. In your first year, you&#39;ll help establish the technical direction for multi-cloud cell infrastructure, build and grow the team based on level, and create the operational model for reliability, developer enablement, and cost visibility. You&#39;ll work across platform, infrastructure, CI/CD, and AI-related areas, including support for the &lt;strong&gt;Duo Agent Platform&lt;/strong&gt;, to make sure the cellular substrate can meet GitLab&#39;s next stage of scale.&lt;/div&gt; &lt",
+      "salary": null,
+      "tags": [
+        "Manager",
+        "AI/ML",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "gh-gitlab-8613199002",
+      "title": "Manager, Customer Success Managers, EMEA",
+      "company": "GitLab",
+      "location": "Remote, Austria; Remote, Germany",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8613199002",
+      "postedAt": "2026-07-06T02:41:32-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;The Customer Success Management (CSM) team focuses on the themes of align, enable, and expand. We align with customers’ desired business outcomes, enable them on their existing use cases, and work with them to expand into additional use cases, ensuring ongoing and ever-improving customer return-on-investment.&lt;/p&gt; &lt;p&gt;Additionally, our team serves as liaisons between the customer and the GitLab ecosystem, streamlining collaboration with Product Management, Engineering, Sales, Professional Services, and others. &lt;a href=&quot;https://handbook.gitlab.com/handbook/customer-success/csm&quot;&gt;CSM handbook&lt;/a&gt;.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Mentor and enable the team to exceed company growth and retention forecasts&lt;/li&gt; &lt;li&gt;Work with the Customer Success Director to help establish and manage goals and responsibilities for CSMs&lt;/li&gt; &lt;li&gt;Manage a team of highly motivated, customer-focused CSMs to manage the overall health and care of accounts (e.g., onboarding customers, stage adoption, executive business reviews, and successful renewals)&lt;/li&gt; &lt;li&gt;Ensure the CSMs exceed GitLab expectations in core knowledge, communication, and execution&lt;/li&gt; &lt;li&gt;Challenge the team and yourself to learn and grow as trusted advisors to customers continually&lt;/li&gt; &lt;li&gt;Pr",
+      "salary": null,
+      "tags": [
+        "Manager",
+        "AI/ML"
+      ]
+    },
+    {
+      "id": "gh-gitlab-8584282002",
+      "title": "Senior Program Manager, Enterprise Technology & AI",
+      "company": "GitLab",
+      "location": "Remote, Bangalore",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8584282002",
+      "postedAt": "2026-07-06T08:34:18-04:00",
+      "source": "greenhouse",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;An overview of this role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a &lt;strong&gt;Senior Program Manager &lt;/strong&gt;within GitLab&#39;s Enterprise Technology organization, you will lead the planning, execution, and delivery of complex, cross-functional technology programs that advance our enterprise IT strategy. You&#39;ll serve as a trusted advisor and program execution partner to IT leadership, translating strategic objectives into structured roadmaps and measurable outcomes. This is a highly visible role that requires both technical fluency and business acumen, with the ability to navigate ambiguity, align diverse stakeholders, and drive decisions across teams.&lt;/p&gt; &lt;p&gt;You will operate at the intersection of IT, Finance, Legal, Product, and Business operations, bringing structure and clarity to programs that span multiple domains and functions. Whether standing up new capabilities, improving governance practices, or scaling operational processes, you will be the connective tissue that keeps programs moving, risks surfaced, and stakeholders informed.&lt;br&gt;&lt;br&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Own end-to-end program management for large-scale or high-complexity Enterprise Technology &amp;amp; AI initiatives, including scope definition, roadmap development, resource planning, and delivery",
+      "salary": null,
+      "tags": [
+        "Senior",
+        "Manager",
+        "AI/ML",
+        "Product"
+      ]
+    }
+  ]
 }
